@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "generatedAt": "2026-10-06T07:06:56.874Z",
+  "generatedAt": "2026-10-06T07:24:13.635Z",
   "timezone": "Asia/Shanghai",
   "sections": [
     {
@@ -17,6 +17,16 @@
           "kind": "news",
           "date": "2026-10-06T01:43:42.000Z",
           "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261006-471955-header.jpg"
+        },
+        {
+          "title": "Nintendo Announces Another Switch 2 Hardware Bundle",
+          "link": "https://www.nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle",
+          "source": "Nintendo Life",
+          "sourceId": "nintendolife",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-06T04:55:00.000Z",
+          "image": "https://images.nintendolife.com/84398a2b4ba21/large.jpg"
         },
         {
           "title": "希少疾患を患う開発者が，自分の身体と向き合ってきた経験をゲームのモチーフに。皮膚や記憶でできた世界を旅する「MeMoMi Remake」，体験版配信開始",
@@ -39,23 +49,13 @@
           "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/SS_014-1024x576.png"
         },
         {
-          "title": "Nintendo Announces Another Switch 2 Hardware Bundle",
-          "link": "https://www.nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle",
-          "source": "Nintendo Life",
-          "sourceId": "nintendolife",
-          "lang": "en",
-          "kind": "news",
-          "date": "2026-10-06T04:55:00.000Z",
-          "image": "https://images.nintendolife.com/84398a2b4ba21/large.jpg"
-        },
-        {
-          "title": "「ハロウィン ザ・ゲーム」，DLC第1弾が10月28日に配信決定。無料マップ「タワー・ファーム」と映画版マイケルの新スキン2種を追加",
-          "link": "https://www.4gamer.net/games/938/G093878/20261006007/",
+          "title": "霊があふれる廃村で，雛人形と大学生が一緒に行動する。ホラー探索ADV「帰路」，体験版をSteamで配信開始",
+          "link": "https://www.4gamer.net/games/047/G104799/20261006024/",
           "source": "4Gamer.net",
           "sourceId": "4gamer",
           "lang": "ja",
           "kind": "news",
-          "date": "2026-10-06T03:49:46.000Z",
+          "date": "2026-10-06T07:13:33.000Z",
           "image": ""
         }
       ],
@@ -74,7 +74,7 @@
           "lang": "ja",
           "kind": "news",
           "date": "2026-10-05T10:40:03.000Z",
-          "image": ""
+          "image": "https://animeanime.jp/imgs/ogp_f/939116.jpg"
         },
         {
           "title": "「マクロス7」「WHITE ALBUM2」などで知られるアニメーター・桂憲一郎氏が2026年9月30日に逝去。アクアプラスも追悼コメントを発表",
@@ -84,16 +84,16 @@
           "lang": "ja",
           "kind": "news",
           "date": "2026-10-05T10:10:56.000Z",
-          "image": "https://www.4gamer.net/games/999/G999905/20261005038/SS/002.jpg"
+          "image": ""
         },
         {
-          "title": "急川回レの小説『奴隷からの期待と評価のせいで搾取できないのだが』TVアニメ化決定",
-          "link": "https://realsound.jp/movie/2026/10/post-2544573.html",
-          "source": "Real Sound 映画部",
-          "sourceId": "realsound-movie",
+          "title": "「満州アヘンスクワッド」アニメ化決定＆漫画にツルシマ迎え連載再開！アヘンの密造巡るクライム・サスペンス",
+          "link": "https://animeanime.jp/article/2026/10/05/103521.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
           "lang": "ja",
           "kind": "news",
-          "date": "2026-10-06T03:50:42.000Z",
+          "date": "2026-10-05T02:35:02.000Z",
           "image": ""
         },
         {
@@ -117,7 +117,7 @@
           "image": ""
         }
       ],
-      "image": "https://www.4gamer.net/games/999/G999905/20261005038/SS/002.jpg"
+      "image": "https://animeanime.jp/imgs/ogp_f/939116.jpg"
     },
     {
       "key": "manga",
@@ -213,16 +213,6 @@
           "image": ""
         },
         {
-          "title": "ウルトロンとの異色な“AIバディ”誕生「ヴィジョンクエスト」本予告が解禁",
-          "link": "https://www.cinemacafe.net/article/2026/10/06/113108.html",
-          "source": "シネマカフェ",
-          "sourceId": "cinemacafe",
-          "lang": "ja",
-          "kind": "news",
-          "date": "2026-10-06T01:15:03.000Z",
-          "image": ""
-        },
-        {
           "title": "George Fenton, Oscar-Nominated Composer for ‘Cry Freedom’ and ‘Dangerous Liaisons,’ Dies at 76",
           "link": "https://www.hollywoodreporter.com/movies/movie-news/george-fenton-dead-film-composer-1236723045/",
           "source": "Hollywood Reporter",
@@ -230,6 +220,16 @@
           "lang": "en",
           "kind": "news",
           "date": "2026-10-06T03:32:20.000Z",
+          "image": ""
+        },
+        {
+          "title": "ウルトロンとの異色な“AIバディ”誕生「ヴィジョンクエスト」本予告が解禁",
+          "link": "https://www.cinemacafe.net/article/2026/10/06/113108.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-06T01:15:03.000Z",
           "image": ""
         }
       ],
@@ -295,11 +295,11 @@
     }
   ],
   "stats": {
-    "sources": 28,
-    "sourcesOk": 27,
-    "fetched": 1216,
-    "accepted": 567,
-    "filtered": 649,
+    "sources": 35,
+    "sourcesOk": 29,
+    "fetched": 1372,
+    "accepted": 618,
+    "filtered": 754,
     "heroImages": 5
   }
 }
