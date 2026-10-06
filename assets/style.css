@@ -300,9 +300,36 @@ body {
 
 .hero-body {
   position: relative;
-  margin-top: -46px;
   padding: 0 16px 15px;
 }
+
+.hero-media + .hero-body { margin-top: -46px; }
+
+/* 抓不到配图时的兜底版式：板块名做水印，别有"缺图"的感觉 */
+.hero.no-media {
+  min-height: 132px;
+  display: flex;
+  align-items: flex-end;
+  background:
+    radial-gradient(135% 130% at 0% 0%, color-mix(in srgb, var(--accent) 30%, transparent), transparent 62%),
+    linear-gradient(180deg, #1b2130, #141822);
+}
+
+.hero.no-media::after {
+  content: attr(data-en);
+  position: absolute;
+  right: 12px;
+  bottom: -10px;
+  font-size: 54px;
+  font-weight: 700;
+  letter-spacing: .05em;
+  line-height: 1;
+  color: color-mix(in srgb, var(--accent) 13%, transparent);
+  pointer-events: none;
+  user-select: none;
+}
+
+.hero.no-media .hero-body { padding-top: 16px; }
 
 .rank {
   display: inline-block;

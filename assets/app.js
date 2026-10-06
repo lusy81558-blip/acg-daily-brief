@@ -74,11 +74,12 @@
     return meta;
   }
 
-  function renderHero(item, index, image) {
+  function renderHero(item, index, image, en) {
     var a = el('a', 'hero');
     a.href = item.link;
     a.target = '_blank';
     a.rel = 'noopener noreferrer';
+    a.dataset.en = en || '';
 
     if (image) {
       var media = el('div', 'hero-media');
@@ -92,6 +93,8 @@
       media.appendChild(img);
       media.appendChild(el('div', 'hero-veil'));
       a.appendChild(media);
+    } else {
+      a.classList.add('no-media');
     }
 
     var body = el('div', 'hero-body');
@@ -150,7 +153,7 @@
     var items = sec.items || [];
     if (items.length) {
       var heroImage = items[0].image || sec.image || '';
-      section.appendChild(renderHero(items[0], 0, heroImage));
+      section.appendChild(renderHero(items[0], 0, heroImage, sec.en));
 
       if (items.length > 1) {
         var ul = el('ul', 'items');
