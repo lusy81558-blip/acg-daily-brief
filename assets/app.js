@@ -219,6 +219,25 @@
     renderDate(DATA.days[hash] ? hash : DATA.today);
   }
 
+  /** 本地打开和云端访问，提示语不一样 */
+  function setFooterHint() {
+    var hint = document.getElementById('footerHint');
+    if (!hint) return;
+    var m = /^([^.]+)\.github\.io$/.exec(location.hostname);
+    if (!m) return;
+    var repo = location.pathname.split('/').filter(Boolean)[0] || '';
+    hint.innerHTML = '';
+    hint.appendChild(document.createTextNode('← → 切换日期 · 每天 07:00 自动更新'));
+    if (repo) {
+      hint.appendChild(document.createTextNode(' · '));
+      var a = el('a', null, '手动触发更新');
+      a.href = 'https://github.com/' + m[1] + '/' + repo + '/actions';
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+      hint.appendChild(a);
+    }
+  }
+
   document.addEventListener('keydown', function (e) {
     if (!DATA || !DATA.dates || !current) return;
     var idx = DATA.dates.indexOf(current);
@@ -228,4 +247,5 @@
   });
 
   boot();
+  setFooterHint();
 })();

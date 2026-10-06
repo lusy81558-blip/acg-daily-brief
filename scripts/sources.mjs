@@ -22,7 +22,7 @@ export const CLOUD_ONLY = [
   { id: 'gnews-manga', name: 'Google News 漫画', section: 'manga', lang: 'ja', weight: 0.7, cloudOnly: true, stripSourceSuffix: true,
     url: 'https://news.google.com/rss/search?q=%E6%BC%AB%E7%94%BB+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja' },
   { id: 'gnews-natalie-comic', name: 'Google News コミックナタリー', section: 'manga', lang: 'ja', weight: 0.9, cloudOnly: true, stripSourceSuffix: true,
-    url: 'https://news.google.com/rss/search?q=site%3Anatalie.mu+%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja' },
+    url: 'https://news.google.com/rss/search?q=site%3Anatalie.mu+%E9%80%A3%E8%BC%89+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja' },
 ];
 
 export const LOCAL_SOURCES = [
