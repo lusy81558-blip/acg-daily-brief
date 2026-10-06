@@ -31,7 +31,10 @@ createServer(async (req, res) => {
       return;
     }
     const body = await readFile(file);
-    res.writeHead(200, { 'content-type': TYPES[path.extname(file)] || 'application/octet-stream' });
+    res.writeHead(200, {
+      'content-type': TYPES[path.extname(file)] || 'application/octet-stream',
+      'cache-control': 'no-store',
+    });
     res.end(body);
   } catch {
     res.writeHead(404, { 'content-type': 'text/plain; charset=utf-8' }).end('not found');

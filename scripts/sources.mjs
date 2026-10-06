@@ -7,8 +7,19 @@
 // lang    : ja | en | zh
 // weight  : 站点权重，参与"事件重要性"打分，1.0 为最高
 // timeout : 毫秒，个别站点较慢需放宽
+// cloudOnly : 仅云端（GitHub Actions）使用——这些站点在国内网络下被墙或被反爬拦截
 
-export const SOURCES = [
+export const CLOUD_ONLY = [
+  { id: 'natalie-comic', name: 'コミックナタリー', section: 'manga', lang: 'ja', weight: 1.0, cloudOnly: true, url: 'https://natalie.mu/comic/feed/news' },
+  { id: 'natalie-eiga',  name: '映画ナタリー',     section: 'movie', lang: 'ja', weight: 1.0, cloudOnly: true, url: 'https://natalie.mu/eiga/feed/news' },
+  { id: 'natalie-music', name: '音楽ナタリー',     section: 'music', lang: 'ja', weight: 1.0, cloudOnly: true, url: 'https://natalie.mu/music/feed/news' },
+  { id: 'ann',           name: 'Anime News Network', section: 'anime', lang: 'en', weight: 1.0, cloudOnly: true, url: 'https://www.animenewsnetwork.com/all/rss.xml' },
+  { id: 'ann-manga',     name: 'ANN Manga',        section: 'manga', lang: 'en', weight: 0.8, cloudOnly: true, url: 'https://www.animenewsnetwork.com/manga/rss.xml' },
+  { id: 'oricon',        name: 'ORICON NEWS',      section: 'music', lang: 'ja', weight: 0.9, cloudOnly: true, url: 'https://www.oricon.co.jp/rss/news.xml' },
+  { id: 'eiga',          name: '映画.com',         section: 'movie', lang: 'ja', weight: 0.8, cloudOnly: true, url: 'https://eiga.com/rss/' },
+];
+
+export const LOCAL_SOURCES = [
   // ---------- 游戏 ----------
   { id: '4gamer',    name: '4Gamer.net',       section: 'game', lang: 'ja', weight: 1.0, url: 'https://www.4gamer.net/rss/index.xml' },
   { id: 'denfami',   name: '電ファミニコゲーマー', section: 'game', lang: 'ja', weight: 0.9, url: 'https://news.denfaminicogamer.jp/feed' },
@@ -49,6 +60,9 @@ export const SOURCES = [
   // ---------- 跨领域源（按关键词自动分流） ----------
   { id: 'gigazine', name: 'GIGAZINE', section: 'misc', lang: 'ja', weight: 0.9, timeout: 25000, url: 'https://gigazine.net/news/rss_2.0/' },
 ];
+
+// 云端环境（GitHub Actions 会设置 CI=true）额外启用被墙的源，覆盖面更广
+export const SOURCES = process.env.CI ? [...LOCAL_SOURCES, ...CLOUD_ONLY] : LOCAL_SOURCES;
 
 export const SECTIONS = [
   { key: 'game',  label: '游戏', en: 'GAMES' },

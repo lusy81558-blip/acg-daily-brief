@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "generatedAt": "2026-10-06T07:04:14.112Z",
+  "generatedAt": "2026-10-06T07:06:56.874Z",
   "timezone": "Asia/Shanghai",
   "sections": [
     {
@@ -74,7 +74,7 @@
           "lang": "ja",
           "kind": "news",
           "date": "2026-10-05T10:40:03.000Z",
-          "image": "https://animeanime.jp/imgs/ogp_f/939116.jpg"
+          "image": ""
         },
         {
           "title": "「マクロス7」「WHITE ALBUM2」などで知られるアニメーター・桂憲一郎氏が2026年9月30日に逝去。アクアプラスも追悼コメントを発表",
@@ -84,16 +84,16 @@
           "lang": "ja",
           "kind": "news",
           "date": "2026-10-05T10:10:56.000Z",
-          "image": ""
+          "image": "https://www.4gamer.net/games/999/G999905/20261005038/SS/002.jpg"
         },
         {
-          "title": "「満州アヘンスクワッド」アニメ化決定＆漫画にツルシマ迎え連載再開！アヘンの密造巡るクライム・サスペンス",
-          "link": "https://animeanime.jp/article/2026/10/05/103521.html",
-          "source": "アニメ！アニメ！",
-          "sourceId": "animeanime",
+          "title": "急川回レの小説『奴隷からの期待と評価のせいで搾取できないのだが』TVアニメ化決定",
+          "link": "https://realsound.jp/movie/2026/10/post-2544573.html",
+          "source": "Real Sound 映画部",
+          "sourceId": "realsound-movie",
           "lang": "ja",
           "kind": "news",
-          "date": "2026-10-05T02:35:02.000Z",
+          "date": "2026-10-06T03:50:42.000Z",
           "image": ""
         },
         {
@@ -107,17 +107,17 @@
           "image": "https://magmix.jp/wp-content/uploads/2027/10/260930-aki100-00.jpg"
         },
         {
-          "title": "庵野秀明が製作総指揮・監督、出渕裕が共同監督！「宇宙戦艦ヤマト√2199」Production I.G × スタジオカラーで制作決定",
-          "link": "https://animeanime.jp/article/2026/10/06/103549.html",
+          "title": "「名探偵コナン」新一も、灰原も、怪盗キッドも登場！アニメ歴代OP・EDの場面写がズラリ◎ 全33種のキャラカード付きスナック第7弾が発売開始",
+          "link": "https://animeanime.jp/article/2026/10/05/103533.html",
           "source": "アニメ！アニメ！",
           "sourceId": "animeanime",
           "lang": "ja",
           "kind": "news",
-          "date": "2026-10-06T01:05:03.000Z",
+          "date": "2026-10-05T07:30:04.000Z",
           "image": ""
         }
       ],
-      "image": "https://animeanime.jp/imgs/ogp_f/939116.jpg"
+      "image": "https://www.4gamer.net/games/999/G999905/20261005038/SS/002.jpg"
     },
     {
       "key": "manga",
@@ -296,9 +296,9 @@
   ],
   "stats": {
     "sources": 28,
-    "sourcesOk": 28,
-    "fetched": 1226,
-    "accepted": 577,
+    "sourcesOk": 27,
+    "fetched": 1216,
+    "accepted": 567,
     "filtered": 649,
     "heroImages": 5
   }
