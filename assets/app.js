@@ -197,6 +197,99 @@
     return section;
   }
 
+  /* ============ 每日一句（按日期决定，同一天刷新不变） ============ */
+
+  function hashInt(s) {
+    var h = 2166136261;
+    for (var i = 0; i < s.length; i++) {
+      h ^= s.charCodeAt(i);
+      h = Math.imul(h, 16777619);
+    }
+    return Math.abs(h);
+  }
+
+  function normQuote(s) {
+    return String(s || '').replace(/[\s「」『』“”"'’‘·。，、！？!?.,]/g, '');
+  }
+
+  /** 今天的每日一句：随机挑一句，且不与"板块无新闻时的占位名句"重复 */
+  function pickDailyQuote(dateKey, day) {
+    var pool = DATA.dailyQuotes || [];
+    if (!pool.length) return null;
+
+    var blocked = {};
+    (day.sections || []).forEach(function (sec) {
+      if (sec.quote && sec.quote.text) blocked[normQuote(sec.quote.text)] = 1;
+    });
+
+    // 近 7 天用过的句子也避开，连着几天看到同一句会很无聊
+    var at = DATA.dates ? DATA.dates.indexOf(dateKey) : -1;
+    for (var k = 1; k <= 7 && at - k >= 0; k++) {
+      var prevKey = DATA.dates[at - k];
+      var pick = pool[hashInt('daily:' + prevKey) % pool.length];
+      if (pick) blocked[normQuote(pick.text)] = 1;
+    }
+
+    var start = hashInt('daily:' + dateKey) % pool.length;
+    for (var i = 0; i < pool.length; i++) {
+      var cand = pool[(start + i) % pool.length];
+      if (!blocked[normQuote(cand.text)]) return cand;
+    }
+    return pool[start];
+  }
+
+  function renderDailyQuote(day, dateKey, index) {
+    var q = pickDailyQuote(dateKey, day);
+    if (!q) return null;
+
+    var card = el('aside', 'quote-card');
+    card.style.animationDelay = (index * 55 + 60) + 'ms';
+    card.appendChild(el('span', 'quote-card-mark', '\u201C'));
+    card.appendChild(el('p', 'quote-card-text', q.text));
+
+    var who = q.author && q.author !== '\u2014' ? q.author : '';
+    var work = q.work && q.work !== '\u2014' ? '\u300C' + q.work + '\u300D' : '';
+    if (who || work) {
+      var from = el('div', 'quote-card-from');
+      if (who) from.appendChild(el('span', null, who));
+      if (work) {
+        if (who) from.appendChild(el('span', null, ' / '));
+        from.appendChild(el('span', 'work', work));
+      }
+      card.appendChild(from);
+    }
+    return card;
+  }
+
+  /* ============ 历史上的今天（ACG 限定） ============ */
+
+  var KIND_LABEL = { game: '游戏', anime: '动画', movie: '剧场版', manga: '漫画' };
+  var KIND_ACTION = { game: '发售', anime: '开播', movie: '上映', manga: '开始连载' };
+
+  function renderHistory(items, index) {
+    var section = el('section', 'section');
+    section.dataset.key = 'history';
+    section.style.animationDelay = (index * 55 + 60) + 'ms';
+
+    var head = el('header', 'section-head');
+    head.appendChild(el('span', 'dot'));
+    head.appendChild(el('h2', null, '历史上的今天'));
+    head.appendChild(el('span', 'en', 'ON THIS DAY · ACG'));
+    head.appendChild(el('span', 'count', items.length + ' 件'));
+    section.appendChild(head);
+
+    var ul = el('ul', 'hist-items');
+    items.forEach(function (it) {
+      var li = el('li', 'hist-item');
+      li.appendChild(el('span', 'hist-year', String(it.year)));
+      li.appendChild(el('span', 'hist-kind', KIND_LABEL[it.kind] || 'ACG'));
+      li.appendChild(el('span', 'hist-text', '\u300A' + it.title + '\u300B' + (KIND_ACTION[it.kind] || '')));
+      ul.appendChild(li);
+    });
+    section.appendChild(ul);
+    return section;
+  }
+
   function renderDate(dateKey) {
     var day = DATA.days[dateKey];
     if (!day) return;
@@ -212,6 +305,12 @@
     var bd = renderBirthday(day.birthdays);
     if (bd) board.appendChild(bd);
     day.sections.forEach(function (sec, i) { board.appendChild(renderSection(sec, i)); });
+
+    var history = (DATA.historyIndex || {})[dateKey];
+    if (history && history.length) board.appendChild(renderHistory(history, day.sections.length));
+
+    var quoteCard = renderDailyQuote(day, dateKey, day.sections.length + 1);
+    if (quoteCard) board.appendChild(quoteCard);
 
     if (day.stats) {
       footerStats.textContent =

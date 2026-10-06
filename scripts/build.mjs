@@ -12,6 +12,7 @@ import { isMobileGacha, routeSection, scoreItem, dedupe } from './lib/classify.m
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const DATA_DIR = path.join(ROOT, 'data');
 const PER_SECTION = 5;        // 每板块展示条数
+const HISTORY_PER_DAY = 4;    // 「历史上的今天」每天展示条数
 const MAX_AGE_HOURS = 48;     // 只收最近 48 小时的内容
 const HISTORY_DAYS = 30;      // 前端可回看的天数
 const MIN_SCORE = 9;          // 新闻类条目的最低分，低于此分视为噪音
@@ -43,6 +44,35 @@ async function loadBirthdays() {
   } catch {
     return {};
   }
+}
+
+/** ACG「历史上的今天」缓存（scripts/build-onthisday.mjs 生成） */
+async function loadOnThisDay() {
+  try {
+    const raw = JSON.parse(await readFile(path.join(DATA_DIR, 'onthisday.json'), 'utf8'));
+    return raw.days || {};
+  } catch {
+    return {};
+  }
+}
+
+/**
+ * 每日一句的句子池：直接把名句库 data/quotes.json 摊平（各板块合并、按句子去重）。
+ * 挑句子 + 避开"当天占位名句"的逻辑在前端 assets/app.js 里。
+ */
+function quotePool(quotes) {
+  const pool = [];
+  const seen = new Set();
+  for (const [key, list] of Object.entries(quotes)) {
+    if (key.startsWith('_') || !Array.isArray(list)) continue;
+    for (const q of list) {
+      const text = q && typeof q.text === 'string' ? q.text.trim() : '';
+      if (!text || seen.has(text)) continue;
+      seen.add(text);
+      pool.push({ text, author: q.author || '—', work: q.work || '' });
+    }
+  }
+  return pool;
 }
 
 /** 今天的角色生日（按人气排序，最多 3 位） */
@@ -197,6 +227,8 @@ async function main() {
   await mkdir(DATA_DIR, { recursive: true });
   const quotes = await loadQuotes();
   const birthdayTable = await loadBirthdays();
+  const onthisday = await loadOnThisDay();
+  const dailyQuotes = quotePool(quotes);
 
   log('==========================================');
   log('   一觉起来发生了啥？ - 早报更新');
@@ -239,7 +271,16 @@ async function main() {
   const { days, dates } = await loadHistory();
   days[today] = brief;
   const allDates = [...new Set([...dates, today])].sort().slice(-HISTORY_DAYS);
-  const payload = { generatedAt: new Date().toISOString(), today, dates: allDates, days };
+
+  // 按日期带上「历史上的今天」，前端切日期时不用再请求
+  const historyIndex = {};
+  for (const d of allDates) {
+    const list = onthisday[d.slice(5)];
+    if (list && list.length) historyIndex[d] = list.slice(0, HISTORY_PER_DAY);
+  }
+  log(`      历史上的今天 ${Object.keys(historyIndex).length} 天 · 每日一句 ${dailyQuotes.length} 句`);
+
+  const payload = { generatedAt: new Date().toISOString(), today, dates: allDates, days, dailyQuotes, historyIndex };
   await writeFile(path.join(DATA_DIR, 'brief.js'), `window.BRIEF_DATA = ${JSON.stringify(payload)};\n`, 'utf8');
   // JSON 版本供页面无缓存拉取（brief.js 保留给 file:// 直接打开的场景兜底）
   await writeFile(path.join(DATA_DIR, 'brief.json'), JSON.stringify(payload), 'utf8');

@@ -32,6 +32,10 @@ jobs:
         with:
           node-version: '20'
 
+      - name: 补齐 ACG 历史上的今天（可选，失败不影响早报）
+        run: node scripts/build-onthisday.mjs --days=60
+        continue-on-error: true
+
       - name: 生成早报
         run: node scripts/build.mjs
 
