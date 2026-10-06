@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "generatedAt": "2026-10-06T07:42:32.593Z",
+  "generatedAt": "2026-10-06T07:44:55.323Z",
   "timezone": "Asia/Shanghai",
   "sections": [
     {
@@ -135,14 +135,34 @@
           "image": ""
         },
         {
-          "title": "『ダンボ』公開85周年！ヴィンテージコミック風の新コレクションがディズニーストアに登場",
-          "link": "https://www.cinemacafe.net/article/2026/10/06/113122.html",
-          "source": "シネマカフェ",
-          "sourceId": "cinemacafe",
+          "title": "台湾メシ×オカルト「台湾グルメ怪異録」ご飯を美味しく食べて霊の未練を晴らす新連載（試し読みあり）",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wSGl6Q04xSDhVc013ZjJLWUl3NEJTVWtGSjBaeGxhaDJreTVnRVdhVjZJU3hqQWpGTFktX0VvTEwtWW8waXBOWm13ZWs?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
           "lang": "ja",
           "kind": "news",
-          "date": "2026-10-06T07:30:03.000Z",
-          "image": "https://www.cinemacafe.net/imgs/ogp_f/837641.jpg"
+          "date": "2026-10-06T03:03:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "社畜の先輩後輩が食欲、睡眠欲、性欲を満たすラブコメ新連載「たいへん欲できました」",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Nd0k2bDVYNU96bTRHeFp6Mi13NTdqeWlJVEktdlBBMVFhSXZnXzJNeUc5RGFIbWpSS29zanAyMjRHQlphaldXWk9EVXk?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-06T06:30:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "居候相手は冥界の魔狼、自称犬の男と犬好き会社員の同居コメディ新連載",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ZOEFMRWE4S2x3RFVfVVAwMzYyMnBodElIUTBDYmNpMlNZNFBPbjdXMXNhQ0s4cGdOdC1tLTA1R0xTbWVJNWZrYTUxQnQ?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-06T05:00:00.000Z",
+          "image": ""
         },
         {
           "title": "キルタイム異世界漫画原作大賞【編集部特別賞】受賞作品『ダンジョン領主の下克上～いきなりド底辺ダンジョンのマスターにされたゲームデザイナー、ブラック業界を生き抜いた社畜能力で運命を切り開く～1』発売",
@@ -153,29 +173,9 @@
           "kind": "news",
           "date": "2026-10-06T03:10:01.000Z",
           "image": ""
-        },
-        {
-          "title": "TBWA HAKUHODOが企画・制作に参画した人類初の試み 宇宙空間で漫画を描く！『宇宙兄弟』完結記念「Mission: SPACE COMIC」 その全軌跡を追った特別映像の完全版が公開",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wbmNFVHlFby1yRHBCVTFMZ1JXc290U3pQdlI5VFdYYktPYng2LVVfaWlzaDlHQ3NESkRxU0NWY2ltN3NtWG5GNjRhWmVfYi1UMF9EMWp0VHRSOFJEYWZaY3hQTHZidkkteWc?oc=5",
-          "source": "Google News 漫画",
-          "sourceId": "gnews-manga",
-          "lang": "ja",
-          "kind": "news",
-          "date": "2026-10-06T01:00:03.000Z",
-          "image": ""
-        },
-        {
-          "title": "台湾メシ×オカルト「台湾グルメ怪異録」ご飯を美味しく食べて霊の未練を晴らす新連載（試し読みあり）",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wSGl6Q04xSDhVc013ZjJLWUl3NEJTVWtGSjBaeGxhaDJreTVnRVdhVjZJU3hqQWpGTFktX0VvTEwtWW8waXBOWm13ZWs?oc=5",
-          "source": "Google News コミックナタリー",
-          "sourceId": "gnews-natalie-comic",
-          "lang": "ja",
-          "kind": "news",
-          "date": "2026-10-06T03:03:00.000Z",
-          "image": ""
         }
       ],
-      "image": "https://www.cinemacafe.net/imgs/ogp_f/837641.jpg"
+      "image": ""
     },
     {
       "key": "movie",
@@ -297,9 +297,9 @@
   "stats": {
     "sources": 37,
     "sourcesOk": 31,
-    "fetched": 1571,
+    "fetched": 1572,
     "accepted": 819,
-    "filtered": 752,
-    "heroImages": 5
+    "filtered": 753,
+    "heroImages": 4
   }
 }
