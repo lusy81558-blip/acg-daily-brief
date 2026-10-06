@@ -241,6 +241,8 @@ async function main() {
   const allDates = [...new Set([...dates, today])].sort().slice(-HISTORY_DAYS);
   const payload = { generatedAt: new Date().toISOString(), today, dates: allDates, days };
   await writeFile(path.join(DATA_DIR, 'brief.js'), `window.BRIEF_DATA = ${JSON.stringify(payload)};\n`, 'utf8');
+  // JSON 版本供页面无缓存拉取（brief.js 保留给 file:// 直接打开的场景兜底）
+  await writeFile(path.join(DATA_DIR, 'brief.json'), JSON.stringify(payload), 'utf8');
   await writeFile(path.join(DATA_DIR, 'index.json'), JSON.stringify({ today, dates: allDates }, null, 2), 'utf8');
 
   log('[OK] 完成');

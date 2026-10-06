@@ -2,7 +2,7 @@
 (function () {
   'use strict';
 
-  var DATA = window.BRIEF_DATA;
+  var DATA = null;
   var board = document.getElementById('board');
   var dateBar = document.getElementById('dateBar');
   var dateLabel = document.getElementById('dateLabel');
@@ -238,7 +238,8 @@
     });
   }
 
-  function boot() {
+  function boot(data) {
+    DATA = data;
     if (!DATA || !DATA.days || !DATA.dates || !DATA.dates.length) {
       board.innerHTML = '';
       var err = el('p', 'error');
@@ -279,6 +280,21 @@
     if (e.key === 'ArrowRight' && idx > 0) renderDate(DATA.dates[idx - 1]);
   });
 
-  boot();
-  setFooterHint();
+  async function init() {
+    var data = window.BRIEF_DATA;
+    // 走 http(s) 时用 fetch 取 JSON 并禁用缓存，避免看到上一版数据；
+    // file:// 下 fetch 不可用，直接用 <script> 注入的兜底数据。
+    if (location.protocol === 'http:' || location.protocol === 'https:') {
+      try {
+        var res = await fetch('data/brief.json?t=' + Date.now(), { cache: 'no-store' });
+        if (res.ok) data = await res.json();
+      } catch (e) {
+        /* 保留 brief.js 的数据 */
+      }
+    }
+    boot(data);
+    setFooterHint();
+  }
+
+  init();
 })();
