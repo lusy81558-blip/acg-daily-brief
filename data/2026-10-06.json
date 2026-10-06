@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "generatedAt": "2026-10-06T12:54:42.907Z",
+  "generatedAt": "2026-10-06T12:57:10.708Z",
   "timezone": "Asia/Shanghai",
   "sections": [
     {
@@ -19,16 +19,6 @@
           "image": "https://www.4gamer.net/games/048/G104810/20261006043/SS/001.jpg"
         },
         {
-          "title": "「Momodora」シリーズの開発者rdein氏が手掛ける，ターン制ダンジョン探索RPG「Record of Dorathia」が発表に",
-          "link": "https://www.4gamer.net/games/048/G104811/20261006045/",
-          "source": "4Gamer.net",
-          "sourceId": "4gamer",
-          "lang": "ja",
-          "kind": "news",
-          "date": "2026-10-06T11:32:05.000Z",
-          "image": ""
-        },
-        {
           "title": "『Nintendo Switch 2（日本語・国内専用） 選べるソフト セット』発表。Switch 2本体と人気タイトルが“最大5000円”ぐらいお得に買える",
           "link": "https://automaton-media.com/articles/newsjp/20261006-471955/",
           "source": "AUTOMATON",
@@ -37,6 +27,16 @@
           "kind": "news",
           "date": "2026-10-06T01:43:42.000Z",
           "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261006-471955-header.jpg"
+        },
+        {
+          "title": "「Momodora」シリーズの開発者rdein氏が手掛ける，ターン制ダンジョン探索RPG「Record of Dorathia」が発表に",
+          "link": "https://www.4gamer.net/games/048/G104811/20261006045/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-06T11:32:05.000Z",
+          "image": ""
         },
         {
           "title": "VTuber事務所の警備員となり，来訪者をチェックする書類審査ADV「推しの中身、気になりませんか？」，体験版をSteamで配信開始",
@@ -155,13 +155,13 @@
           "image": ""
         },
         {
-          "title": "キルタイム異世界漫画原作大賞【編集部特別賞】受賞作品『ダンジョン領主の下克上～いきなりド底辺ダンジョンのマスターにされたゲームデザイナー、ブラック業界を生き抜いた社畜能力で運命を切り開く～1』発売",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UcU05NzlyMW8wTU9CaWRNVFRSdTI3QlRlUlJwLXBKaEhvaXVIbTJqeUZGZHZ0ZUhnMmp4UTNOamc4QXNKTF96UnJiSExrVzEycEZ6enBSUnpnWVRaVDNwNG1LSzFTLW5UT3c?oc=5",
+          "title": "第7回 オトナ女性漫画大賞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1CODJFN1JTdmpSdExLTk93ZFdVZ2QwS2NXWko2cjJNSDdVeF94TE9PeUhqbkI4U2MwWWRIdXMzdG1ESFF1ZWc?oc=5",
           "source": "Google News 漫画",
           "sourceId": "gnews-manga",
           "lang": "ja",
           "kind": "news",
-          "date": "2026-10-06T03:10:01.000Z",
+          "date": "2026-10-06T01:00:00.000Z",
           "image": ""
         },
         {
@@ -314,8 +314,8 @@
   "stats": {
     "sources": 37,
     "sourcesOk": 31,
-    "fetched": 1571,
-    "accepted": 839,
+    "fetched": 1572,
+    "accepted": 840,
     "filtered": 732,
     "heroImages": 4
   }
