@@ -340,7 +340,14 @@ body {
   position: relative;
   aspect-ratio: 2.35 / 1;
   overflow: hidden;
-  background: #0d1118;
+  background: linear-gradient(100deg, #12161f 25%, #1b2231 50%, #12161f 75%);
+  background-size: 220% 100%;
+  animation: heroShimmer 1.8s linear infinite;
+}
+
+@keyframes heroShimmer {
+  from { background-position: 140% 0; }
+  to   { background-position: -40% 0; }
 }
 
 .hero-media img {
@@ -349,9 +356,12 @@ body {
   object-fit: cover;
   display: block;
   transform: scale(1.01);
+  opacity: 0;
   filter: brightness(.86) saturate(.88) contrast(1.02);
-  transition: transform .6s var(--ease), filter .4s var(--ease);
+  transition: opacity .45s var(--ease), transform .6s var(--ease), filter .4s var(--ease);
 }
+
+.hero-media img.is-loaded { opacity: 1; }
 
 .hero:hover .hero-media img { transform: scale(1.05); filter: brightness(.95) saturate(.95); }
 

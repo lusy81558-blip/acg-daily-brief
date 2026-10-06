@@ -84,12 +84,13 @@
     if (image) {
       var media = el('div', 'hero-media');
       var img = document.createElement('img');
-      img.src = image;
       img.alt = '';
       img.loading = 'eager';
       img.decoding = 'async';
       img.referrerPolicy = 'no-referrer';
+      img.addEventListener('load', function () { img.classList.add('is-loaded'); });
       img.addEventListener('error', function () { media.remove(); });
+      img.src = image;
       media.appendChild(img);
       media.appendChild(el('div', 'hero-veil'));
       a.appendChild(media);
