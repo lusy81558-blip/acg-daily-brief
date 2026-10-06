@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "generatedAt": "2026-10-06T07:31:27.150Z",
+  "generatedAt": "2026-10-06T07:42:32.593Z",
   "timezone": "Asia/Shanghai",
   "sections": [
     {
@@ -125,16 +125,6 @@
       "en": "MANGA",
       "items": [
         {
-          "title": "庵野秀明が企画・製作総指揮・監督「宇宙戦艦ヤマト√2199」制作決定、ビジュアル初公開",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hdllhUkpSQzNIdTFWcXlKYndaRHl3d0FZQ3pNa0c2a2Jab3JQMGg2SUVyeHpZMk01QWd6aXhacVhIOXo4Z0JPTVVjOA?oc=5",
-          "source": "Google News コミックナタリー",
-          "sourceId": "gnews-natalie-comic",
-          "lang": "ja",
-          "kind": "news",
-          "date": "2026-10-05T23:00:00.000Z",
-          "image": ""
-        },
-        {
           "title": "アニメ「チー付与」新たなメインPV「暗殺の母（CV：柴田理恵）乱入ver.」公開（動画あり）",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9adzR0RU9DNHpkdUdxYU9CX3VvMUpHak5vaWRFenBGRjhJb2xJUTBwbkhxeFQ0dlFiT1M3TWx1YUdNa2RYOWdXdEtScVI?oc=5",
           "source": "Google News コミックナタリー",
@@ -142,6 +132,26 @@
           "lang": "ja",
           "kind": "news",
           "date": "2026-10-06T03:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "『ダンボ』公開85周年！ヴィンテージコミック風の新コレクションがディズニーストアに登場",
+          "link": "https://www.cinemacafe.net/article/2026/10/06/113122.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-06T07:30:03.000Z",
+          "image": "https://www.cinemacafe.net/imgs/ogp_f/837641.jpg"
+        },
+        {
+          "title": "キルタイム異世界漫画原作大賞【編集部特別賞】受賞作品『ダンジョン領主の下克上～いきなりド底辺ダンジョンのマスターにされたゲームデザイナー、ブラック業界を生き抜いた社畜能力で運命を切り開く～1』発売",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UcU05NzlyMW8wTU9CaWRNVFRSdTI3QlRlUlJwLXBKaEhvaXVIbTJqeUZGZHZ0ZUhnMmp4UTNOamc4QXNKTF96UnJiSExrVzEycEZ6enBSUnpnWVRaVDNwNG1LSzFTLW5UT3c?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-06T03:10:01.000Z",
           "image": ""
         },
         {
@@ -155,27 +165,17 @@
           "image": ""
         },
         {
-          "title": "キルタイム異世界漫画原作大賞【編集部特別賞】受賞作品『ダンジョン領主の下克上～いきなりド底辺ダンジョンのマスターにされたゲームデザイナー、ブラック業界を生き抜いた社畜能力で運命を切り開く～1』発売",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UcU05NzlyMW8wTU9CaWRNVFRSdTI3QlRlUlJwLXBKaEhvaXVIbTJqeUZGZHZ0ZUhnMmp4UTNOamc4QXNKTF96UnJiSExrVzEycEZ6enBSUnpnWVRaVDNwNG1LSzFTLW5UT3c?oc=5",
-          "source": "Google News 漫画",
-          "sourceId": "gnews-manga",
-          "lang": "ja",
-          "kind": "news",
-          "date": "2026-10-06T03:10:01.000Z",
-          "image": ""
-        },
-        {
-          "title": "社畜の先輩後輩が食欲、睡眠欲、性欲を満たすラブコメ新連載「たいへん欲できました」",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Nd0k2bDVYNU96bTRHeFp6Mi13NTdqeWlJVEktdlBBMVFhSXZnXzJNeUc5RGFIbWpSS29zanAyMjRHQlphaldXWk9EVXk?oc=5",
+          "title": "台湾メシ×オカルト「台湾グルメ怪異録」ご飯を美味しく食べて霊の未練を晴らす新連載（試し読みあり）",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wSGl6Q04xSDhVc013ZjJLWUl3NEJTVWtGSjBaeGxhaDJreTVnRVdhVjZJU3hqQWpGTFktX0VvTEwtWW8waXBOWm13ZWs?oc=5",
           "source": "Google News コミックナタリー",
           "sourceId": "gnews-natalie-comic",
           "lang": "ja",
           "kind": "news",
-          "date": "2026-10-06T06:30:00.000Z",
+          "date": "2026-10-06T03:03:00.000Z",
           "image": ""
         }
       ],
-      "image": ""
+      "image": "https://www.cinemacafe.net/imgs/ogp_f/837641.jpg"
     },
     {
       "key": "movie",
@@ -223,13 +223,13 @@
           "image": ""
         },
         {
-          "title": "アニメーション映画「どこよりも遠い場所にいる君へ」メインビジュアル [画像・動画ギャラリー 3/5]",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qTkdpeFhYYU16SjJROFVGS1hvTEYzLWJUcnpsMzZaQ2hNY2hfWnF1SGlXWG84WFRwWTVRZjlLM0pHNFhMcGYzbkR3b3BFcENEZzRaQ0FRQWg0ZTJJMlJ1cg?oc=5",
-          "source": "Google News コミックナタリー",
-          "sourceId": "gnews-natalie-comic",
+          "title": "ウルトロンとの異色な“AIバディ”誕生「ヴィジョンクエスト」本予告が解禁",
+          "link": "https://www.cinemacafe.net/article/2026/10/06/113108.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
           "lang": "ja",
           "kind": "news",
-          "date": "2026-10-06T05:06:10.000Z",
+          "date": "2026-10-06T01:15:03.000Z",
           "image": ""
         }
       ],
@@ -297,9 +297,9 @@
   "stats": {
     "sources": 37,
     "sourcesOk": 31,
-    "fetched": 1572,
-    "accepted": 817,
-    "filtered": 755,
-    "heroImages": 4
+    "fetched": 1571,
+    "accepted": 819,
+    "filtered": 752,
+    "heroImages": 5
   }
 }
