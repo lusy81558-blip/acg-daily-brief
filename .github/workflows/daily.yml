@@ -15,8 +15,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: daily-brief
@@ -25,15 +23,12 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version: '20'
 
@@ -49,19 +44,6 @@ jobs:
             echo "数据无变化，跳过提交"
           else
             git commit -m "brief: $(TZ=Asia/Shanghai date +%F)"
+            git pull --rebase --autostash origin main
             git push
           fi
-
-      - name: 准备 Pages
-        uses: actions/configure-pages@v5
-        with:
-          enablement: true
-
-      - name: 打包站点
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: '.'
-
-      - name: 发布到 GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4

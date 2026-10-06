@@ -61,8 +61,11 @@ async function collect() {
             const section = routeSection(item.title, src.section);
             if (!section) { dropped++; continue; }
 
+            let title = item.title.replace(/\s+/g, ' ').trim();
+            if (src.stripSourceSuffix) title = title.replace(/\s+[-–—]\s+[^-–—]{2,24}$/, '').trim();
+
             const entry = {
-              title: item.title.replace(/\s+/g, ' ').trim(),
+              title,
               link: item.link,
               date: dateObj.toISOString(),
               section,

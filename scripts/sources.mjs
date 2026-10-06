@@ -17,6 +17,12 @@ export const CLOUD_ONLY = [
   { id: 'ann-manga',     name: 'ANN Manga',        section: 'manga', lang: 'en', weight: 0.8, cloudOnly: true, url: 'https://www.animenewsnetwork.com/manga/rss.xml' },
   { id: 'oricon',        name: 'ORICON NEWS',      section: 'music', lang: 'ja', weight: 0.9, cloudOnly: true, url: 'https://www.oricon.co.jp/rss/news.xml' },
   { id: 'eiga',          name: '映画.com',         section: 'movie', lang: 'ja', weight: 0.8, cloudOnly: true, url: 'https://eiga.com/rss/' },
+
+  // 漫画硬新闻最缺，云上用 Google News 聚合日文漫画报道（含コミックナタリー等被墙的源）
+  { id: 'gnews-manga', name: 'Google News 漫画', section: 'manga', lang: 'ja', weight: 0.7, cloudOnly: true, stripSourceSuffix: true,
+    url: 'https://news.google.com/rss/search?q=%E6%BC%AB%E7%94%BB+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja' },
+  { id: 'gnews-natalie-comic', name: 'Google News コミックナタリー', section: 'manga', lang: 'ja', weight: 0.9, cloudOnly: true, stripSourceSuffix: true,
+    url: 'https://news.google.com/rss/search?q=site%3Anatalie.mu+%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF+when%3A1d&hl=ja&gl=JP&ceid=JP%3Aja' },
 ];
 
 export const LOCAL_SOURCES = [
