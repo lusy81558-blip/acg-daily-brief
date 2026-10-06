@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "generatedAt": "2026-10-06T12:50:39.829Z",
+  "generatedAt": "2026-10-06T12:54:42.907Z",
   "timezone": "Asia/Shanghai",
   "sections": [
     {
@@ -39,16 +39,6 @@
           "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261006-471955-header.jpg"
         },
         {
-          "title": "Nintendo Announces Another Switch 2 Hardware Bundle",
-          "link": "https://www.nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle",
-          "source": "Nintendo Life",
-          "sourceId": "nintendolife",
-          "lang": "en",
-          "kind": "news",
-          "date": "2026-10-06T04:55:00.000Z",
-          "image": "https://images.nintendolife.com/84398a2b4ba21/large.jpg"
-        },
-        {
           "title": "VTuber事務所の警備員となり，来訪者をチェックする書類審査ADV「推しの中身、気になりませんか？」，体験版をSteamで配信開始",
           "link": "https://www.4gamer.net/games/042/G104256/20261006040/",
           "source": "4Gamer.net",
@@ -56,6 +46,16 @@
           "lang": "ja",
           "kind": "news",
           "date": "2026-10-06T11:38:02.000Z",
+          "image": ""
+        },
+        {
+          "title": "みんなでハンバーガー作り！ 店員のなかに紛れたスパイを見つけ出す推理ゲーム「人狼バーガー」，体験版をSteamで配信開始",
+          "link": "https://www.4gamer.net/games/941/G094178/20261006036/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-06T10:03:11.000Z",
           "image": ""
         }
       ],
@@ -155,16 +155,6 @@
           "image": ""
         },
         {
-          "title": "アニメ「チー付与」新たなメインPV「暗殺の母（CV：柴田理恵）乱入ver.」公開（動画あり）",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9adzR0RU9DNHpkdUdxYU9CX3VvMUpHak5vaWRFenBGRjhJb2xJUTBwbkhxeFQ0dlFiT1M3TWx1YUdNa2RYOWdXdEtScVI?oc=5",
-          "source": "Google News コミックナタリー",
-          "sourceId": "gnews-natalie-comic",
-          "lang": "ja",
-          "kind": "news",
-          "date": "2026-10-06T03:00:00.000Z",
-          "image": ""
-        },
-        {
           "title": "キルタイム異世界漫画原作大賞【編集部特別賞】受賞作品『ダンジョン領主の下克上～いきなりド底辺ダンジョンのマスターにされたゲームデザイナー、ブラック業界を生き抜いた社畜能力で運命を切り開く～1』発売",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UcU05NzlyMW8wTU9CaWRNVFRSdTI3QlRlUlJwLXBKaEhvaXVIbTJqeUZGZHZ0ZUhnMmp4UTNOamc4QXNKTF96UnJiSExrVzEycEZ6enBSUnpnWVRaVDNwNG1LSzFTLW5UT3c?oc=5",
           "source": "Google News 漫画",
@@ -172,6 +162,16 @@
           "lang": "ja",
           "kind": "news",
           "date": "2026-10-06T03:10:01.000Z",
+          "image": ""
+        },
+        {
+          "title": "社畜の先輩後輩が食欲、睡眠欲、性欲を満たすラブコメ新連載「たいへん欲できました」",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Nd0k2bDVYNU96bTRHeFp6Mi13NTdqeWlJVEktdlBBMVFhSXZnXzJNeUc5RGFIbWpSS29zanAyMjRHQlphaldXWk9EVXk?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-06T06:30:00.000Z",
           "image": ""
         }
       ],
@@ -314,8 +314,8 @@
   "stats": {
     "sources": 37,
     "sourcesOk": 31,
-    "fetched": 1572,
-    "accepted": 840,
+    "fetched": 1571,
+    "accepted": 839,
     "filtered": 732,
     "heroImages": 4
   }
