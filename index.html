@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>一觉起来发生了啥？</title>
+<meta name="description" content="个人 ACG 早报：游戏、动画、漫画、电影、音乐">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>%E2%98%80</text></svg>">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark" aria-hidden="true">☀</span>
+    <div class="brand-text">
+      <h1>一觉起来发生了啥？</h1>
+      <p class="brand-sub">ACG DAILY BRIEF</p>
+    </div>
+  </div>
+  <div class="meta">
+    <div class="meta-date" id="dateLabel">—</div>
+    <div class="meta-time" id="timeLabel"></div>
+  </div>
+</header>
+
+<div class="datebar-wrap">
+  <nav class="datebar" id="dateBar" aria-label="选择日期"></nav>
+</div>
+
+<main id="board" class="board">
+  <p class="loading">正在读取早报数据……</p>
+</main>
+
+<footer class="footer">
+  <span id="footerStats"></span>
+  <span class="footer-hint">← → 切换日期 · 双击「更新早报.cmd」手动刷新</span>
+</footer>
+
+<script src="data/brief.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
