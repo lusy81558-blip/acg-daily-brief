@@ -138,6 +138,34 @@
     return q;
   }
 
+  /** 角色生日彩蛋 */
+  function renderBirthday(list) {
+    if (!list || !list.length) return null;
+    var main = list[0];
+    var box = el('div', 'birthday');
+
+    box.appendChild(el('span', 'bd-cake', '\uD83C\uDF82'));
+
+    var body = el('div', 'bd-body');
+    var line = el('div', 'bd-line');
+    line.appendChild(document.createTextNode('今天是 '));
+    line.appendChild(el('strong', 'bd-name', main.name));
+    if (main.work) line.appendChild(el('span', 'bd-work', '（' + main.work + '）'));
+    line.appendChild(document.createTextNode(' 的生日'));
+    body.appendChild(line);
+
+    if (list.length > 1) {
+      var others = list.slice(1).map(function (b) {
+        return b.name + (b.work ? '（' + b.work + '）' : '');
+      }).join('、');
+      body.appendChild(el('div', 'bd-others', '还有 ' + others));
+    }
+
+    body.appendChild(el('div', 'bd-wish', '生日快乐！'));
+    box.appendChild(body);
+    return box;
+  }
+
   function renderSection(sec, index) {
     var section = el('section', 'section');
     section.dataset.key = sec.key;
@@ -180,6 +208,8 @@
       : '';
 
     board.innerHTML = '';
+    var bd = renderBirthday(day.birthdays);
+    if (bd) board.appendChild(bd);
     day.sections.forEach(function (sec, i) { board.appendChild(renderSection(sec, i)); });
 
     if (day.stats) {

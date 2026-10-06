@@ -2,6 +2,7 @@
 
 个人用 ACG 早报：每天早上自动抓取游戏 / 动画 / 漫画 / 电影 / 音乐五个板块的新闻，
 按"事情大小"排序，每个板块展示 5 条。某板块当天真的没内容时，就送一句名台词。
+如果当天有高人气角色过生日，页面顶部还会出现一条生日彩蛋。
 
 ## 日常使用
 
@@ -47,8 +48,10 @@ assets/style.css      样式（深色现代简约）
 assets/app.js         渲染逻辑
 data/brief.js         前端读取的数据（脚本自动生成）
 data/quotes.json      名句库（可自由增删）
+data/birthdays.json   角色生日表（2811 个高人气角色）
 data/YYYY-MM-DD.json  每日存档
 scripts/build.mjs     早报生成主脚本
+scripts/build-birthdays.mjs  角色生日表生成脚本
 scripts/sources.mjs   数据源配置
 scripts/lib/          抓取、解析、分流、打分
 scripts/probe*.mjs    数据源可用性探测（排查问题用）
@@ -90,6 +93,23 @@ scripts/probe*.mjs    数据源可用性探测（排查问题用）
 
 `data/quotes.json`，按板块分类，格式为 `{ text, author, work }`。
 每天的句子由日期决定，同一天刷新不会变。想换就直接改这个文件。
+
+## 角色生日彩蛋
+
+当天若有角色过生日，页面顶部会显示「今天是 XXX（作品）的生日 · 生日快乐！」，
+最多同时报 3 位（按人气排序），没有生日就完全不显示。
+
+数据来自 [AniList](https://anilist.co) 的公开 GraphQL API：取收藏数最高的 5000 个角色，
+过滤掉人气值低于 40 的冷门角色，最终收录 2811 个、覆盖 364 天，存在 `data/birthdays.json`。
+
+想更新或扩充这份生日表（比如以后想收录更多角色），运行：
+
+```
+node scripts/build-birthdays.mjs --pages=100
+```
+
+想只看数据结构不对文件写入：`node scripts/build-birthdays.mjs --probe`。
+收录门槛在脚本顶部的 `MIN_FAVOURITES`，想更"大众向"就把它调高。
 
 ## 已知限制
 

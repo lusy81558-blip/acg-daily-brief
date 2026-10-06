@@ -36,6 +36,21 @@ async function loadQuotes() {
   return JSON.parse(await readFile(path.join(DATA_DIR, 'quotes.json'), 'utf8'));
 }
 
+async function loadBirthdays() {
+  try {
+    const raw = JSON.parse(await readFile(path.join(DATA_DIR, 'birthdays.json'), 'utf8'));
+    return raw.birthdays || {};
+  } catch {
+    return {};
+  }
+}
+
+/** 今天的角色生日（按人气排序，最多 3 位） */
+function todayBirthdays(table, date) {
+  const list = table[date.slice(5)] || [];
+  return list.slice(0, 3).map(([name, work, favourites]) => ({ name, work, favourites }));
+}
+
 async function collect() {
   const bucket = new Map(); // section -> items
   const report = [];
@@ -181,6 +196,7 @@ async function loadHistory() {
 async function main() {
   await mkdir(DATA_DIR, { recursive: true });
   const quotes = await loadQuotes();
+  const birthdayTable = await loadBirthdays();
 
   log('==========================================');
   log('   一觉起来发生了啥？ - 早报更新');
@@ -206,6 +222,7 @@ async function main() {
     generatedAt: new Date().toISOString(),
     timezone: TZ,
     sections,
+    birthdays: todayBirthdays(birthdayTable, today),
     stats: {
       sources: SOURCES.length,
       sourcesOk: okCount,
@@ -227,6 +244,9 @@ async function main() {
   await writeFile(path.join(DATA_DIR, 'index.json'), JSON.stringify({ today, dates: allDates }, null, 2), 'utf8');
 
   log('[OK] 完成');
+  if (brief.birthdays.length) {
+    log(`      🎂 今日角色生日: ${brief.birthdays.map((b) => b.name + (b.work ? `（${b.work}）` : '')).join('、')}`);
+  }
   for (const s of sections) {
     const n = s.items.length;
     const news = s.items.filter((i) => i.kind === 'news').length;
