@@ -2,7 +2,7 @@ name: 每日早报更新
 
 on:
   schedule:
-    # 07:00 北京时间（UTC+8）= 23:00 UTC 前一天
+    # 07:00 北京时间（UTC+8）= 前一天的 23:00 UTC
     - cron: '0 23 * * *'
   workflow_dispatch:
   push:
@@ -15,6 +15,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: daily-brief
@@ -23,6 +25,9 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -46,3 +51,17 @@ jobs:
             git commit -m "brief: $(TZ=Asia/Shanghai date +%F)"
             git push
           fi
+
+      - name: 准备 Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: 打包站点
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: 发布到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
