@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "generatedAt": "2026-10-07T05:56:54.960Z",
+  "generatedAt": "2026-10-07T05:58:30.206Z",
   "timezone": "Asia/Shanghai",
   "sections": [
     {
@@ -39,14 +39,14 @@
           "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/press_ss04_talk_to_him-1024x576.png"
         },
         {
-          "title": "Nintendo Announces Another Switch 2 Hardware Bundle",
-          "link": "https://www.nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle",
-          "source": "Nintendo Life",
-          "sourceId": "nintendolife",
-          "lang": "en",
+          "title": "『Nintendo Switch 2（日本語・国内専用） 選べるソフト セット』発表。Switch 2本体と人気タイトルが“最大5000円”ぐらいお得に買える",
+          "link": "https://automaton-media.com/articles/newsjp/20261006-471955/",
+          "source": "AUTOMATON",
+          "sourceId": "automaton",
+          "lang": "ja",
           "kind": "news",
-          "date": "2026-10-06T04:55:00.000Z",
-          "image": "https://images.nintendolife.com/84398a2b4ba21/large.jpg"
+          "date": "2026-10-06T01:43:42.000Z",
+          "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261006-471955-header.jpg"
         },
         {
           "title": "玉鋼から日本刀を鍛え上げる「刀鍛冶」，体験版が10月9日に配信。土置きから刃文が現れる工程も収録",
@@ -125,16 +125,6 @@
       "en": "MANGA",
       "items": [
         {
-          "title": "アニメ「Duel Masters LOST」第4章1話の場面カット公開、今夜ニイカが視聴者を断罪（動画あり）",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yS21iaDdKWTBqclNmd0NBOW9EZll3Yy0yZDY0MWtVZWJWSGJSVmFONXcwWm1CejljT2xXcW42cFB1bkdNYnNXMVBaUWU?oc=5",
-          "source": "Google News コミックナタリー",
-          "sourceId": "gnews-natalie-comic",
-          "lang": "ja",
-          "kind": "news",
-          "date": "2026-10-07T03:00:00.000Z",
-          "image": ""
-        },
-        {
           "title": "妃と門兵の魂が入れ替わり 後宮謎解きファンタジー新連載「采月宮の入れ替わり妃」",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlZVFDQlBJZTh2ZF81eGVWZFhROXVCQXBmVEN4ZDhsbVVvZElrLXozc3k3X09DRnlMWWdkdFVIdHZoRWpiSnJJZWpsZDY?oc=5",
           "source": "Google News コミックナタリー",
@@ -172,6 +162,16 @@
           "lang": "ja",
           "kind": "news",
           "date": "2026-10-06T11:25:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "前回の「ももいろインフラーZ」公開収録イベントの様子。",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PbmZjSXFOdndMRVNiWjJZUTNYbDlQNy11c2xtdFFKeG9lRVNJcmw0Y1lTRjdLbXFqb1B0V3dWTXNtQXhpMlM4TGtSRm9qNDdWdXlJZ3BMeXFmVV9UQXFpeEVB?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-07T00:10:32.000Z",
           "image": ""
         }
       ],
