@@ -2,36 +2,55 @@
 
 // ---------- 板块关键词（词 -> 权重，用于把跨领域源的内容分流） ----------
 // 权重越高越"专属"，避免「イカゲーム」「ジャンプアクション」这类子串误判
+// 含英文的关键词不区分大小写（"Game" / "game" 都算），日文照原样匹配
 const SECTION_KEYWORDS = {
   game: {
-    'ゲーム': 1, 'ゲームソフト': 2, 'ゲーム機': 2, 'Switch': 2, 'PS5': 2, 'PlayStation': 2,
-    'プレイステーション': 2, 'Xbox': 2, 'Steam': 2, 'Nintendo': 2, '任天堂': 2, 'インディー': 1,
-    'eスポーツ': 1, 'ポケモン': 1, 'マリオ': 1, 'ゼルダ': 1, 'ドラクエ': 1, 'モンハン': 1,
-    'カプコン': 1, 'セガ': 1, 'バンダイナムコ': 1, 'スクウェア・エニックス': 1, 'コンシューマ': 2,
+    'ゲーム': 1, 'ゲームソフト': 2, 'ゲーム機': 2, 'ゲーム業界': 2, 'Switch': 2, 'PS5': 2,
+    'PS4': 2, 'PlayStation': 2, 'プレイステーション': 2, 'Xbox': 2, 'Steam': 2, 'Nintendo': 2,
+    '任天堂': 2, 'インディー': 1, 'eスポーツ': 1, 'コンシューマ': 2, 'PC版': 2,
+    // 英文源（Anime News Network 等）发的游戏新闻，标题里往往只有 "game"
+    'game': 2, 'gaming': 2, 'video game': 3, 'console': 2,
+    'ポケモン': 1, 'マリオ': 1, 'ゼルダ': 1, 'ドラクエ': 1, 'モンハン': 1, 'モンスターハンター': 2,
+    'Monster Hunter': 2, 'Pokemon': 2, 'Pokémon': 2, 'Mario': 1, 'Zelda': 1,
+    'Final Fantasy': 2, 'Resident Evil': 2, 'Elden Ring': 2, 'Dragon Quest': 2,
+    'カプコン': 1, 'セガ': 1, 'バンダイナムコ': 1, 'スクウェア・エニックス': 1,
     '游戏': 1, '手游': 1,
   },
   anime: {
     'アニメ': 1, 'TVアニメ': 3, 'アニメ化': 3, 'アニメーター': 3, 'アニメ映画': 3, '声優': 2,
     '劇場版': 2, 'アニソン': 2, '新番': 2, '放送開始': 2, 'アニプレックス': 2, '动画': 1,
+    // PV 只给 1 分：游戏也会发 PV，单独一个 PV 压不过默认板块，
+    // 但「アニメ + PV」凑够 2 分就足以把漫画站发的动画 PV 报道判过来
+    'PV': 1, 'anime': 1, 'tv anime': 3,
   },
   manga: {
     '漫画': 2, 'マンガ': 2, 'コミック': 1, '連載': 3, '連載開始': 3, '新刊': 2, '単行本': 2,
     'ジャンプ': 1, 'マガジン': 1, 'サンデー': 1, 'ヤングジャンプ': 2, '漫画家': 2, '作画': 1,
-    '電子書籍': 1, '読切': 2, '掲載': 1,
+    '電子書籍': 1, '読切': 2, '掲載': 1, 'コミカライズ': 3, 'manga': 2, 'comic': 1,
   },
   movie: {
     '映画': 2, '映画化': 3, '実写': 2, '実写化': 3, '劇場公開': 3, '興行収入': 3, '監督': 1,
     '予告編': 2, '特報': 2, 'ドラマ': 1, '出演': 1, 'Netflix': 1, 'アマゾンプライム': 1,
-    'box office': 3, '电影': 1,
+    'box office': 3, '电影': 1, 'movie': 1, 'film': 1, 'cinema': 1,
   },
   music: {
     '音楽': 1, 'ライブ': 2, 'ツアー': 2, 'アルバム': 2, 'シングル': 2, '楽曲': 2, 'アーティスト': 1,
     '歌手': 1, 'バンド': 1, '主題歌': 2, 'チャート': 1, 'オリコン': 2, 'Billboard': 2, 'MV': 2,
     '配信リリース': 2, 'ボーカル': 1, '音乐': 1,
+    // 动画主题曲新闻常出现 PV/アニメ，给主题曲关键词加权，避免被判成动画
+    'OPテーマ': 3, 'EDテーマ': 3, 'テーマソング': 2,
+    'album': 2, 'soundtrack': 2, 'concert': 2, 'song': 1,
   },
 };
 
 // ---------- 氪金手游：直接排除 ----------
+/** 关键词命中：含英文的词不区分大小写，日文按原样匹配 */
+function hasKeyword(title, word) {
+  return /[a-zA-Z]/.test(word)
+    ? title.toLowerCase().includes(word.toLowerCase())
+    : title.includes(word);
+}
+
 const MOBILE_GACHA = [
   /ガチャ/, /ソシャゲ/, /スマホゲーム/, /スマホ向け/, /スマートフォン向け/, /事前登録/, /事前予約/,
   /リセマラ/, /★5/, /星5/, /星５/, /課金/, /無料10連/, /10連ガチャ/, /期間限定ガチャ/, /召喚/,
@@ -94,7 +113,7 @@ export function routeSection(title, defaultSection) {
   const hits = {};
   for (const [section, words] of Object.entries(SECTION_KEYWORDS)) {
     let s = 0;
-    for (const [word, weight] of Object.entries(words)) if (title.includes(word)) s += weight;
+    for (const [word, weight] of Object.entries(words)) if (hasKeyword(title, word)) s += weight;
     hits[section] = s;
   }
 
