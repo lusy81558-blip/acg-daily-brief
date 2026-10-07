@@ -1,0 +1,322 @@
+{
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-07T23:05:55.039Z",
+  "timezone": "Asia/Shanghai",
+  "sections": [
+    {
+      "key": "game",
+      "label": "游戏",
+      "en": "GAMES",
+      "items": [
+        {
+          "title": "BECROWNED adds PS5, Xbox Series, and Switch 2 versions, delayed to Q1 2027",
+          "link": "https://www.gematsu.com/2026/10/becrowned-adds-ps5-xbox-series-and-switch-2-versions-delayed-to-q1-2027",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-07T20:34:09.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/BECROWNED-Consoles_10-07-26.jpeg"
+        },
+        {
+          "title": "Dead of Darkness 2 announced for PS5, Xbox Series, PS4, Xbox One, Switch, and PC",
+          "link": "https://www.gematsu.com/2026/10/dead-of-darkness-2-announced-for-ps5-xbox-series-ps4-xbox-one-switch-and-pc",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-07T19:56:27.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Dead-Darkness-2-Ann_10-07-26.jpg"
+        },
+        {
+          "title": "Crunchyroll dedicated hub announced for PS5",
+          "link": "https://www.gematsu.com/2026/10/crunchyroll-dedicated-hub-announced-for-ps5",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-07T21:48:07.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/PS5-Crunchyroll-Ann_10-07-26.jpg"
+        },
+        {
+          "title": "SNØ: Ultimate Freeriding coming to PS5, Xbox Series, and Switch 2 on October 28",
+          "link": "https://www.gematsu.com/2026/10/sno-ultimate-freeriding-coming-to-ps5-xbox-series-and-switch-2-on-october-28",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-07T15:20:18.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/SNO-Consoles-Ann_10-07-26.jpg"
+        },
+        {
+          "title": "パズルで客の要望に応え，彼らの情報を収集。隠された恐怖の世界に触れていく「リサイクルショップ回向」，体験版をSteamで公開",
+          "link": "https://www.4gamer.net/games/048/G104846/20261007034/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-07T10:34:57.000Z",
+          "image": "https://www.4gamer.net/games/048/G104846/20261007034/SS/001.jpg"
+        }
+      ],
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/10/BECROWNED-Consoles_10-07-26.jpeg"
+    },
+    {
+      "key": "anime",
+      "label": "动画",
+      "en": "ANIME",
+      "items": [
+        {
+          "title": "秋アニメ「探偵はもう、死んでいる。Season2」亡くなったはずのシエスタがメイド姿で現れ…!? 第1話先行カット",
+          "link": "https://animeanime.jp/article/2026/10/07/103581.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-07T02:45:07.000Z",
+          "image": ""
+        },
+        {
+          "title": "「放課後帰宅びより」来年4月に日テレでTVアニメ化 ティザー＆お祝いイラスト公開",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtcWcxdzVwcmY1UF96c2pBRnF1RkFYTl93M3NncUg4X1Y3UmVXM1FHVEJLbUc3cllJUGYzckhIaXd6Q0F4bGZ0SEc4ZFk?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-07T11:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "進化の証？ 放送延期を乗り越えた2026秋アニメ 予告から「高クオリティ」と絶賛",
+          "link": "https://magmix.jp/post/379551",
+          "source": "マグミクス",
+          "sourceId": "magmix",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-07T02:55:00.000Z",
+          "image": "https://magmix.jp/wp-content/uploads/2027/10/260928-enkiaki-00.jpg"
+        },
+        {
+          "title": "MediaOCD Announces Deal to Sell Select Aniplex of America Anime on Blu-ray Disc",
+          "link": "https://www.animenewsnetwork.com/news/2026-10-07/mediaocd-announces-deal-to-sell-select-aniplex-of-america-anime-on-blu-ray-disc/.242576",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-07T16:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "The Moon on a Rainy Night Anime's 1st Video Reveals Cast, More Staff",
+          "link": "https://www.animenewsnetwork.com/news/2026-10-07/the-moon-on-a-rainy-night-anime-1st-video-reveals-cast-more-staff/.242577",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-07T07:43:05.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://magmix.jp/wp-content/uploads/2027/10/260928-enkiaki-00.jpg"
+    },
+    {
+      "key": "manga",
+      "label": "漫画",
+      "en": "MANGA",
+      "items": [
+        {
+          "title": "漫画「満州アヘンスクワッド」アニメ化が決定 10月5日発売「ヤングマガジン」から新体制で連載再開（映画.com）",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zeGRQRmVMVUhKWFRqbzBua1N3WHlReXFnMHV6amVFbzBVQ1V6cW9CSy1IVUpqVllDVXB6WTAybW5MRTR0WEpUbER5b29scEt0d1ZSYnk5ZE9oSFd0MHNUekxnVGowUGVLU3JOUkJLV0lRS0VJejFQdk03ODB6RFE?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-07T21:12:41.000Z",
+          "image": ""
+        },
+        {
+          "title": "本当のバス釣り好きが推すバス釣り漫画『Mr.釣りどれん』連載30周年！オリジナルルアー完成披露発表会＆トークショーが開催決定!!",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wNlp4RFNSWU10b3czNWlUVWFxazNuUWJ5ZDRBaFJXTzdQQUJoMzhTMndnc0tGcGI1TVQ1c1BvQmFteGRXdTVxLWxxT0tsUjNKOTUweWdB?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-07T20:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "マガポケ漫画家、好きな漫画は『ゆゆ式』『ゆるゆり』など 新連載『ぎるてぃらいぶらり』開始",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yenM2eFM2eFl4ZEZnQ2ZjTDFqQ3N1ZXN5amtGV2ZYdmJlUXlldE45WG85aUFtX3o2QndYeHg5bXdVRzVVbFM0dEZWcmhNYzNGNlRvUjEzZE5zc2VLRlpMNXg0dmhHUQ?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-07T21:03:05.000Z",
+          "image": ""
+        },
+        {
+          "title": "画像・写真 | 漫画『オーバーロード〈新世界編〉』休載へ 作画担当のMatsuki入院で療養・安静のため 2枚目",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wMHBVaVNSQ1dLbnZYTkhDRUpYNTkxRmt2Ynp4LTcwa2prZVBIQmdKam1MMFEzd3BxdlZ5X3JRV2kwc0x3V1FCYVpiSFNvOUpUR1JlOEpTcE1mTDctTWxkZHJpdUI?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-07T13:56:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "最弱の魔王が死に戻って魔族の国を救うダークファンタジー新連載",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LVEtNRzBleG1PdDJvbUxIbC1JakFURG9SOW9xTlJqVjg5WUZTRW54Zjd6eTZWWGk0ZDVFQm1nZmJYT2JwSy03dkpIams?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-07T08:05:00.000Z",
+          "image": ""
+        }
+      ],
+      "image": ""
+    },
+    {
+      "key": "movie",
+      "label": "电影",
+      "en": "MOVIES",
+      "items": [
+        {
+          "title": "特撮SFアクション『時空警察ヴェッカー』新作映画が2027年春に公開 続編として舞台化も",
+          "link": "https://realsound.jp/movie/2026/10/post-2545784.html",
+          "source": "Real Sound 映画部",
+          "sourceId": "realsound-movie",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-07T11:00:58.000Z",
+          "image": ""
+        },
+        {
+          "title": "Michael Kearns, Actor, Activist and ‘Jerker’ Director, Dies at 76",
+          "link": "https://www.hollywoodreporter.com/news/general-news/michael-kearns-dead-jerker-director-gay-activist-1236724870/",
+          "source": "Hollywood Reporter",
+          "sourceId": "thr",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-07T20:35:43.000Z",
+          "image": ""
+        },
+        {
+          "title": "『愛の不時着』出演女優キム・ソニョンの父親が死去。深い悲しみの中、哀悼の声が相次ぐ…",
+          "link": "https://www.cinemacafe.net/article/2026/10/07/113152.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-07T07:43:13.000Z",
+          "image": ""
+        },
+        {
+          "title": "『ゴジラ-0.0』をより高い没入感で DolbyCINEMA＆4DX＆MX4D上映決定！新ビジュアル解禁",
+          "link": "https://www.cinemacafe.net/article/2026/10/06/113128.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-06T09:00:04.000Z",
+          "image": ""
+        },
+        {
+          "title": "金城武、ルイス・クーらが信念を貫き戦う 『風林火山』予告編＆場面写真公開",
+          "link": "https://realsound.jp/movie/2026/10/post-2545958.html",
+          "source": "Real Sound 映画部",
+          "sourceId": "realsound-movie",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-07T23:00:57.000Z",
+          "image": "https://s.w.org/images/core/emoji/14.0.0/72x72/25fc.png"
+        }
+      ],
+      "image": "https://s.w.org/images/core/emoji/14.0.0/72x72/25fc.png"
+    },
+    {
+      "key": "music",
+      "label": "音乐",
+      "en": "MUSIC",
+      "items": [
+        {
+          "title": "iri、TVアニメ『ホタルの嫁入り』OPテーマ「Period」を10月9日から先行配信決定！CDパッケージジャケット絵柄も公開！",
+          "link": "https://www.lisani.jp/0000319513/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-07T09:00:22.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610071800-yh-003.jpg"
+        },
+        {
+          "title": "ナナヲアカリ、TVアニメ『生徒会にも穴はある！』EDテーマ「ぴ」のアニメ描きおろしジャケット写真が解禁＆「ぴ」Music Videoがプレミア公開決定！",
+          "link": "https://www.lisani.jp/0000319529/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-07T11:00:59.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610071800-yh-008.jpg"
+        },
+        {
+          "title": "令和版アニメ『魔法騎士レイアース』第1話の挿入歌に「ゆずれない願い」が起用される。1994年に放送された平成版の主題歌が復活、約30年を経て本楽曲のデジタル配信も解禁",
+          "link": "https://news.denfaminicogamer.jp/news/261008p",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-07T15:15:31.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/750x422.png"
+        },
+        {
+          "title": "アニメ『スティール・ボール・ラン ジョジョの奇妙な冒険』OPテーマ「SPIN」が米ビルボードチャートにランクイン！アーティスト・Kroiとしては初のチャート入り、10月5日に公開されたMVは早くも100万再生を突破",
+          "link": "https://news.denfaminicogamer.jp/news/261007y",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-07T06:58:38.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/81WDyaxIJmL._AC_SL1500_-1024x1024.jpg"
+        },
+        {
+          "title": "Piero, Iconic Argentine Singer/Songwriter, Dies at 81",
+          "link": "https://www.billboard.com/music/latin/piero-death-argentine-singer-songwriter-mi-viejo-1236356568/",
+          "source": "Billboard",
+          "sourceId": "billboard-us",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-07T22:03:40.000Z",
+          "image": "https://www.billboard.com/wp-content/uploads/2026/08/dolly-parton-1974-billboard-1800.jpg?w=237&h=147&crop=1"
+        }
+      ],
+      "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610071800-yh-003.jpg"
+    }
+  ],
+  "birthdays": [
+    {
+      "name": "涼宮ハルヒ",
+      "work": "涼宮ハルヒの憂鬱",
+      "favourites": 3980
+    },
+    {
+      "name": "神代利世",
+      "work": "東京喰種 トーキョーグール",
+      "favourites": 1420
+    },
+    {
+      "name": "石神百夜 ",
+      "work": "Dr.STONE",
+      "favourites": 724
+    }
+  ],
+  "stats": {
+    "sources": 37,
+    "sourcesOk": 31,
+    "fetched": 1533,
+    "accepted": 1005,
+    "filtered": 528,
+    "heroImages": 4
+  }
+}
