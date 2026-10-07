@@ -349,8 +349,8 @@
       return;
     }
     renderDateBar();
-    var hash = (location.hash || '').replace('#', '');
-    renderDate(DATA.days[hash] ? hash : DATA.today);
+    // 打开页面先看今天：URL 里残留的旧日期不强制生效，免得书签 / 刷新停在昨天
+    renderDate(DATA.today);
   }
 
   /** 本地打开和云端访问，提示语不一样 */

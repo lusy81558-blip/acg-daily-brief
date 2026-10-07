@@ -193,13 +193,76 @@ function sharedCjkRun(a, b, minLen = 6) {
   return false;
 }
 
-/** 同板块内去重，保留分数更高的那条 */
+/** 标题里「」『』引号中的词（归一化后），用来判断是不是"同一部作品" */
+const GENERIC_QUOTED =
+  /^(?:\d+|第\d+[話巻回]|前編|後編|新作|最新|公式|完全版|期間限定|無料|特典|動画|PV|CM|MV|OP|ED|まとめ|インタビュー|特集)$/i;
+
+function quotedNames(title) {
+  const out = [];
+  const re = /[「『]([^」』]{2,60})[」』]/g;
+  let m;
+  while ((m = re.exec(title))) {
+    const norm = normalize(m[1]);
+    if (norm.length >= 3 && !GENERIC_QUOTED.test(norm)) out.push(norm);
+  }
+  return out;
+}
+
+// 两边都出现同一个事件词，才认为是"同一件事"（避免把同一作品的两条不同新闻并掉）
+const EVENT_WORDS = [
+  '体験版', '発売', '発売日', '配信', 'リリース', 'アップデート', 'アニメ化', '実写化', '映画化',
+  'ドラマ化', '上映', '放送', '延期', '中止', '休載', '完結', '連載開始', '新連載', '受賞',
+  'サービス終了', '予約開始', '公開', '発表', '決定',
+];
+
+/** 不同来源、不同措辞，但说的是同一部作品的同一件事（「刀鍛冶」那条就是这样漏掉的） */
+function sameWorkSameEvent(a, b) {
+  const qa = quotedNames(a);
+  const qb = quotedNames(b);
+  if (!qa.length || !qb.length) return false;
+  const sameWork = qa.some((x) =>
+    qb.some((y) => x === y || (x.length >= 5 && x.includes(y)) || (y.length >= 5 && y.includes(x)))
+  );
+  if (!sameWork) return false;
+  return EVENT_WORDS.some((w) => a.includes(w) && b.includes(w));
+}
+
+/** 字母里英文占多少，用来判断标题是"日文"还是"英文" */
+function latinRatio(s) {
+  const cjk = (s.match(/[\u3040-\u30ff\u4e00-\u9fff]/g) || []).length;
+  const latin = (s.match(/[a-z]/gi) || []).length;
+  const total = cjk + latin;
+  return total ? latin / total : 0;
+}
+
+function latinRuns(s, n) {
+  const words = s.toLowerCase().match(/[a-z0-9]+/g) || [];
+  const out = [];
+  for (let i = 0; i + n <= words.length; i++) out.push(words.slice(i, i + n).join(' '));
+  return out;
+}
+
+/** 跨语言同一件事：一句日文 + 一句英文，且共享带型号的英文词组（nintendo switch 2 这种） */
+function crossLangSameStory(a, b) {
+  const ra = latinRatio(a);
+  const rb = latinRatio(b);
+  const crossScript = (ra > 0.5 && rb < 0.5) || (rb > 0.5 && ra < 0.5);
+  if (!crossScript) return false;
+  const runsB = new Set(latinRuns(b, 2));
+  return latinRuns(a, 2).some((run) => /\d/.test(run) && runsB.has(run));
+}
+
+/** 去掉同一件事的重复报道（不同来源 / 不同措辞），保留分数更高的那条 */
 export function dedupe(items, threshold = 0.55) {
   const sorted = [...items].sort((a, b) => b.score - a.score);
   const kept = [];
   for (const it of sorted) {
     const dup = kept.find(
-      (k) => similarity(k.title, it.title) >= threshold || sharedCjkRun(k.title, it.title)
+      (k) =>
+        similarity(k.title, it.title) >= threshold ||
+        sharedCjkRun(k.title, it.title) ||
+        sameWorkSameEvent(k.title, it.title) ||
+        crossLangSameStory(k.title, it.title)
     );
     if (!dup) kept.push(it);
   }

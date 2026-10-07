@@ -14,7 +14,7 @@ const DATA_DIR = path.join(ROOT, 'data');
 const PER_SECTION = 5;        // 每板块展示条数
 const HISTORY_PER_DAY = 4;    // 「历史上的今天」每天展示条数
 const MAX_AGE_HOURS = 48;     // 只收最近 48 小时的内容
-const HISTORY_DAYS = 30;      // 前端可回看的天数
+const HISTORY_DAYS = 7;       // 前端可回看的天数（含今天，最多保留 7 天）
 const MIN_SCORE = 9;          // 新闻类条目的最低分，低于此分视为噪音
 const CONCURRENCY = 6;
 
