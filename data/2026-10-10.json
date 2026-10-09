@@ -1,0 +1,322 @@
+{
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-09T23:07:16.207Z",
+  "timezone": "Asia/Shanghai",
+  "sections": [
+    {
+      "key": "game",
+      "label": "游戏",
+      "en": "GAMES",
+      "items": [
+        {
+          "title": "「ゼンレスゾーンゼロ」，Ver.3.3を10月21日に配信決定。同時にSteam版もリリース予定。「崩壊：スターレイル」とのコラボ情報も明らかに",
+          "link": "https://www.4gamer.net/games/630/G063081/20261009057/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T13:19:14.000Z",
+          "image": "https://www.4gamer.net/games/630/G063081/20261009057/SS/001.jpg"
+        },
+        {
+          "title": "The Escapists 3 announced for PS5, Xbox Series, Switch 2, and PC",
+          "link": "https://www.gematsu.com/2026/10/the-escapists-3-announced-for-ps5-xbox-series-switch-2-and-pc",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-08T16:43:55.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Escapists-3-Ann_10-08-26.jpg"
+        },
+        {
+          "title": "This Week in Games - Golden Oldies",
+          "link": "https://www.animenewsnetwork.com/this-week-in-games/2026-10-09/golden-oldies/.242490",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-09T14:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "囚われた子どもたちと会話して，彼らの脱出を助ける対話ADV「リプライ・シグナルズ - Echoes Still Wait」，体験版をSteamで公開",
+          "link": "https://www.4gamer.net/games/049/G104912/20261009025/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T07:43:43.000Z",
+          "image": ""
+        },
+        {
+          "title": "カウンセリングを通じて，怪異や妻の失踪の真実へと近づいていく群像劇型ADV「Resequence: The Orchard」，体験版をSteamで公開",
+          "link": "https://www.4gamer.net/games/964/G096496/20261009003/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T03:18:17.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.4gamer.net/games/630/G063081/20261009057/SS/001.jpg"
+    },
+    {
+      "key": "anime",
+      "label": "动画",
+      "en": "ANIME",
+      "items": [
+        {
+          "title": "アニメ「Ghost of Tsushima 冥人奇譚」，2028年内に公開予定。追加スタッフやキャスト情報も同時に解禁",
+          "link": "https://www.4gamer.net/games/587/G058755/20261008048/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-08T23:00:00.000Z",
+          "image": "https://www.4gamer.net/games/587/G058755/20261008048/SS/001.jpg"
+        },
+        {
+          "title": "「北北西に曇と往け」2027年TVアニメ化！主人公・御山慧役は大野智敬 Netflixで世界独占配信",
+          "link": "https://animeanime.jp/article/2026/10/09/103644.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T06:30:04.000Z",
+          "image": ""
+        },
+        {
+          "title": "韓国発ウェブトゥーン「ザ・ボクサー」TVアニメ化！キャストに内山昂輝、小野賢章、関智一、豊永利行ら＆特報PV公開",
+          "link": "https://animeanime.jp/article/2026/10/09/103639.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T03:33:43.000Z",
+          "image": ""
+        },
+        {
+          "title": "アニメ「ジョジョ」新作OP「SPIN」が世界のJ-POPチャートを席巻！Kroiが米・英・仏・ブラジルで1位に",
+          "link": "https://animeanime.jp/article/2026/10/09/103650.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T08:00:08.000Z",
+          "image": ""
+        },
+        {
+          "title": "「再婚承認を要求します」2027年TVアニメ化！日笠陽子、木村良平、前野智昭、上田麗奈が出演",
+          "link": "https://animeanime.jp/article/2026/10/09/103640.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T03:46:14.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.4gamer.net/games/587/G058755/20261008048/SS/001.jpg"
+    },
+    {
+      "key": "manga",
+      "label": "漫画",
+      "en": "MANGA",
+      "items": [
+        {
+          "title": "完結していないマンガで“一番続きが気になる”作品は？ アンケート〆切は10月15日",
+          "link": "https://animeanime.jp/article/2026/10/09/103646.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T07:40:03.000Z",
+          "image": "https://animeanime.jp/imgs/ogp_f/940625.jpg"
+        },
+        {
+          "title": "【今週の注目記事】1位は「おぼっちゃまくん」の新作アニメ",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1lNnBPZy01bE0yTUVEVXlGWnZmZTQwQjQtX1ZzN2htbzdaZV8zc3JtdTFKRnRkSFFtcGFVU0pBY2RTcGdsZ2kzX2xnRms?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T15:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "大人気漫画家・東村アキコの新作エッセイ『おんな追分 東村アキコの人間観察日記』11月26日（木）発売決定！",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EdURSal95TWdOTUR1cm1UeXU4MUFoWF9TX05jcVZGUzB4eFVYT1dtd3hPRWY3Q3BEZHZkdDFtQUF4UkVxUjBNU1B6YlU4ZkxyVE5XTmh5ZnBHYzBfX05jSHgxV2oyUmM0N2c?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T02:00:02.000Z",
+          "image": ""
+        },
+        {
+          "title": "新連載「スーパー新選組の土方さん」土方歳三が働くお店のドタバタお仕事コメディ（試し読みあり）",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xVVBfNG1rdkdrQzFsMDllejZyUXl1akstX1U2VVNYcERxOEZ2V050aG9CUm9EOXdCWUs4Ym43OEEybVU0dnZQb3dHR20?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T11:49:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "シスコンこじらせ男子と妹属性女子による学園ラブコメ新連載「NOナイ妹」",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4Z05TOXNuQnlnNFRXNHdtUVAxdXN3anZjVzBoZGdrSGRCaVJlT3c2RTNYVDJCdzY2WnBPbUZ0ZkFsdXd5dDl2X2tybWs?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T10:33:00.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://animeanime.jp/imgs/ogp_f/940625.jpg"
+    },
+    {
+      "key": "movie",
+      "label": "电影",
+      "en": "MOVIES",
+      "items": [
+        {
+          "title": "「ホタルの嫁入り」実写化決定！ アニメとのW映像化に実写化もファン騒然！橘オレコ「キャラクターたちが現実の世界でどんなふう動くのか楽しみ」",
+          "link": "https://animeanime.jp/article/2026/10/10/103663.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T15:05:02.000Z",
+          "image": "https://animeanime.jp/imgs/ogp_f/941134.jpg"
+        },
+        {
+          "title": "An AI-Generated Trailer Won the Inaugural $2.5 Million Future Vision XPRIZE — and Its Director Hopes It’ll Change Minds About AI",
+          "link": "https://variety.com/2026/biz/news/an-ai-generated-trailer-the-gifted-future-vision-xprize-1236907106/",
+          "source": "Variety",
+          "sourceId": "variety",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-09T22:29:25.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/BZ8_0888.jpg"
+        },
+        {
+          "title": "「プリパラ」男プリ10周年イベント開催決定、特報映像でWITH新曲を解禁（動画あり）",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HeG9CdkVPcTVUMDZuTUtRZjJnNml1YWMyVmRVWWpkQy1fZ3JVNlUtVHZGUDZwZWpwOVVRS094UlJ3UU1RVFlnVUk5c2k?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T09:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "イム・シワン×ソル・イナ初共演！Prime Original ドラマ『罪深いあなた』 2026年10月19日（月）より Prime Video にて独占配信決定！",
+          "link": "https://www.cinemacafe.net/article/2026/10/09/113230.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T09:43:12.000Z",
+          "image": ""
+        },
+        {
+          "title": "絶対に許せない…日本漫画を台無しにした海外実写化は？（3）ドラマが薄すぎる…原作ファンが激怒した問題作は？",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fNDVuVkdjR2FKRWlqdHFkakg2Q0g5SE11RW1kS1NpUVE0d2c2cTlPZ2RRVXNCOGJ0WFNvb2JKbnNpQWpEbXcwckJHRUZlb2ZLbDcxblZMY3BSZHgwTjZVMkp6SnhGMzlYaFAyQ1VndW9JeEhEa1RTLWpsREdHMTQ?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T02:51:49.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://animeanime.jp/imgs/ogp_f/941134.jpg"
+    },
+    {
+      "key": "music",
+      "label": "音乐",
+      "en": "MUSIC",
+      "items": [
+        {
+          "title": "エイハブ、11月25日発売のニューアルバム『INHERIT』より、TVアニメ『転生ゴブリンだけど質問ある？』エンディング主題歌「小さな僕ら」を先行配信！",
+          "link": "https://www.lisani.jp/0000319675/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T23:00:21.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610091800-yh-015.jpg"
+        },
+        {
+          "title": "『ぼっち・ざ・ろっく！』、『Re:結束バンド』アナログレコード12月23日発売決定＆ライブ無料配信決定！",
+          "link": "https://www.lisani.jp/0000319682/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T09:00:49.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610091800-yh-018.jpg"
+        },
+        {
+          "title": "夏川椎菜、自身の殻を破ったライブツアー「CRACK and FLAP」が遂に映像化！ライブBlu-rayが12月16日発売決定！",
+          "link": "https://www.lisani.jp/0000319594/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-08T11:00:20.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610081800-yh-006.jpg"
+        },
+        {
+          "title": "Summer Walker in Legal Dispute With UMG Over Interscope Record Deal",
+          "link": "https://www.billboard.com/pro/summer-walker-legal-dispute-umg-interscope-record-deal/",
+          "source": "Billboard",
+          "sourceId": "billboard-us",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-09T22:56:15.000Z",
+          "image": "https://www.billboard.com/wp-content/uploads/2025/10/Summer-Walker-press-Rahul-Bhatt-billboard-1800.jpg?w=237&h=147&crop=1"
+        },
+        {
+          "title": "Daisuke Ashihara’s ‘World Trigger’ Vol. 30 Tops Billboard Japan Book Hot 100 as Comics Sweep Top 10",
+          "link": "https://www.billboard.com/music/chart-beat/daisuke-ashihara-world-trigger-vol-30-japan-book-hot-100-1236358444/",
+          "source": "Billboard",
+          "sourceId": "billboard-us",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-09T21:33:22.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610091800-yh-015.jpg"
+    }
+  ],
+  "birthdays": [
+    {
+      "name": "霊幻新隆",
+      "work": "モブサイコ100",
+      "favourites": 24502
+    },
+    {
+      "name": "うずまきナルト",
+      "work": "NARUTO -ナルト-",
+      "favourites": 18151
+    },
+    {
+      "name": "坂田銀時",
+      "work": "銀魂",
+      "favourites": 15997
+    }
+  ],
+  "stats": {
+    "sources": 37,
+    "sourcesOk": 31,
+    "fetched": 1462,
+    "accepted": 909,
+    "filtered": 553,
+    "heroImages": 5
+  }
+}
