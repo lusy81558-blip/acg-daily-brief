@@ -1,0 +1,322 @@
+{
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-10T23:06:11.521Z",
+  "timezone": "Asia/Shanghai",
+  "sections": [
+    {
+      "key": "game",
+      "label": "游戏",
+      "en": "GAMES",
+      "items": [
+        {
+          "title": "「ゼンレスゾーンゼロ」，Ver.3.3を10月21日に配信決定。同時にSteam版もリリース予定。「崩壊：スターレイル」とのコラボ情報も明らかに",
+          "link": "https://www.4gamer.net/games/630/G063081/20261009057/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T13:19:14.000Z",
+          "image": "https://www.4gamer.net/games/630/G063081/20261009057/SS/001.jpg"
+        },
+        {
+          "title": "『ガンダムSEED』HDリマスター版全48話を凝縮したダイジェストが明日21時よりプレミア公開。ナレーションは西川貴教さん",
+          "link": "https://news.denfaminicogamer.jp/news/261010q",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-10T14:52:21.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HUQQsI-a0AABhk4-1024x576.jpeg"
+        },
+        {
+          "title": "囚われた子どもたちと会話して，彼らの脱出を助ける対話ADV「リプライ・シグナルズ - Echoes Still Wait」，体験版をSteamで公開",
+          "link": "https://www.4gamer.net/games/049/G104912/20261009025/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T07:43:43.000Z",
+          "image": ""
+        },
+        {
+          "title": "カウンセリングを通じて，怪異や妻の失踪の真実へと近づいていく群像劇型ADV「Resequence: The Orchard」，体験版をSteamで公開",
+          "link": "https://www.4gamer.net/games/964/G096496/20261009003/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T03:18:17.000Z",
+          "image": ""
+        },
+        {
+          "title": "発売が延期されていたSteam版「AKIBA LOST」，10月21日にリリース決定",
+          "link": "https://www.4gamer.net/games/941/G094160/20261008025/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T03:00:00.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.4gamer.net/games/630/G063081/20261009057/SS/001.jpg"
+    },
+    {
+      "key": "anime",
+      "label": "动画",
+      "en": "ANIME",
+      "items": [
+        {
+          "title": "アニメ「Dr.STONE」新作の制作決定！本編完結後を描く「Dr.STONE TERRAFORMING」（コメントあり / 動画あり）",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4LU5SNjJVZ2dXWlFfcFpFUF9BQlZIMnJnLTZfaHI0WGhsSzBLdUgwRDlyTklTcVRwSnBKdDh4dlN6cFduajFaUDdzRTg?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-10T12:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "「北北西に曇と往け」2027年TVアニメ化！主人公・御山慧役は大野智敬 Netflixで世界独占配信",
+          "link": "https://animeanime.jp/article/2026/10/09/103644.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T06:30:04.000Z",
+          "image": "https://animeanime.jp/imgs/ogp_f/940959.jpg"
+        },
+        {
+          "title": "韓国発ウェブトゥーン「ザ・ボクサー」TVアニメ化！キャストに内山昂輝、小野賢章、関智一、豊永利行ら＆特報PV公開",
+          "link": "https://animeanime.jp/article/2026/10/09/103639.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T03:33:43.000Z",
+          "image": ""
+        },
+        {
+          "title": "Dr. Stone TV Anime Gets Terraforming Sequel",
+          "link": "https://www.animenewsnetwork.com/news/2026-10-10/dr-stone-tv-anime-gets-terraforming-sequel/.242690",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-10T12:57:58.000Z",
+          "image": ""
+        },
+        {
+          "title": "アニメ「ジョジョ」新作OP「SPIN」が世界のJ-POPチャートを席巻！Kroiが米・英・仏・ブラジルで1位に",
+          "link": "https://animeanime.jp/article/2026/10/09/103650.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T08:00:08.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://animeanime.jp/imgs/ogp_f/940959.jpg"
+    },
+    {
+      "key": "manga",
+      "label": "漫画",
+      "en": "MANGA",
+      "items": [
+        {
+          "title": "New ‘Naruto’ Anime Series and ‘Shadow Rising’ Manga Revealed",
+          "link": "https://variety.com/2026/tv/news/naruto-new-anime-series-shadow-rising-manga-1236907767/",
+          "source": "Variety",
+          "sourceId": "variety",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-10T22:08:18.000Z",
+          "image": "https://variety.com/wp-content/uploads/2025/06/Naruto-the-Movie.jpg"
+        },
+        {
+          "title": "Billy Bat Manga Wins Harvey Award",
+          "link": "https://www.animenewsnetwork.com/news/2026-10-09/billy-bat-manga-wins-harvey-award/.242681",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-10T02:51:40.000Z",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gRB/cms/news.9/237914/billy-bat-1-cover.jpg"
+        },
+        {
+          "title": "完結していないマンガで“一番続きが気になる”作品は？ アンケート〆切は10月15日",
+          "link": "https://animeanime.jp/article/2026/10/09/103646.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T07:40:03.000Z",
+          "image": ""
+        },
+        {
+          "title": "漫画『ひらやすみ』残り2話で完結 実写ドラマ化された人気作",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lcHhrWUMyQlVSQ0lPcXduNGxQeFZ6Y3p1eTI3ZnpyZFk4c0ZOOUoyWXhDRVZ0TkJJSTRlY1lIa0FQaU1lU3RiR2FvTERvbi13WXc?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-10T17:50:13.000Z",
+          "image": ""
+        },
+        {
+          "title": "「まさかのシーンが」「耳元に…」イメージない女優の演技が衝撃だった過激マンガ実写版",
+          "link": "https://magmix.jp/post/380281",
+          "source": "マグミクス",
+          "sourceId": "magmix",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-10T11:40:00.000Z",
+          "image": "https://magmix.jp/wp-content/uploads/2025/04/250407-jissha-00.jpg"
+        }
+      ],
+      "image": "https://variety.com/wp-content/uploads/2025/06/Naruto-the-Movie.jpg"
+    },
+    {
+      "key": "movie",
+      "label": "电影",
+      "en": "MOVIES",
+      "items": [
+        {
+          "title": "実写映画『ストリートファイター』はリュウとケンの原点を“90年代アニメスタイル”で描く！剛拳のビジュアルが解禁、字幕版の声優はマ・ドンソクに決定",
+          "link": "https://news.denfaminicogamer.jp/news/261010k",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-10T08:00:12.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/StreetFigher_Character_4x5_GOUKEN-819x1024.jpg"
+        },
+        {
+          "title": "「ホタルの嫁入り」実写化決定！ アニメとのW映像化に実写化もファン騒然！橘オレコ「キャラクターたちが現実の世界でどんなふう動くのか楽しみ」",
+          "link": "https://animeanime.jp/article/2026/10/10/103663.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-09T15:05:02.000Z",
+          "image": "https://animeanime.jp/imgs/ogp_f/941134.jpg"
+        },
+        {
+          "title": "『俺たちの箱根駅伝』ディレクターズカット版、Huluで独占配信 未公開シーンを収録",
+          "link": "https://realsound.jp/movie/2026/10/post-2549811.html",
+          "source": "Real Sound 映画部",
+          "sourceId": "realsound-movie",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-10T14:00:05.000Z",
+          "image": ""
+        },
+        {
+          "title": "奪われた娘を救うためのタイムリミットは72時間『ミラ・ジョヴォヴィッチ in プロテクター』12月公開 予告編が解禁",
+          "link": "https://www.cinemacafe.net/article/2026/10/10/113240.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-10T05:30:03.000Z",
+          "image": ""
+        },
+        {
+          "title": "不気味な子ども番組の謎を追うホラーゲーム『Amanda the Adventurer』の映画化が発表。『ゲット・アウト』などのブラムハウスが企画を進める",
+          "link": "https://news.denfaminicogamer.jp/news/261010m",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-10T10:32:31.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_4ea18714d29439d2af406178f771978b8c3ea61b.1920x1080-1024x576.jpg"
+        }
+      ],
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/StreetFigher_Character_4x5_GOUKEN-819x1024.jpg"
+    },
+    {
+      "key": "music",
+      "label": "音乐",
+      "en": "MUSIC",
+      "items": [
+        {
+          "title": "アニメ『ワンパンマン』第3期第2クールが2027年1月に放送決定！OP主題歌はJAM Projectの「Never Done～最強 VS 最恐～」",
+          "link": "https://news.denfaminicogamer.jp/news/261011a",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-10T18:15:17.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/294eb4b8c4865fe12d585276b90185e7-725x1024.png"
+        },
+        {
+          "title": "田村ゆかり、最新LIVE Blu-ray＆DVDが2027年1月20日に発売決定！さらにバースデーイベント＆全国ツアーの開催も一挙解禁！",
+          "link": "https://www.lisani.jp/0000319726/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-10T23:00:06.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610101800-yh-011.jpg"
+        },
+        {
+          "title": "MAN WITH A MISSION、TVアニメ『朱色の仮面』OPテーマ「Firestarter」先行配信決定！！アートワークならび収録詳細も解禁！",
+          "link": "https://www.lisani.jp/0000319699/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-10T09:00:53.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610101800-yh-001.jpg"
+        },
+        {
+          "title": "JUJU最新ツアー「時間旅行」千秋楽12月に放送・配信決定、演出は松任谷正隆",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pSVVPZFFqU1ljS25CUzMxSUVLMW53ejlpNHdUQ09ENnNLNWp0WER1cmJ4VjNEVWdqbDhUME1mWG1WX0ZVU25iQWE1czU?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-10T03:06:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "‘Project Hail Mary’ Composer Daniel Pemberton, ‘KPop Demon Hunters’ Songwriter EJAE Triumph at World Soundtrack Awards",
+          "link": "https://variety.com/2026/film/awards/project-hail-mary-daniel-pemberton-kpop-demon-hunters-ejae-1236907618/",
+          "source": "Variety",
+          "sourceId": "variety",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-10T20:40:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/MixCollage-09-Oct-2026-09-30-AM-4416.jpg"
+        }
+      ],
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/294eb4b8c4865fe12d585276b90185e7-725x1024.png"
+    }
+  ],
+  "birthdays": [
+    {
+      "name": "ラック・ボルティア",
+      "work": "ブラッククローバー",
+      "favourites": 2686
+    },
+    {
+      "name": "杠",
+      "work": "地獄楽",
+      "favourites": 2389
+    },
+    {
+      "name": "ユーフェミア・リ・ブリタニア",
+      "work": "コードギアス 反逆のルルーシュ",
+      "favourites": 583
+    }
+  ],
+  "stats": {
+    "sources": 37,
+    "sourcesOk": 31,
+    "fetched": 1463,
+    "accepted": 797,
+    "filtered": 666,
+    "heroImages": 5
+  }
+}
