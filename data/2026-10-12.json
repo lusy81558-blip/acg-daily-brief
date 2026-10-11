@@ -1,0 +1,322 @@
+{
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-11T23:06:35.738Z",
+  "timezone": "Asia/Shanghai",
+  "sections": [
+    {
+      "key": "game",
+      "label": "游戏",
+      "en": "GAMES",
+      "items": [
+        {
+          "title": "【30人マルチ対応】最大“100万の部屋”で構成される迷路からゴールを見つけだすゲーム『ミリオンキューブ』Steamストアページが公開。10月末ごろのリリースを予定",
+          "link": "https://news.denfaminicogamer.jp/news/261011i",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-11T08:18:06.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/sub1-17-1024x576.png"
+        },
+        {
+          "title": "『ガンダムSEED』HDリマスター版全48話を凝縮したダイジェストが明日21時よりプレミア公開。ナレーションは西川貴教さん",
+          "link": "https://news.denfaminicogamer.jp/news/261010q",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-10T14:52:21.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HUQQsI-a0AABhk4-1024x576.jpeg"
+        },
+        {
+          "title": "MARVEL Tokon: Fighting Souls DLC characters Thor (Jane Foster), Venom, and Jubilee announced",
+          "link": "https://www.gematsu.com/2026/10/marvel-tokon-fighting-souls-dlc-characters-thor-jane-foster-venom-and-jubilee-announced",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-11T12:00:18.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/MARVEL-Tokon-DLC-Characters_10-11-26.jpg"
+        },
+        {
+          "title": "秘密を抱えた“人形職人”が主人公のホラーノベルゲーム『The Doll Shop』がSteamで明日10月12日発売。フランスのマンガ家コンビ、アトリエ・セントーによる手描きのグラフィックは雰囲気バツグン",
+          "link": "https://news.denfaminicogamer.jp/news/261011l",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-11T13:34:38.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_5a0ffc432569d79422d0f3465b0fb5da628f1763.1920x1080-1024x576.jpg"
+        },
+        {
+          "title": "Naruto Mobile global version announced",
+          "link": "https://www.gematsu.com/2026/10/naruto-mobile-global-version-announced",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-10T22:00:02.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Naruto-Mobile-Ann_10-10-26.jpg"
+        }
+      ],
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/sub1-17-1024x576.png"
+    },
+    {
+      "key": "anime",
+      "label": "动画",
+      "en": "ANIME",
+      "items": [
+        {
+          "title": "Godzilla Minus Zero Film Streams Final Trailer",
+          "link": "https://www.animenewsnetwork.com/news/2026-10-11/godzilla-minus-zero-film-streams-final-trailer/.242719",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-11T11:55:00.000Z",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH4/youtube/We3rt2uQpoY.jpg"
+        },
+        {
+          "title": "SSS-Class Revival Hunter Anime Reveals 8 More Cast, 2nd Promo Video, Ending Theme Artists",
+          "link": "https://www.animenewsnetwork.com/news/2026-10-10/sss-class-revival-hunter-anime-reveals-8-more-cast-2nd-promo-video-ending-theme-artists/.242701",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-11T02:34:28.000Z",
+          "image": ""
+        },
+        {
+          "title": "One-Punch Man Season 3 Anime's 2nd Part Reveals January 2027 Debut in Video",
+          "link": "https://www.animenewsnetwork.com/news/2026-10-10/one-punch-man-season-3-anime-2nd-part-reveals-january-2027-debut-in-video/.242696",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-10T23:32:53.000Z",
+          "image": ""
+        },
+        {
+          "title": "韓国発の漫画「ザ・ボクサー」TVアニメ化決定 内山昂輝が主人公ユ役 小野賢章、関智一、豊永利行も出演",
+          "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5zb3NVTDNjdEJ4bTZoTzRHajdQSGlhdF9oTXFfLUUyUEkwNHhNMFk5U21XLXJfNnIwWVh5Sg?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-11T06:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Dr. Stone TV Anime Gets Terraforming Sequel",
+          "link": "https://www.animenewsnetwork.com/news/2026-10-10/dr-stone-tv-anime-gets-terraforming-sequel/.242690",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-10T12:57:58.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH4/youtube/We3rt2uQpoY.jpg"
+    },
+    {
+      "key": "manga",
+      "label": "漫画",
+      "en": "MANGA",
+      "items": [
+        {
+          "title": "「妖怪VS仮面ライダーマイス」アザービジュアル解禁、ヒーローショーのストーリーも",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XdXRvejJqWUo2RXQ2aWg5TEc2VTB3RDlpemdyLTBITkRoMHpvTDMyNjFhX2hRRTlUUkNWWVNoalBRSE91bTc4QTA4cw?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-11T00:30:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "逃げて…「ゴジラ-0.0」ファイナル予告解禁、“絶望”が人類に襲いかかる",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45dEpubW9MdXZMTUNNWkFRZ3NWWXB4cmpqZjZDY3kzUkFIVFI4UGo0LXJhM2w3eXpuZ09mV3I3MlVoSWk5VHFkakVDZw?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-11T12:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "M!LK塩﨑太智が本日「ヒルナンデス！」でハロウィーン仕様のディズニーを徹底解説！ミニーマウスには吉田仁人のミスを謝罪",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LZHg5dEpHZ041MWYzZDFLMWVTV01fV05rcXlwb0VXT2IwNGt4Qmo1MlVjYXBYNk5YRWluUTlXQTk3X2J4TjBnejZTU1Q?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-11T22:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "漫画『オーバーロード〈新世界編〉』休載へ 作画担当のMatsuki入院で療養・安静のため",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2LWhNZ2RUY1pJNU56d3RYSmY3eU9uZFNZZ2kxLXVxYTZsMVFNOUxpbDQ2M25pNjBkTFYzTkhzdnRtN2RtNWFGNlotQTBOYTFxenE0Mm9wT1YwWkVZVEN5MHFYUFpXRlBLbDhMZ0Q4T25KSUxCS2JF?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-11T19:46:30.000Z",
+          "image": ""
+        },
+        {
+          "title": "Billy Bat Manga Wins Harvey Award",
+          "link": "https://www.animenewsnetwork.com/news/2026-10-09/billy-bat-manga-wins-harvey-award/.242681",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-10T02:51:40.000Z",
+          "image": ""
+        }
+      ],
+      "image": ""
+    },
+    {
+      "key": "movie",
+      "label": "电影",
+      "en": "MOVIES",
+      "items": [
+        {
+          "title": "実写映画『ストリートファイター』はリュウとケンの原点を“90年代アニメスタイル”で描く！剛拳のビジュアルが解禁、字幕版の声優はマ・ドンソクに決定",
+          "link": "https://news.denfaminicogamer.jp/news/261010k",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-10T08:00:12.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/StreetFigher_Character_4x5_GOUKEN-819x1024.jpg"
+        },
+        {
+          "title": "「純粋さが怖い」武井咲が山﨑賢人と松下洸平の人生を狂わせる⁉ 東野圭吾、最大の問題作『殺人の門』新キャスト発表",
+          "link": "https://www.moviecollection.jp/news/309069/",
+          "source": "MOVIE Collection",
+          "sourceId": "moviecollection",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-11T22:07:21.000Z",
+          "image": "https://www.moviecollection.jp/wp/wp-content/uploads/2026/10/503d333ed78e6cf66cb3d2987a85e608.jpg"
+        },
+        {
+          "title": "レインボー・ジャンボ、新感覚漫画の企画を考案 食×ラブストーリーで実写化するなら「目黒蓮くんと今田美桜ちゃん」",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuaV9ZNmlJYV9yOFhKMDRrTElMSm51MGpYa25kWjJGZHdIenE5R1ZGQXRZZXVEcUQ5dTFmSkswLVY4cFBVRFdBTVVnSGZRY2xwc2xmY1NDd3EzMDBXS3c?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-11T18:23:02.000Z",
+          "image": ""
+        },
+        {
+          "title": "奪われた娘を救うためのタイムリミットは72時間『ミラ・ジョヴォヴィッチ in プロテクター』12月公開 予告編が解禁",
+          "link": "https://www.cinemacafe.net/article/2026/10/10/113240.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-10T05:30:03.000Z",
+          "image": "https://www.cinemacafe.net/imgs/ogp_f/838580.jpg"
+        },
+        {
+          "title": "Mrs. GREEN APPLEの新曲が映画「君の話」主題歌に決定、主演の北村匠海は大森元貴がすごい男でびっくりする",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oWE1qTjlpcXQwMWVwMDlPYUt6bVNaU1BBT1JKTVJNUTdfUGNtUlFrU1E3Y3VTR1pSb1Q2ZWFOUk5aWVFYSG5xRXRzNHk?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-11T21:30:00.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/StreetFigher_Character_4x5_GOUKEN-819x1024.jpg"
+    },
+    {
+      "key": "music",
+      "label": "音乐",
+      "en": "MUSIC",
+      "items": [
+        {
+          "title": "KID PHENOMENON、TVアニメ『夜桜さんちの大作戦』EDテーマ「I’m still breathing」10月12日(月・祝)に先行配信決定！商品収録内容も公開！",
+          "link": "https://www.lisani.jp/0000319756/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-11T10:00:17.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610111800-yh-003.jpg"
+        },
+        {
+          "title": "アニメ『ワンパンマン』第3期第2クールが2027年1月に放送決定！OP主題歌はJAM Projectの「Never Done～最強 VS 最恐～」",
+          "link": "https://news.denfaminicogamer.jp/news/261011a",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-10T18:15:17.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/294eb4b8c4865fe12d585276b90185e7-725x1024.png"
+        },
+        {
+          "title": "田村ゆかり、最新LIVE Blu-ray＆DVDが2027年1月20日に発売決定！さらにバースデーイベント＆全国ツアーの開催も一挙解禁！",
+          "link": "https://www.lisani.jp/0000319726/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-10T23:00:06.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610101800-yh-011.jpg"
+        },
+        {
+          "title": "TOOBOE、TVアニメ「ホタルの嫁入り」EDテーマ「夢心地」デジタル配信スタート！全編オリジナル・アニメーションのMVも公開！",
+          "link": "https://www.lisani.jp/0000319774/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-11T12:00:06.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610111800-yh-013.jpg"
+        },
+        {
+          "title": "北村匠海×出口夏希『君の話』本予告公開 主題歌はMrs. GREEN APPLEが書き下ろし",
+          "link": "https://realsound.jp/movie/2026/10/post-2550252.html",
+          "source": "Real Sound 映画部",
+          "sourceId": "realsound-movie",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-11T21:30:37.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610111800-yh-003.jpg"
+    }
+  ],
+  "birthdays": [
+    {
+      "name": "ガーフィール・ティンゼル",
+      "work": "Re:ゼロから始める異世界生活 2nd Season",
+      "favourites": 1521
+    },
+    {
+      "name": "白浜兼一",
+      "work": "史上最強の弟子 ケンイチ",
+      "favourites": 320
+    },
+    {
+      "name": "コンスタンツェ・アマーリエ・フォン・ブラウンシュバンク＝アルブレヒツベルガー",
+      "work": "リトルウィッチアカデミア (TV)",
+      "favourites": 313
+    }
+  ],
+  "stats": {
+    "sources": 37,
+    "sourcesOk": 31,
+    "fetched": 1425,
+    "accepted": 617,
+    "filtered": 808,
+    "heroImages": 4
+  }
+}
