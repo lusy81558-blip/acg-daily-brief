@@ -1,0 +1,317 @@
+{
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-12T23:08:42.369Z",
+  "timezone": "Asia/Shanghai",
+  "sections": [
+    {
+      "key": "game",
+      "label": "游戏",
+      "en": "GAMES",
+      "items": [
+        {
+          "title": "Usual June delayed to January 20, 2027",
+          "link": "https://www.gematsu.com/2026/10/usual-june-delayed-to-january-20-2027",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-12T19:12:14.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Usual-June-Delay_10-12-26.jpg"
+        },
+        {
+          "title": "「最大4人」で“ブロック玩具”を組み立てるゲーム『Brick Buddies』が面白そう。パーツがカチッとハマる瞬間が気持ちいい",
+          "link": "https://news.denfaminicogamer.jp/news/261012i",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-12T05:38:21.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/videoframe_2604-1-1024x576.png"
+        },
+        {
+          "title": "【30人マルチ対応】最大“100万の部屋”で構成される迷路からゴールを見つけだすゲーム『ミリオンキューブ』Steamストアページが公開。10月末ごろのリリースを予定",
+          "link": "https://news.denfaminicogamer.jp/news/261011i",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-11T08:18:06.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/sub1-17-1024x576.png"
+        },
+        {
+          "title": "Hunter’s Moon voice cast announced",
+          "link": "https://www.gematsu.com/2026/10/hunters-moon-voice-cast-announced",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-12T13:24:47.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Hunters-Moon-Cast_10-12-26.jpg"
+        },
+        {
+          "title": "Marvel Tōkon: Fighting Souls Game Reveals Full Roster for Year 1 DLC",
+          "link": "https://www.animenewsnetwork.com/news/2026-10-12/marvel-tokon-fighting-souls-game-reveals-full-roster-for-year-1-dlc/.242733",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-12T07:54:45.000Z",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ9/cms/news.10/242733/marvel.jpg"
+        }
+      ],
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Usual-June-Delay_10-12-26.jpg"
+    },
+    {
+      "key": "anime",
+      "label": "动画",
+      "en": "ANIME",
+      "items": [
+        {
+          "title": "『鵺の陰陽師』のアニメ化が決定、2027年夏放送へ！夜島学郎役を三浦魁さん、鵺役を大西沙織さん、周防七咲役を鈴代紗弓さんが演じる",
+          "link": "https://news.denfaminicogamer.jp/news/261012s",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-12T11:17:43.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HUbNfDzaYAAuG84-1-724x1024.png"
+        },
+        {
+          "title": "Live-Action Renai Rubi no Tadashii Furikata Season 2 Reveals More Cast, October 29 Debut",
+          "link": "https://www.animenewsnetwork.com/news/2026-10-12/live-action-renai-rubi-no-tadashii-furikata-season-2-reveals-more-cast-october-29-debut/.242725",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-12T06:01:16.000Z",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB6/cms/news.10/242725/renairubi-season2.jpg"
+        },
+        {
+          "title": "The Apothecary Diaries: The Late Lady's Treasure Film's New Video Reveals Bi Clan's Cast",
+          "link": "https://www.animenewsnetwork.com/news/2026-10-11/the-apothecary-diaries-the-late-lady-treasure-film-new-video-reveals-bi-clan-cast/.242730",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-12T03:44:01.000Z",
+          "image": ""
+        },
+        {
+          "title": "Godzilla Minus Zero Film Streams Final Trailer",
+          "link": "https://www.animenewsnetwork.com/news/2026-10-11/godzilla-minus-zero-film-streams-final-trailer/.242719",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-11T11:55:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "2027年1月より放送開始！TVアニメ『描くなるうえは』OPテーマが、shallm「キミイロヒラリ」に決定！",
+          "link": "https://www.lisani.jp/0000319794/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-12T09:00:03.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610121800-yh-001.jpg"
+        }
+      ],
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HUbNfDzaYAAuG84-1-724x1024.png"
+    },
+    {
+      "key": "manga",
+      "label": "漫画",
+      "en": "MANGA",
+      "items": [
+        {
+          "title": "【全話無料】コロコロの人気バトルマンガ『コロッケ！』が明日10月13日から48時間限定で全話を無料公開！続編の『BLACK LABEL』も対象に",
+          "link": "https://news.denfaminicogamer.jp/news/261012g",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-12T02:45:52.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HUFzc51a0AAHqZE-707x1024.jpg"
+        },
+        {
+          "title": "Blue Thermal's Kana Ozawa Announces New Manga",
+          "link": "https://www.animenewsnetwork.com/news/2026-10-12/blue-thermal-kana-ozawa-announces-new-manga/.242718",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-12T15:15:00.000Z",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFK/cms/news.10/242718/sansa.jpg"
+        },
+        {
+          "title": "パラステ新章「Road to Legend」“FATE”に北村諒ら、出演者＆ビジュアル解禁",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oWlpqUVhHUTdwTUtJdnZVM1puRVE1bENadWtzaFpTUFdmaTFmWUJSYzBqa1ZtZHpPVGdxUDVjR1Z1S2h1Mmw0YjRpN2M?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-12T05:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "サッカー日本代表はワールドカップで何を感じたのか？ドキュメンタリー公開、中村倫也が語り担当",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWLWtkRWw0SFctdDZzT1NyMGVXTlkzOXNadENLTkZpRUhsVFQyaHpMcXdxYkVRMVJwal9IMmlvNk8xRFYyd0JkM0xvaw?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-12T21:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "漫画家・奥浩哉、『還暦姫』完結後の引退を正式発表 「もう充分描いたので……」",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81RVV4dFdTb1RfV0RXNzdaNFQ0Ri1XV0ZZbFVjOVBVQ0xVVWRTSW9LMlJKTG9tRWtuRnZGN1dfNDR5aU1MLXZFVjg5NnNWZ2hU?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-12T15:00:19.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HUFzc51a0AAHqZE-707x1024.jpg"
+    },
+    {
+      "key": "movie",
+      "label": "电影",
+      "en": "MOVIES",
+      "items": [
+        {
+          "title": "RJ Mitte, ‘Breaking Bad’ Star, Dies at 34",
+          "link": "https://variety.com/2026/tv/news/rj-mitte-dead-breaking-bad-1236909451/",
+          "source": "Variety",
+          "sourceId": "variety",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-12T20:35:36.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/TCDBRBA_EC119.jpg"
+        },
+        {
+          "title": "Linda Duncombe, Beloved Banking Executive and Movie Producer, Dies at 55",
+          "link": "https://variety.com/2026/film/news/linda-duncombe-dead-banking-executive-movie-producer-1236909543/",
+          "source": "Variety",
+          "sourceId": "variety",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-12T22:07:15.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/Linda-Pic-.jpeg"
+        },
+        {
+          "title": "『アングリーバード』新作映画、2027年1月22日公開 吹替版声優に本田紗来、齋藤潤ら",
+          "link": "https://realsound.jp/movie/2026/10/post-2550374.html",
+          "source": "Real Sound 映画部",
+          "sourceId": "realsound-movie",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-12T23:00:59.000Z",
+          "image": ""
+        },
+        {
+          "title": "鈴木伸之×超特急・柏木悠の主演映画「羊の皮を着たケモノ」12月11日公開決定 新感覚骨太ボーイズラブ漫画を実写化【ポスターも完成】 : 映画ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9haHBMdjU1UDVCMi1PQmgzODVHenRZWjF2aWZZbGNLOUNHaGVyV29RODhCYnNhUllqNEx0OUFYYlBKUGdlY0dzbU5B?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-12T09:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "RJ Mitte, Walter White Jr. On Breaking Bad, Dead At 34",
+          "link": "https://www.slashfilm.com/2284711/rj-mitte-walter-white-jr-breaking-bad-actor-dead-obituary/",
+          "source": "SlashFilm",
+          "sourceId": "slashfilm",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-12T21:14:13.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/rj-mitte-walter-white-jr-breaking-bad-actor-dead-obituary/l-intro-1791844775.jpg"
+        }
+      ],
+      "image": "https://variety.com/wp-content/uploads/2026/10/TCDBRBA_EC119.jpg"
+    },
+    {
+      "key": "music",
+      "label": "音乐",
+      "en": "MUSIC",
+      "items": [
+        {
+          "title": "最強VS最恐、決着！アニメ『ワンパンマン』第3期第2クール2027年1月放送決定！キービジュアルとPV第1弾を公開＆OP主題歌はJAM Projectに決定！",
+          "link": "https://www.lisani.jp/0000319821/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-12T23:00:55.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610121800-yh-012.png"
+        },
+        {
+          "title": "『めおと日和』続編の主題歌はDa-iCE書き下ろし新曲 芳根京子「一気に心を奪われました」",
+          "link": "https://realsound.jp/movie/2026/10/post-2550957.html",
+          "source": "Real Sound 映画部",
+          "sourceId": "realsound-movie",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-12T22:00:15.000Z",
+          "image": "https://realsound.jp/wp-content/uploads/2026/10/20261013-meoto-99.jpg"
+        },
+        {
+          "title": "harmoe、8thシングル「Trick and Treat」2027年1月27日発売決定！最新アーティスト写真・ジャケット写真も公開！",
+          "link": "https://www.lisani.jp/0000319808/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-12T11:00:27.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610121800-yh-007.jpg"
+        },
+        {
+          "title": "Snow Man、新アルバム『AMENITY』令和初の5作連続初週ミリオン達成 7作連続累積は歴代単独1位更新",
+          "link": "https://realsound.jp/2026/10/post-2551192.html",
+          "source": "Real Sound 音楽",
+          "sourceId": "realsound-music",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-12T19:00:17.000Z",
+          "image": ""
+        },
+        {
+          "title": "DREAMS COME TRUEが新曲「サヨナラとバトン」リリース、「救命病棟24時」新シリーズ主題歌",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZVHU5amNGU0VnTERvRUZjaEZ1T3BSM0Iyd2ZqbzFBUklDMVMxczZ3a1BWenlMT0oyMWZfSXdibXUyOWsyQW51OEJ0NzE?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-12T13:15:00.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610121800-yh-012.png"
+    }
+  ],
+  "birthdays": [
+    {
+      "name": "リボーン",
+      "work": "家庭教師ヒットマンREBORN!",
+      "favourites": 571
+    },
+    {
+      "name": "ソニア・ネヴァーマインド",
+      "work": "ダンガンロンパ3 -The End of 希望ヶ峰学園-　絶望編",
+      "favourites": 435
+    }
+  ],
+  "stats": {
+    "sources": 37,
+    "sourcesOk": 31,
+    "fetched": 1462,
+    "accepted": 705,
+    "filtered": 757,
+    "heroImages": 5
+  }
+}
