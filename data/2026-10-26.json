@@ -1,0 +1,322 @@
+{
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T00:56:19.368Z",
+  "timezone": "Asia/Shanghai",
+  "sections": [
+    {
+      "key": "game",
+      "label": "游戏",
+      "en": "GAMES",
+      "items": [
+        {
+          "title": "Tomb Raider: Legacy of Atlantis ’30th Anniversary’ teaser trailer",
+          "link": "https://www.gematsu.com/2026/10/tomb-raider-legacy-of-atlantis-30th-anniversary-teaser-trailer",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-25T16:35:08.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Tomb-Raider-Legacy-of-Atlantis-Trailer_10-25-26.jpg"
+        },
+        {
+          "title": "「ブルアカ」の新イベント「Start Your Engines! 〜183号よ永遠に!〜」が10月28日のメンテナンス後に開幕。6周年のフェス情報も解禁",
+          "link": "https://www.4gamer.net/games/519/G051983/20261025004/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-25T12:53:08.000Z",
+          "image": "https://www.4gamer.net/games/519/G051983/20261025004/SS/013.jpg"
+        },
+        {
+          "title": "「ウマ娘 プリティーダービー」，新ウマ娘として「ウインマリリン」登場。「吾妻」が登場する新育成シナリオ追加も明らかに",
+          "link": "https://www.4gamer.net/games/554/G055489/20261025003/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-25T03:37:09.000Z",
+          "image": ""
+        },
+        {
+          "title": "押せる！ 開く！ ピポサルもいる！ 「レゴ PlayStation」は組み立てる工程すらエモい大人のレゴだった【放課後れびゅあーず！】",
+          "link": "https://www.4gamer.net/games/925/G092590/20261025002/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-25T03:07:54.000Z",
+          "image": ""
+        },
+        {
+          "title": "初代『トゥームレイダー』を再構築したゲーム『トゥームレイダー：レガシー・オブ・アトランティス』の最新映像が公開。シリーズ30周年記念映像で、ララの身体が金に変わる場面も",
+          "link": "https://news.denfaminicogamer.jp/news/261026c",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-25T23:23:57.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/Tomb-Raider-Legacy-of-Atlantis-30th-Anniversary-Teaser-Video-Tom.mp4_snapshot_00.28.834-1024x576.jpg"
+        }
+      ],
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Tomb-Raider-Legacy-of-Atlantis-Trailer_10-25-26.jpg"
+    },
+    {
+      "key": "anime",
+      "label": "动画",
+      "en": "ANIME",
+      "items": [
+        {
+          "title": "TVアニメ『MURCIÉLAGO-ムルシエラゴ-』ティザービジュアル、最新PVなど解禁！",
+          "link": "https://www.lisani.jp/0000320792/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-25T04:00:54.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610241800-yh-009.png"
+        },
+        {
+          "title": "“鉄道”キャラといえば？ 2位は「鬼滅」魘夢＆「シンカリオン」速杉ハヤト！ 1位は世界的に有名な…＜26年版＞",
+          "link": "https://animeanime.jp/article/2026/10/26/104194.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-25T22:30:03.000Z",
+          "image": "https://animeanime.jp/imgs/ogp_f/946046.jpg"
+        },
+        {
+          "title": "『劇場版 怪獣8号』2027年公開決定！ アニメシリーズがついに完結へ。日比野カフカ／怪獣8号役・福西勝也さんも「愛するこの作品を全力で作り上げていきます」とコメント",
+          "link": "https://news.denfaminicogamer.jp/news/261024o",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-24T07:59:54.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HVX8gpUawAEg5rk-724x1024.jpg"
+        },
+        {
+          "title": "ハロウィンで仮装したい男性キャラは？ 3位「NARUTO」うずまきナルト＆「鬼滅」冨岡義勇、2位「進撃」リヴァイ、1位は… ＜26年版＞",
+          "link": "https://animeanime.jp/article/2026/10/25/104173.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-25T01:30:03.000Z",
+          "image": ""
+        },
+        {
+          "title": "「おジャ魔女どれみ」ぷっくり立体シール＆ポップコーンポットが新登場！ 歴代アイテムや魔女見習い服をデザイン",
+          "link": "https://animeanime.jp/article/2026/10/24/104150.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-24T03:15:02.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610241800-yh-009.png"
+    },
+    {
+      "key": "manga",
+      "label": "漫画",
+      "en": "MANGA",
+      "items": [
+        {
+          "title": "「キミ戦」Season III制作決定、心配そうなアリスリーゼ描いたビジュアル公開（コメントあり）",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9yWGhxOUMzWGxydmZOaVo3UFo4ak02VENzV21mNmVsbm50S3Z4clE2NDRmRldYOG54ZHNIV3R5VE5WVE1XV2x2dE9yTHk?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-25T10:30:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "「VIVANT」役所広司演じるノゴーン・ベキのビジュアル解禁、次回ですべてにつながる真実が",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HR0ZNRldqbGJnMm92V0dmTnY5TlVFbFVudHI1VW5ycXBGcEhJLTRlLWRCZ094Ul9yRERMd0hkTWJzajEwd3ctYTZrYw?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-25T13:39:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "元クリスタルキングのピアニスト・中村公晴が死去",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEbmpjTlg2ci1HLXlhVEZvbUtZaWxQTzF5STdHSjBIQ0FkRmZPWlVlcnRXY20xRFFsYm9JQk5tWWF5c0RiWVBnN25UaWo?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-25T09:05:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "画像368 / 462＞【漫画】新たな問題児の派遣さん登場！4歳児の母が来る『天然非常識、無垢さん』／著：ゆき蔵",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53S0FDRUEwLXU0ZmktMmVDdTMzSG92RG1YYnp3b0NhUkI1TkY1aWNpdGZGX1huSVYwa0VvQXFIUDRSeWkxLUNuUWJoUmhTeFpWNWQ1cnRzOFNGOENFd3Vkckk4LXhsYXNPRkx0NU5B?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-25T22:41:03.000Z",
+          "image": ""
+        },
+        {
+          "title": "「FAIRY TAIL」連載開始20周年でグラニフと初コラボ☆ ナツ、ルーシィ、妖精の尻尾キャラのTシャツなど全10アイテム登場",
+          "link": "https://animeanime.jp/article/2026/10/24/104160.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-24T08:00:03.000Z",
+          "image": ""
+        }
+      ],
+      "image": ""
+    },
+    {
+      "key": "movie",
+      "label": "电影",
+      "en": "MOVIES",
+      "items": [
+        {
+          "title": "『ブラッサム』第22話、熊田役の斎藤司が初登場 珠（石橋静河）が仕事を探す",
+          "link": "https://realsound.jp/movie/2026/10/post-2563637.html",
+          "source": "Real Sound 映画部",
+          "sourceId": "realsound-movie",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-25T23:15:05.000Z",
+          "image": ""
+        },
+        {
+          "title": "Netflixシリーズ『サンクチュアリ -聖域-』S2制作決定 一ノ瀬ワタル「もう一回、暴れるぞ」",
+          "link": "https://realsound.jp/movie/2026/10/post-2563872.html",
+          "source": "Real Sound 映画部",
+          "sourceId": "realsound-movie",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-25T23:00:52.000Z",
+          "image": "https://realsound.jp/wp-content/uploads/2026/10/20261026-sanctuary-01.jpg"
+        },
+        {
+          "title": "Peggy King, ‘George Gobel Show’ Actress and Singer of the ’50s, Dies at 96",
+          "link": "https://variety.com/2026/tv/people-news/peggy-king-dead-actress-singer-1236930847/",
+          "source": "Variety",
+          "sourceId": "variety",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-25T21:17:35.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/Peggy-King-signed-portrait.jpg"
+        },
+        {
+          "title": "Peggy King, Singer and ‘George Gobel Show’ Star of Television’s Golden Age, Dies at 96",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/peggy-king-dead-singer-george-gobel-show-actress-1236739719/",
+          "source": "Hollywood Reporter",
+          "sourceId": "thr",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-25T21:52:13.000Z",
+          "image": ""
+        },
+        {
+          "title": "ミスド×ポケモン、歴代ポケモンが大集合！ピカチュウやアローラディグダのドーナツが11月4日より登場",
+          "link": "https://www.cinemacafe.net/article/2026/10/24/113562.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-24T04:30:04.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://realsound.jp/wp-content/uploads/2026/10/20261026-sanctuary-01.jpg"
+    },
+    {
+      "key": "music",
+      "label": "音乐",
+      "en": "MUSIC",
+      "items": [
+        {
+          "title": "11月27日公開、映画『タコピーの原罪 -ありがとう、また明日-』新ビジュアル＆本予告解禁！主題歌はTele「らびゅー」に決定！",
+          "link": "https://www.lisani.jp/0000320837/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-25T10:00:10.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610251800-yh-008.jpg"
+        },
+        {
+          "title": "SiMが「THE FIRST TAKE」初登場！TVアニメ『進撃の巨人 The Final Season Part 2』OPテーマ「The Rumbling」を一発撮りパフォーマンス！",
+          "link": "https://www.lisani.jp/0000320844/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-25T11:00:56.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610251800-yh-009.jpg"
+        },
+        {
+          "title": "ポケモン×初音ミク！ryo (supercell)新曲「LEGENDS」＆「1996」連続公開決定！",
+          "link": "https://www.lisani.jp/0000320787/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-24T23:00:31.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610241800-yh-008.png"
+        },
+        {
+          "title": "『ラブライブ！』と『ヤマトよ永遠に REBEL3199』がまさかのコラボ。高坂穂乃果とサーシャが“秋葉原の街”を駆けるビジュアルが解禁",
+          "link": "https://news.denfaminicogamer.jp/news/261024n",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-24T09:00:34.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/315612864defe4c3c3a070439c780904-1024x738.png"
+        },
+        {
+          "title": "中島美嘉、劇場作品『装甲騎兵ボトムズ 灰色の魔女』主題歌を担当！楽曲提供は高見沢俊彦(THE ALFEE)！",
+          "link": "https://www.lisani.jp/0000320858/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-25T23:00:26.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610251800-yh-019.jpg"
+        }
+      ],
+      "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610251800-yh-008.jpg"
+    }
+  ],
+  "birthdays": [
+    {
+      "name": "織田作之助",
+      "work": "文豪ストレイドッグス 第2シーズン",
+      "favourites": 1950
+    },
+    {
+      "name": "川崎沙希",
+      "work": "やはり俺の青春ラブコメはまちがっている。",
+      "favourites": 969
+    },
+    {
+      "name": "オスカー・フォン・ロイエンタール",
+      "work": "銀河英雄伝説",
+      "favourites": 826
+    }
+  ],
+  "stats": {
+    "sources": 37,
+    "sourcesOk": 31,
+    "fetched": 1597,
+    "accepted": 624,
+    "filtered": 973,
+    "heroImages": 4
+  }
+}
