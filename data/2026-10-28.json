@@ -1,0 +1,322 @@
+{
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T01:58:23.777Z",
+  "timezone": "Asia/Shanghai",
+  "sections": [
+    {
+      "key": "game",
+      "label": "游戏",
+      "en": "GAMES",
+      "items": [
+        {
+          "title": "任天堂によるインディーゲーム紹介番組「Indie World 2026.10.28」が10月28日23時より配信決定！配信時間は約25分",
+          "link": "https://news.denfaminicogamer.jp/news/2610273g",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-27T13:53:35.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ogp-2-1024x538.png"
+        },
+        {
+          "title": "体験版祭り「Steam Nextフェス」 10月版の人気トップ50発表。1位はいたずら生徒vs.教師の非対称バトル、明日発売のディストピア質屋経営シムは2位に",
+          "link": "https://automaton-media.com/articles/newsjp/20261027-475863/",
+          "source": "AUTOMATON",
+          "sourceId": "automaton",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-27T07:20:53.000Z",
+          "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261027-475863-header-6.jpg"
+        },
+        {
+          "title": "Bad Ice-Cream Resort announced for Switch, PC",
+          "link": "https://www.gematsu.com/2026/10/bad-ice-cream-resort-announced-for-switch-pc",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-27T17:15:28.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Bad-Ice-Cream-Resort-Announce_10-27-26.jpg"
+        },
+        {
+          "title": "『Pokémon UNITE（ポケモンユナイト）』が2027年3月23日をもってサービス終了を発表",
+          "link": "https://news.denfaminicogamer.jp/news/2610272f",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-27T05:07:38.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/91e382e3e87726746dc714d3cab616a57ead6d797cff8c2f757b448534ce7cf4-1024x576.png"
+        },
+        {
+          "title": "“今年のGOTYレース開幕”Golden Joystick Awards 2026の「Ultimate Game of the Year」候補作品発表。『ぽこ あ ポケモン』から『バイオハザード レクイエム』まで、国産タイトルも複数ノミネート",
+          "link": "https://automaton-media.com/articles/newsjp/20261026-475716/",
+          "source": "AUTOMATON",
+          "sourceId": "automaton",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-26T14:05:37.000Z",
+          "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261026-475716-header2.jpg"
+        }
+      ],
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ogp-2-1024x538.png"
+    },
+    {
+      "key": "anime",
+      "label": "动画",
+      "en": "ANIME",
+      "items": [
+        {
+          "title": "「ゴジラ」昭和から令和まで…歴代ゴジラ作品をデザイン！プレートチャーム&Tシャツ型キーホルダーのカプセルトイ登場",
+          "link": "https://animeanime.jp/article/2026/10/28/104268.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-27T22:30:03.000Z",
+          "image": "https://animeanime.jp/imgs/ogp_f/948365.jpg"
+        },
+        {
+          "title": "Live-Action Sins of Kujo Film's New Trailer Unveils Theme Song",
+          "link": "https://www.animenewsnetwork.com/news/2026-10-27/live-action-sins-of-kujo-film-new-trailer-unveils-theme-song/.243264",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-27T23:44:12.000Z",
+          "image": ""
+        },
+        {
+          "title": "We Are Aliens Film Wins Awards at Rome, Philadelphia Film Festivals",
+          "link": "https://www.animenewsnetwork.com/news/2026-10-27/we-are-aliens-film-wins-awards-at-rome-philadelphia-film-festivals/.243231",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-27T23:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Ashita no Joe Creator Tetsuya Chiba Dies at 87",
+          "link": "https://www.animenewsnetwork.com/news/2026-10-27/ashita-no-joe-creator-tetsuya-chiba-dies-at-87/.243235",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-27T04:02:14.000Z",
+          "image": ""
+        },
+        {
+          "title": "JO1、TVアニメ『東京リベンジャーズ』三天戦争編のオープニング主題歌「IGNITE」MUSIC VIDEO公開！",
+          "link": "https://www.lisani.jp/0000320993/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-27T23:00:20.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610271800-yh-010.jpg"
+        }
+      ],
+      "image": "https://animeanime.jp/imgs/ogp_f/948365.jpg"
+    },
+    {
+      "key": "manga",
+      "label": "漫画",
+      "en": "MANGA",
+      "items": [
+        {
+          "title": "漫画家 ちばてつやさん死去 「あしたのジョー」「おれは鉄兵」などのヒット作 漫画家初の文化勲章受賞（スポニチアネックス）",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yT2NJYmx4Zm1Kb3prZG1hU1dfcVVkcnh5TzM0NnJvSEYyVTNmcmJOeVIzdVRac3Vkc3JERHhFazZJZElhcy0wVEJHVTJ2eFJVZmQyaFJpWmYwb2Z0OEIxZ2MyclNHak9yWlMyY0pJV1NPM294ano1VXkyZ0ppMDA?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-27T20:35:28.000Z",
+          "image": ""
+        },
+        {
+          "title": "伊藤沙莉主演『虎に翼』小説＆漫画＆シナリオ集＆パーフェクトブック発売決定",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5SFpXYWhwZ2JxcXhrUWRlSEpfV3BWQkZ2MndTbllUUDc0bkhVMWNTRk9PWGJzVnkwTUh2ejdZblBocEVpcHJacjBveXVfTnhENXNoS0hYd0lTZFJfUE9WTDhzT0JTRDR2cmE1VExOdEZHUUE?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-28T01:30:12.000Z",
+          "image": ""
+        },
+        {
+          "title": "M!LK冠番組「ザッツ M!LK」お正月特番の放送決定、新春にふさわしく華やかに恥をかく（コメントあり）",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZbUdkY3dfdjk5bU85dF93cmpfMTBQYS13UlJ2Ni1uSFVvVV9nampqZmFzS1JwVFRHd3VDUW5Ub3hTMkhKTnFIXzhXYWM?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-27T15:54:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "完結していないマンガで“一番続きが気になる”作品は？ 「HUNTER×HUNTER」「文スト」「コナン」が並ぶ結果に！",
+          "link": "https://animeanime.jp/article/2026/10/27/104258.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-27T09:10:03.000Z",
+          "image": ""
+        },
+        {
+          "title": "忍び込んだ家にいたのは… 「4コマまんが大賞」の入賞作決定 高知（朝日新聞）",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UX2llRTJoTUVDLU9LbVlFaTdYeXFLYlh6dDc4dEpTVll5MWVvNnVVREpDMzlLTmZMN25WLXVnMlBfVUZCanNMenpnYUxKOHhhQ0R3akxwczVqN1oxam9MWkV4b2N3aHBHalRoWlB5SkRGaXp2OHhMYjNoZE1fOVk?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-28T01:30:01.000Z",
+          "image": ""
+        }
+      ],
+      "image": ""
+    },
+    {
+      "key": "movie",
+      "label": "电影",
+      "en": "MOVIES",
+      "items": [
+        {
+          "title": "西山智樹が連ドラ初出演＆初主演 『ワンフォーオール・オールフォーマーダー』放送決定",
+          "link": "https://realsound.jp/movie/2026/10/post-2566263.html",
+          "source": "Real Sound 映画部",
+          "sourceId": "realsound-movie",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-27T21:00:23.000Z",
+          "image": ""
+        },
+        {
+          "title": "ヒュー・ジャックマン主演、英雄の伝説の影に隠された苦悩とは…『ロビン・フッドの死』日本公開決定",
+          "link": "https://www.cinemacafe.net/article/2026/10/28/113647.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-28T01:00:03.000Z",
+          "image": "https://www.cinemacafe.net/imgs/ogp_f/842077.jpg"
+        },
+        {
+          "title": "仲野太賀がナレーション！「今年1位ドラマ」絶賛続出Netflix「俺のこと、なんか言ってた？」",
+          "link": "https://www.cinemacafe.net/article/2026/10/28/113645.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-27T22:00:04.000Z",
+          "image": ""
+        },
+        {
+          "title": "チャン・ヒョクらカリスマあふれる豪華キャストが戦場で激突！新大河ドラマ『文武』キャラクターポスター解禁！",
+          "link": "https://www.cinemacafe.net/article/2026/10/27/113635.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-27T08:13:12.000Z",
+          "image": ""
+        },
+        {
+          "title": "Kevin Bleyer, Emmy-Winning ‘Daily Show’ Writer, Dies at 54 in Car Crash",
+          "link": "https://www.hollywoodreporter.com/tv/tv-news/kevin-bleyer-dead-daily-show-car-crash-1236741205/",
+          "source": "Hollywood Reporter",
+          "sourceId": "thr",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-27T20:18:33.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.cinemacafe.net/imgs/ogp_f/842077.jpg"
+    },
+    {
+      "key": "music",
+      "label": "音乐",
+      "en": "MUSIC",
+      "items": [
+        {
+          "title": "日曜日のメゾンデ、漫画『#ギャルとギャルの百合』原作の新曲「今あいらびゅ」MVプレミア公開",
+          "link": "https://realsound.jp/2026/10/post-2566507.html",
+          "source": "Real Sound 音楽",
+          "sourceId": "realsound-music",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-28T00:00:12.000Z",
+          "image": ""
+        },
+        {
+          "title": "DECO*27のポップセンス×実験精神を凝縮したアルバム「MIXTURE POP」発売決定（ティザー動画あり）",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xNzMzY1cxQkpWbl8zczVMLUgwZDNjckhHd25aR0VRbHpkWnNkY0VPYUZiNGxjUTJHUVQtQ25rVWsxV242UlFjWDhZeXA?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-27T10:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "鈴木このみ、TVアニメ『弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった』OPテーマ「強気MAX宣⾔」MV公開＆本⼈コメント到着︕",
+          "link": "https://www.lisani.jp/0000320975/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-27T10:00:51.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610271800-yh-004.jpg"
+        },
+        {
+          "title": "『ウマ娘 プリティーダービー』新作ショートアニメ『うまゆる ふるげ～と！』第2弾主題歌「ゆるゆるSAMBA」先行配信スタート！",
+          "link": "https://www.lisani.jp/0000320968/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-27T09:00:33.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610271800-yh-002.png"
+        },
+        {
+          "title": "Tokischa Reveals the ‘Really Strong’ Character She’d Like to Play at Billboard Latin Music Week",
+          "link": "https://www.billboard.com/music/latin/tokischa-film-and-music-panel-latin-music-week-2026-1236369271/",
+          "source": "Billboard",
+          "sourceId": "billboard-us",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-10-27T22:33:20.000Z",
+          "image": "https://www.billboard.com/wp-content/uploads/2026/10/becky-g-tokischa-cr-courtesy-press-billboard-1800_d2013b.jpg?crop=0px%2C0px%2C1800px%2C1116px&resize=237%2C147"
+        }
+      ],
+      "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610271800-yh-004.jpg"
+    }
+  ],
+  "birthdays": [
+    {
+      "name": "南波六太",
+      "work": "宇宙兄弟",
+      "favourites": 712
+    },
+    {
+      "name": "佐条利人",
+      "work": "同級生",
+      "favourites": 658
+    },
+    {
+      "name": "邪神ちゃん",
+      "work": "邪神ちゃんドロップキック",
+      "favourites": 334
+    }
+  ],
+  "stats": {
+    "sources": 37,
+    "sourcesOk": 31,
+    "fetched": 1425,
+    "accepted": 836,
+    "filtered": 589,
+    "heroImages": 4
+  }
+}
