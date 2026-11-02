@@ -1,0 +1,322 @@
+{
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T02:01:58.574Z",
+  "timezone": "Asia/Shanghai",
+  "sections": [
+    {
+      "key": "game",
+      "label": "游戏",
+      "en": "GAMES",
+      "items": [
+        {
+          "title": "『原神』『ゼンゼロ』などのHoYoverse新作『プチプラネット』がニンテンドースイッチ2でも配信決定！自分だけの星を育てる基本無料のスローライフゲーム",
+          "link": "https://www.inside-games.jp/article/2026/11/01/190213.html",
+          "source": "INSIDE",
+          "sourceId": "inside",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-01T12:15:03.000Z",
+          "image": "https://www.inside-games.jp/imgs/ogp_f/1802206.jpg"
+        },
+        {
+          "title": "Nintendo Switch 2・協力型パズルパーティーゲーム『みんなで探せ！マドリカ不動産の出口』発表。紙と“仲間”も準備して、息をあわせる間取り作成パズル",
+          "link": "https://automaton-media.com/articles/newsjp/20261101-476977/",
+          "source": "AUTOMATON",
+          "sourceId": "automaton",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-01T02:13:55.000Z",
+          "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261101-476977-header.jpg"
+        },
+        {
+          "title": "任天堂、11月1日を「ピクミンデー」に決定！オリジナル短編映像シリーズ『Hello! Pikmin』や『ピクミン ブルーム』アプデなどさまざまな情報が公開",
+          "link": "https://news.denfaminicogamer.jp/news/261031u",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-31T14:07:45.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/WS000381.jpg"
+        },
+        {
+          "title": "Xbox：目标2030年超越索尼和任天堂，成为行业利润率第一",
+          "link": "https://www.gcores.com/articles/221780",
+          "source": "机核 GCORES",
+          "sourceId": "gcores",
+          "lang": "zh",
+          "kind": "news",
+          "date": "2026-11-01T14:27:08.000Z",
+          "image": "https://image.gcores.com/5acb9b3d8de297e892834f2324370239-800-450.webp?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90"
+        },
+        {
+          "title": "セーブデータを引き継げるSwitch 2版「ピクミン4」の体験版が11月2日に配信開始",
+          "link": "https://www.4gamer.net/games/040/G104087/20261031013/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-10-31T14:39:38.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1802206.jpg"
+    },
+    {
+      "key": "anime",
+      "label": "动画",
+      "en": "ANIME",
+      "items": [
+        {
+          "title": "『柊さんちの吸血事情』TVアニメ化決定！スーパーティザービジュアル解禁！",
+          "link": "https://www.lisani.jp/0000321284/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-01T10:00:50.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611011800-yh-003.jpg"
+        },
+        {
+          "title": "極道×特殊性癖ラブコメTVアニメ『傷口と包帯』第3弾テーマビジュアル＆ティザーPV「仲間」解禁！",
+          "link": "https://www.lisani.jp/0000321264/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-01T04:00:56.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/10/2610311800-yh-010.jpg"
+        },
+        {
+          "title": "劇場版「虎に翼」主題歌は米津玄師の「こんにちはごきげんよう！」新予告も解禁",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oaEE3Mm5lOWM0VjgxeUVKVXNvcUFuYzBrUDhjWW9tdi1pY2V2VDZLaWVEcjJPOXZCdGxJaW5XTDFFT1hSNFhTYlJhWQ?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-01T23:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "「ぼっち・ざ・ろっく！」劇場アニメ化！伊地知姉妹が主人公の前日譚、特報映像も（動画あり / コメントあり）",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zY1FMVGNUWExDdWpwMklBMUNFTDRwbHB4T2dNOHNFZnh2aU8wY3phT3NvRUZMOVFCbWttSk1Ed0xrQkppQVRWWVRDQ1A?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-01T12:53:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "「シバつき物件」TVアニメ化！2027年夏スタート 柴犬の地縛霊・むうちゃん役は田村睦心&百瀬氷役は中林新夏",
+          "link": "https://animeanime.jp/article/2026/11/01/104386.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-01T02:05:02.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611011800-yh-003.jpg"
+    },
+    {
+      "key": "manga",
+      "label": "漫画",
+      "en": "MANGA",
+      "items": [
+        {
+          "title": "「ピリオン」犬たちの名演捉えたポスター解禁、カンヌでパルムドッグ賞を受賞",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4elM1cGtydEFjdTZyZ2I1bkk4NEVaQm03Qlh6bU81UzhlZ1hjTWJBWVdHVVY2ajZibV91emdya1pLR3lGUzcwQ2hydw?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-01T02:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "水曜日のカンパネラ、高橋優、ヒカシューが「みんなのうた」初登場",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE83bldPWV9mVGM3empVenlmWVlYeWotR081ek5UZmtDakdROTN5RkdRcHlNZjFIQ21YbjU0UVRmbmFZUEt2aEs2NzhlQkQ?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-01T12:33:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "「デューン 砂の惑星」過去2作がIMAXリバイバル上映、完結編の冒頭約7分が楽しめる",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OeTVEUFg1UTAzQlVONzVrVWQ2OFU5VGJ5NkNhSUZFQWI1U3lmZVFhQ2o5bnpiWTh3cmZUUW1sZ3BVYU5abjBNQmx0UQ?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-02T01:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "「NHK新人お笑い大賞」大賞は豪快キャプテン",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xYjh3RU9JSGxLWU9mT1BJVGltT1NtVjFlZVYzZGpJenZZeXNPYVR1RHVpbFhKTWNRT2l1ZFJ4djh3V2UtTW1VbHhBVm4tQQ?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-01T08:16:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "笹川真生、過去最大規模の単独公演「ひかりのそこ 第7層」開催",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE80WEg5blRYQ2hrNjN0T05Ua0R4azJBV3BsWnR3SFFNNE95YkZ1U2hHS3pHN2RjLXljcE9xbG5fLWxYLTdfRHBSenVkUG0?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-02T01:00:00.000Z",
+          "image": ""
+        }
+      ],
+      "image": ""
+    },
+    {
+      "key": "movie",
+      "label": "电影",
+      "en": "MOVIES",
+      "items": [
+        {
+          "title": "相馬理×最上もが×岩橋玄樹『声よ広がれ』予告編＆ポスター 公開日は2027年2月12日に",
+          "link": "https://realsound.jp/movie/2026/11/post-2571673.html",
+          "source": "Real Sound 映画部",
+          "sourceId": "realsound-movie",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-02T01:00:29.000Z",
+          "image": ""
+        },
+        {
+          "title": "『TAMALA2030』第1弾公開劇場発表 ナカタアツコ「ファッキンな1日がまた始まりますね」",
+          "link": "https://realsound.jp/movie/2026/11/post-2570074.html",
+          "source": "Real Sound 映画部",
+          "sourceId": "realsound-movie",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-02T01:00:19.000Z",
+          "image": "https://realsound.jp/wp-content/uploads/2026/10/20261030-tamaka-01.jpg"
+        },
+        {
+          "title": "韓国版『ドクターX』、まさかの視聴率大幅ダウン…相次ぐ“描写炎上”で20％超えに急ブレーキ！",
+          "link": "https://www.cinemacafe.net/article/2026/11/02/113775.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-02T01:43:15.000Z",
+          "image": ""
+        },
+        {
+          "title": "Dave Bautista Reveals He’s Gained 20 Pounds of Muscle Ahead of Playing Kratos in ‘God of War’ Series",
+          "link": "https://variety.com/2026/tv/news/dave-bautista-muscle-gain-kratos-god-of-war-1236937038/",
+          "source": "Variety",
+          "sourceId": "variety",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-02T01:05:45.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/dave-bautista.webp"
+        },
+        {
+          "title": "Korea Box Office: Anime Hit ‘Chiikawa’ Retains Lead as Brad Pitt Thriller ‘Heart of the Beast’ Debuts",
+          "link": "https://variety.com/2026/film/box-office/korea-box-office-anime-hit-chiikawa-brad-pitt-heart-of-the-beast-1236936987/",
+          "source": "Variety",
+          "sourceId": "variety",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-01T22:38:58.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/Chiikawa-the-Movie-The-Secret-of-Mermaid-Island.jpg"
+        }
+      ],
+      "image": "https://realsound.jp/wp-content/uploads/2026/10/20261030-tamaka-01.jpg"
+    },
+    {
+      "key": "music",
+      "label": "音乐",
+      "en": "MUSIC",
+      "items": [
+        {
+          "title": "『サクラ大戦』30周年を記念したオーケストラコンサート開催決定！田中公平 音楽総合監修、歴代キャスト集結！",
+          "link": "https://www.lisani.jp/0000321299/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-01T23:00:37.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611011800-yh-006.png"
+        },
+        {
+          "title": "下野紘、アーティスト活動再開を発表！2027年5月12日に2ndミニアルバム発売決定＆ TVアニメ『ロメリア戦記』第IIクールED主題歌を担当！",
+          "link": "https://www.lisani.jp/0000321278/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-01T09:00:54.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611011800-yh-001.jpg"
+        },
+        {
+          "title": "「リ・クレシェンド！」より、人気声優による浅倉大介楽曲カバーシリーズの新曲が11月14日配信決定！",
+          "link": "https://www.lisani.jp/0000321294/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-01T12:00:01.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611011800-yh-005.jpg"
+        },
+        {
+          "title": "Marty Erlichman, Barbra Streisand’s Longtime Manager, Dies at 97",
+          "link": "https://www.billboard.com/pro/marty-erlichman-death-barbra-streisand-manager/",
+          "source": "Billboard",
+          "sourceId": "billboard-us",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-02T01:12:50.000Z",
+          "image": "https://i.imgur.com/2HpFicp.png"
+        },
+        {
+          "title": "「青春ブタ野郎」シリーズ完結記念、「不可思議のカルテ finale」楽曲＆MV公開！配信もスタート！",
+          "link": "https://www.lisani.jp/0000321289/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-01T11:00:58.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611011800-yh-004.jpg"
+        }
+      ],
+      "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611011800-yh-006.png"
+    }
+  ],
+  "birthdays": [
+    {
+      "name": "比屋定真帆 ",
+      "work": "シュタインズ・ゲート ゼロ",
+      "favourites": 1150
+    },
+    {
+      "name": "スカーレット・エル・ヴァンディミオン",
+      "work": "最後にひとつだけお願いしてもよろしいでしょうか",
+      "favourites": 814
+    },
+    {
+      "name": "花戸小鳩",
+      "work": "こばと。",
+      "favourites": 458
+    }
+  ],
+  "stats": {
+    "sources": 37,
+    "sourcesOk": 31,
+    "fetched": 1483,
+    "accepted": 762,
+    "filtered": 721,
+    "heroImages": 4
+  }
+}
