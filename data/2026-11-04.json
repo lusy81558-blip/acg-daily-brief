@@ -1,0 +1,322 @@
+{
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T02:52:06.966Z",
+  "timezone": "Asia/Shanghai",
+  "sections": [
+    {
+      "key": "game",
+      "label": "游戏",
+      "en": "GAMES",
+      "items": [
+        {
+          "title": "Bill & Ted’s Excellent Adventure: Arcade announced for PS5, Xbox Series, Switch, and PC",
+          "link": "https://www.gematsu.com/2026/11/bill-teds-excellent-adventure-arcade-announced-for-ps5-xbox-series-switch-and-pc",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-03T11:15:27.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Bill-Ted-Excellent-Arcade-Adv-Ann_11-03-26.jpg"
+        },
+        {
+          "title": "「Aeruta（アルタ）」，PS5＆Switch向けパッケージ版の発売を延期。新たな発売日は12月24日",
+          "link": "https://www.4gamer.net/games/029/G102919/20261102014/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-02T05:32:08.000Z",
+          "image": "https://www.4gamer.net/games/029/G102919/20261102014/SS/003.jpg"
+        },
+        {
+          "title": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy ‘Overview’ trailer",
+          "link": "https://www.gematsu.com/2026/11/pikmin-4-nintendo-switch-2-edition-dandori-academy-overview-trailer",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-02T23:05:25.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Pikmin-4-PV_11-02-26.jpg"
+        },
+        {
+          "title": "父と娘，2人で世界旅行。地理探索SLG「パパさ、旅系インフルエンサーで食っていこうと思っているんだ。」，体験版をSteamで公開中",
+          "link": "https://www.4gamer.net/games/054/G105476/20261102003/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-02T03:36:26.000Z",
+          "image": ""
+        },
+        {
+          "title": "リズムゲーム『Arcaea』に『アークナイツ』から新パートナー「アーミヤ」が登場。コラボパックは「……已至。」「Speed of Light」など8曲を収録し、完全新規のコラボストーリーが解禁",
+          "link": "https://news.denfaminicogamer.jp/news/261104u",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-04T00:00:32.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/0-key-visual-JP-1024x576.png"
+        }
+      ],
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Bill-Ted-Excellent-Arcade-Adv-Ann_11-03-26.jpg"
+    },
+    {
+      "key": "anime",
+      "label": "动画",
+      "en": "ANIME",
+      "items": [
+        {
+          "title": "Recording/Sound Mixer Yoshio Obara Dies",
+          "link": "https://www.animenewsnetwork.com/news/2026-11-02/recording-sound-mixer-yoshio-obara-dies/.243451",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-02T19:30:00.000Z",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIS/cms/daily-briefs/145165/corner-new-visual.jpg"
+        },
+        {
+          "title": "「映画ぼっち・ざ・ろっく！ 星のあしあと」2027年公開決定！伊地知星歌を主人公とした特別編「星に手向けるあいの花」を劇場アニメ化！",
+          "link": "https://www.lisani.jp/0000321354/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-02T23:00:32.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611021800-yh-011.png"
+        },
+        {
+          "title": "TVアニメ『カリスマ』ティザーPV・追加キャスト・放送情報解禁！新曲「みてみてアニメのカリスマ」配信決定！",
+          "link": "https://www.lisani.jp/0000321327/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-02T11:00:58.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611021800-yh-010.png"
+        },
+        {
+          "title": "New 'Nippon Anime Awards' Event Announced for November 2027",
+          "link": "https://www.animenewsnetwork.com/news/2026-11-02/new-nippon-anime-awards-event-announced-for-november-2027/.243447",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-02T16:40:18.000Z",
+          "image": ""
+        },
+        {
+          "title": "集英社「少年ジャンプ＋」連載『シバつき物件』TVアニメ化決定！2027年夏より放送スタート！",
+          "link": "https://www.lisani.jp/0000321359/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-03T04:00:58.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611021800-yh-012.jpg"
+        }
+      ],
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIS/cms/daily-briefs/145165/corner-new-visual.jpg"
+    },
+    {
+      "key": "manga",
+      "label": "漫画",
+      "en": "MANGA",
+      "items": [
+        {
+          "title": "「ガルクラ」舞台化！アニメの物語を桃香視点で再構築 キャラクタービジュアルも一挙解禁（動画あり / コメントあり）",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wZWpleXpKQjhxdHVqTEZ2X3RBUU1ibVd5ckU5elkzQjNWLWp2MzZXSzJ3ajNPOWY3LXlLbTRWR29XMi1uUjExeUxVREY?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-03T12:30:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Kaeruno Erefante Launches Manga Diary of a Male Porn Star Sequel",
+          "link": "https://www.animenewsnetwork.com/news/2026-11-03/kaeruno-erefante-launches-manga-diary-of-a-male-porn-star-sequel/.243477",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-04T00:00:00.000Z",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJJ/cms/news.10/243477/reiwa.jpg"
+        },
+        {
+          "title": "【写真・画像】漫画『光が死んだ夏』完結で連載5年に幕 アニメ化された人気作 | | オリコンニュース",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LSHZtUUxXOWxwVnlYSU9mUVRScml3Qm5ERk1mOFVpS2xMTmdmNklqRXpPeG0xbk84ZEdfaXlDOVZuRjhxXzIta0Q2a1ozSEFGdGVQeDIyY1FZWWFIeWdXQjNQNHE?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-03T19:33:39.000Z",
+          "image": ""
+        },
+        {
+          "title": "TBSラジオ開局75周年記念イベントに小泉今日子、赤江珠緒の出演が決定！紫芍薬歌劇団の出演メンバーも解禁",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4VVZvRTYxOUxRVms5emQtUV9lWXhVV0FqRlVheWxORVEydzB0SUdKMElKU2UySFd0eVFwUUlGS29DNDBtaTN1N3pEakU?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-03T13:49:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Opera Manga Magazine Announces Shift to Digital Publication",
+          "link": "https://www.animenewsnetwork.com/news/2026-11-02/opera-manga-magazine-announces-shift-to-digital-publication/.243425",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-02T06:39:27.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJJ/cms/news.10/243477/reiwa.jpg"
+    },
+    {
+      "key": "movie",
+      "label": "电影",
+      "en": "MOVIES",
+      "items": [
+        {
+          "title": "『マッシュル-MASHLE-』実写映画化決定 ワーナー×CREDEUSのタッグで2027年3月公開へ",
+          "link": "https://realsound.jp/movie/2026/11/post-2573532.html",
+          "source": "Real Sound 映画部",
+          "sourceId": "realsound-movie",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-04T01:30:23.000Z",
+          "image": ""
+        },
+        {
+          "title": "『アンメット』続編、2027年1月期放送決定 杉咲花「想像を超えるドラマを届けたい」",
+          "link": "https://realsound.jp/movie/2026/11/post-2573038.html",
+          "source": "Real Sound 映画部",
+          "sourceId": "realsound-movie",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-03T21:00:05.000Z",
+          "image": "https://realsound.jp/wp-content/uploads/2026/11/20261102-unmet-02.jpg"
+        },
+        {
+          "title": "スペイン発の密室群像劇『VOTE 住民会議』公開決定 アカデミー賞ノミネート短編を長編化",
+          "link": "https://realsound.jp/movie/2026/11/post-2573511.html",
+          "source": "Real Sound 映画部",
+          "sourceId": "realsound-movie",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-03T23:00:06.000Z",
+          "image": ""
+        },
+        {
+          "title": "アリ・アスターが製作総指揮を務める新作映画『ユニコーンを轢いた』予告編＆ポスター2種が解禁。ユニコーンによる“地獄の復讐劇”が描かれる",
+          "link": "https://news.denfaminicogamer.jp/news/2611022p",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-02T15:12:12.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/de21776f0f63a02c4c521c4009671f27-1024x714.jpg"
+        },
+        {
+          "title": "Eric Dane’s Posthumous Memoir Reveals Actor’s Fight With Josh Duhamel on Set: ‘Let’s Go, You P—- Ass Actor!’",
+          "link": "https://variety.com/2026/tv/news/eric-dane-memoir-fight-josh-duhamel-set-1236938856/",
+          "source": "Variety",
+          "sourceId": "variety",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-03T23:35:03.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/Neglected-Special-Screening-Countdown-Premiere-and-After-Party-1000.jpg"
+        }
+      ],
+      "image": "https://realsound.jp/wp-content/uploads/2026/11/20261102-unmet-02.jpg"
+    },
+    {
+      "key": "music",
+      "label": "音乐",
+      "en": "MUSIC",
+      "items": [
+        {
+          "title": "The Lettermen’s Tony Butala Dies at 87",
+          "link": "https://www.billboard.com/music/music-news/tony-butala-death-lettermen-1236373500/",
+          "source": "Billboard",
+          "sourceId": "billboard-us",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-03T23:13:35.000Z",
+          "image": "https://www.billboard.com/wp-content/uploads/2026/08/dolly-parton-1974-billboard-1800.jpg?w=237&h=147&crop=1"
+        },
+        {
+          "title": "『僕らが選んだベストアドベンチャー』主題歌CDのジャケ写解禁＆OPテーマ/EDテーマTV sizeの先行配信がスタート！",
+          "link": "https://www.lisani.jp/0000321321/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-02T10:00:31.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611021800-yh-005.jpg"
+        },
+        {
+          "title": "『超かぐや姫！』無料オンラインライブのPV&ビジュアル解禁。かぐや&彩葉&ヤチヨの3人でイベントの最新情報を届ける「ツクヨミ感謝祭INFO」で発表、あの「ray」MVのアマテラス衣装を着用へ",
+          "link": "https://news.denfaminicogamer.jp/news/261103y",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-03T12:30:19.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/88bed8fe3c09bbda893868364edde49c-1024x576.png"
+        },
+        {
+          "title": "アーティスト・声優・コスプレイヤーとして活躍するLiyuuが初のハロウィンイベントを開催！来年CDリリース＆バースデーイベント開催を発表！",
+          "link": "https://www.lisani.jp/0000321396/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-03T09:00:55.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611031800-yh-001.jpg"
+        },
+        {
+          "title": "米津玄師「Lemon」日本語楽曲として初のMV10億回再生突破、米津がコメント発表＆「アンナチュラル」チームが祝福",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Nd0wtaFZnWUJnelpHNTdIcnhwM3I0MjNCeklGMGRuNGJ6UmVDV09wRDZvUDg4cDFRTUVIS2ZlYXJ6cXlwM3c3c3V1ZlY?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-03T23:00:00.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.billboard.com/wp-content/uploads/2026/08/dolly-parton-1974-billboard-1800.jpg?w=237&h=147&crop=1"
+    }
+  ],
+  "birthdays": [
+    {
+      "name": "糸瀬雪",
+      "work": "ゆびさきと恋々",
+      "favourites": 2151
+    },
+    {
+      "name": "泉鏡花",
+      "work": "文豪ストレイドッグス",
+      "favourites": 1915
+    },
+    {
+      "name": "糸色望",
+      "work": "さよなら絶望先生",
+      "favourites": 1323
+    }
+  ],
+  "stats": {
+    "sources": 37,
+    "sourcesOk": 31,
+    "fetched": 1506,
+    "accepted": 806,
+    "filtered": 700,
+    "heroImages": 5
+  }
+}
