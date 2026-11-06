@@ -1,0 +1,322 @@
+{
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T03:02:32.909Z",
+  "timezone": "Asia/Shanghai",
+  "sections": [
+    {
+      "key": "game",
+      "label": "游戏",
+      "en": "GAMES",
+      "items": [
+        {
+          "title": "Nintendo Switch 2 Sells Over 26 Million Units",
+          "link": "https://www.animenewsnetwork.com/news/2026-11-05/nintendo-switch-2-sells-over-26-million-units/.243567",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-05T21:00:00.000Z",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g9G/cms/news.8/223255/img03_01.png.jpg"
+        },
+        {
+          "title": "40年以上の歴史と権威をもつ「Golden Joystick Awards 2026」日本語字幕付き生放送が「ニコニコ生放送」にて配信決定。今年は『ぽこ あ ポケモン』『バイオハザード レクイエム』などがノミネート",
+          "link": "https://news.denfaminicogamer.jp/news/261105y",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-05T08:00:38.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/202611051147376aebee490bc0c-1024x576.jpg"
+        },
+        {
+          "title": "PlayStation 5 Reaches Over 97 Million Shipments",
+          "link": "https://www.animenewsnetwork.com/news/2026-11-05/playstation-5-reaches-over-97-million-shipments/.243569",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-05T22:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "未来古代楽団「祝祭あるいは断章8『氷る世界と燐の君』」，2027年2月にCSホームドラマチャンネルで放送決定",
+          "link": "https://www.4gamer.net/games/991/G999109/20261106006/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-06T02:37:20.000Z",
+          "image": ""
+        },
+        {
+          "title": "「DAMON and BABY:RISE OF THE ORACLE」，2027年2月18日に発売決定。ゲーム本編に加えてエクストラストーリーも楽しめるパッケージ版",
+          "link": "https://www.4gamer.net/games/055/G105573/20261105027/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-05T07:23:02.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g9G/cms/news.8/223255/img03_01.png.jpg"
+    },
+    {
+      "key": "anime",
+      "label": "动画",
+      "en": "ANIME",
+      "items": [
+        {
+          "title": "水上悟志「スピリットサークル」TVアニメ化、4月に逝去した佐藤竜雄の最後の監督作（動画あり / コメントあり）",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9FYWNNWkRxcmF3U0Jia1A2TGhoNERkcnRub2xnc184YWZfcDhIRUVnLUNNSEppNHlBbXV3cm5PVzRQX0UxVUR3U1A0UEg?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-05T09:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "TVアニメ『私をセンターにすると誓いますか？』テレ東系列6局ネットにて放送決定！最新情報一挙解禁！",
+          "link": "https://www.lisani.jp/0000321559/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-05T12:00:08.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611051800-yh-004.jpg"
+        },
+        {
+          "title": "天原「33歳独身女騎士隊長。」アニメ化 キャラデザ解禁、記念MVも公開（動画あり）",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHOENfVUlLMmhsVTlfaWpUT2lGMmFfYTBVV2NKYm85OC1FVXFXX0syWkJGQTJkMWZOSlkybU1RTm1uS2JhQmtyMzlwTks?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-06T02:45:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "猫猫からの“あーん”でバッタを食べる壬氏が1位！アニメ『薬屋のひとりごと』第52話コメント最多シーンTOP3",
+          "link": "https://animeanime.jp/article/2026/11/06/104512.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-05T22:45:02.000Z",
+          "image": ""
+        },
+        {
+          "title": "ちいかわ（現象）、なんとかなれーッ、声の権利、ホビ垢も選出！「新語・流行語大賞」26年ノミネート語発表",
+          "link": "https://animeanime.jp/article/2026/11/05/104499.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-05T08:00:08.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611051800-yh-004.jpg"
+    },
+    {
+      "key": "manga",
+      "label": "漫画",
+      "en": "MANGA",
+      "items": [
+        {
+          "title": "死去した漫画の巨匠ちばてつや、かつて模倣した韓国漫画家A・B",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZEhRX3NoYW1PS09Nd1FsWjdYOG0tcktmbWItU3FTS0hTeGpWaE42N1UzVmpBR3FQY2hKczZBWUNQV0VNVE1DdmpFMzd6X1dIcUpMc1F3eDJROG83NUZMNWVwb1k5S29ubnZXTm9tZ0hzUTlLWkFaRzNRZ0xMMFZaOVk0QkE4X00?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-05T21:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "「VIVANT」に1年以上迫った独占密着映像を初公開、KEY TO LIT岩﨑大昇は助監督に挑戦",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5IOVR4cTd3NnpaS0F5amE3UmxvYkQ1X3lWNzI2aXhoOUNkbktHdUtLNl9EVWVJZjhwSjVQOV9Ob0hJM3RydzBxOUZTcw?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-05T22:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "「風刺漫画大賞」那須良輔の出身地・熊本県湯前町在住のマヌエロさん…くま川鉄道を題材「明るい風刺」（読売新聞オンライン）",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2dTAwV3liVjludmxDbVY2MTU2bGFPbnVFTWViaXdKdjRmRGc4RzZOODVnMEFLWFp4TkZaZXJYVUREcEZvckxna0xBR2p3WFUtNlVwdWJUNUI1aDA4Skc0dzhEOS1mRDFWSmJBV3NraFZyNVR0azJVMFFaVjFNd28?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-06T02:46:08.000Z",
+          "image": ""
+        },
+        {
+          "title": "画像368 / 462＞【漫画】新たな問題児の派遣さん登場！4歳児の母が来る『天然非常識、無垢さん』／著：ゆき蔵",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53S0FDRUEwLXU0ZmktMmVDdTMzSG92RG1YYnp3b0NhUkI1TkY1aWNpdGZGX1huSVYwa0VvQXFIUDRSeWkxLUNuUWJoUmhTeFpWNWQ1cnRzOFNGOENFd3Vkckk4LXhsYXNPRkx0NU5B?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-06T01:21:52.000Z",
+          "image": ""
+        },
+        {
+          "title": "「M-1グランプリ2026」東京会場3回戦から準々決勝進出者98組決定",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jZ3lheVhzakltX1UwYnVabjg4bnVhb0JkVDZMbjZSazJDMWw5ODgtUWJqSTd4X3I3d1BnV3hBODRVRkR0ZDl3WEVYODF5UQ?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-05T10:00:00.000Z",
+          "image": ""
+        }
+      ],
+      "image": ""
+    },
+    {
+      "key": "movie",
+      "label": "电影",
+      "en": "MOVIES",
+      "items": [
+        {
+          "title": "「またいつものキャストかな」福田雄一監督 新たに人気漫画を実写映画化も…不安募る“ケロロ大炎上”の二の舞（女性自身）",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LaWEtNVZBR1pLbXFTVGJzazFwTWlTb1h5MklwOTNJTGpKZ1I3bjJuVmxOSGprQ0p2YUp1UjFKMGRmcXdKVHdmYUxwd3BfcnROemFjem96SjU1REg1MUMzR1M2ZG1fb1RpWHhiZ1U0OTNjRWZMZGpFSG9oSlB4YTA?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-05T05:30:34.000Z",
+          "image": ""
+        },
+        {
+          "title": "ジョニー・トー監督『PTU』『ドラッグ・ウォー 毒戦』4Kリマスター版、2027年1月8日公開へ",
+          "link": "https://realsound.jp/movie/2026/11/post-2575886.html",
+          "source": "Real Sound 映画部",
+          "sourceId": "realsound-movie",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-06T01:00:17.000Z",
+          "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/25fc.png"
+        },
+        {
+          "title": "ハ・ジョンウから日本独占メッセージも！『1971、ハイジャック事件』ハイジャック犯を必死の説得シーン本編解禁",
+          "link": "https://www.cinemacafe.net/article/2026/11/05/113852.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-05T01:13:13.000Z",
+          "image": "https://www.cinemacafe.net/imgs/ogp_f/844373.jpg"
+        },
+        {
+          "title": "Helene Hahn Loyd, Executive With Disney and DreamWorks, Dies at 78",
+          "link": "https://variety.com/2026/film/news/helene-hahn-loyd-dead-disney-dreamworks-1236940974/",
+          "source": "Variety",
+          "sourceId": "variety",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-06T02:31:47.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/Helene-Hahn-Loyd-Obit-Dead.jpg"
+        },
+        {
+          "title": "「安心して働いてね」からの「ベーコン多すぎ」…アマンダ・セイフライドの嫌味連発シーン解禁『ハウスメイド』",
+          "link": "https://www.cinemacafe.net/article/2026/11/06/113893.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-06T02:45:02.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://s.w.org/images/core/emoji/16.0.1/72x72/25fc.png"
+    },
+    {
+      "key": "music",
+      "label": "音乐",
+      "en": "MUSIC",
+      "items": [
+        {
+          "title": "Meg Bonus、ポニーキャニオン内レーベル IRORI Recordsへの所属を発表 2027年には作品リリースも",
+          "link": "https://realsound.jp/2026/11/post-2576321.html",
+          "source": "Real Sound 音楽",
+          "sourceId": "realsound-music",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-06T02:11:37.000Z",
+          "image": ""
+        },
+        {
+          "title": "mouse on the keys、ビルボードライブ初登場 常田俊太郎率いる弦楽セクション迎えた特別編成公演に",
+          "link": "https://realsound.jp/2026/11/post-2576366.html",
+          "source": "Real Sound 音楽",
+          "sourceId": "realsound-music",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-06T02:01:41.000Z",
+          "image": "https://realsound.jp/wp-content/uploads/2026/11/20261106-mouseonthekeys-99.jpg"
+        },
+        {
+          "title": "12月16日発売、ライブBlu-ray「夏川椎菜 4th Live Tour 2025-2026 “CRACK and FLAP” 」ジャケット写真を公開！",
+          "link": "https://www.lisani.jp/0000321571/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-05T23:00:18.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611051800-yh-014.jpg"
+        },
+        {
+          "title": "Colman Domingo Reveals He & Will Smith Went to High School Together: ‘He Was the Cool Kid & I Was the Nerd’",
+          "link": "https://www.billboard.com/music/rb-hip-hop/colman-domingo-will-smith-high-school-together-1236375426/",
+          "source": "Billboard",
+          "sourceId": "billboard-us",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-06T00:05:51.000Z",
+          "image": ""
+        },
+        {
+          "title": "GAN（岩田剛典）、最新ミニアルバムより新曲「Watch」MV公開 RIEHATAがクリエイティブに参加",
+          "link": "https://realsound.jp/2026/11/post-2576390.html",
+          "source": "Real Sound 音楽",
+          "sourceId": "realsound-music",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-06T02:29:01.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://realsound.jp/wp-content/uploads/2026/11/20261106-mouseonthekeys-99.jpg"
+    }
+  ],
+  "birthdays": [
+    {
+      "name": "幸平創真",
+      "work": "食戟のソーマ",
+      "favourites": 6982
+    },
+    {
+      "name": "石田雨竜",
+      "work": "BLEACH",
+      "favourites": 1803
+    },
+    {
+      "name": "烈子",
+      "work": "アグレッシブ烈子",
+      "favourites": 1004
+    }
+  ],
+  "stats": {
+    "sources": 37,
+    "sourcesOk": 31,
+    "fetched": 1460,
+    "accepted": 929,
+    "filtered": 531,
+    "heroImages": 4
+  }
+}
