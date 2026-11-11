@@ -1,0 +1,322 @@
+{
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T02:28:39.651Z",
+  "timezone": "Asia/Shanghai",
+  "sections": [
+    {
+      "key": "game",
+      "label": "游戏",
+      "en": "GAMES",
+      "items": [
+        {
+          "title": "4つの意地悪な心理実験に挑むノベルゲーム「やさ死くシて」，体験版をSteamで公開。「トロッコ問題」と「かくれんぼ」を最後まで遊べる",
+          "link": "https://www.4gamer.net/games/056/G105699/20261110020/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-10T06:44:03.000Z",
+          "image": "https://www.4gamer.net/games/056/G105699/20261110020/SS/001.jpg"
+        },
+        {
+          "title": "2Dアクションアドベンチャー「遺跡島と旅するねこまた」，2027年1月19日にSteamで発売。Switchへの移植も決定",
+          "link": "https://www.4gamer.net/games/761/G076117/20261110018/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-10T14:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "The Falconeer: Revolution Remaster coming to PS5, Xbox Series on December 2",
+          "link": "https://www.gematsu.com/2026/11/the-falconeer-revolution-remaster-coming-to-ps5-xbox-series-on-december-2",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-10T14:17:30.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/The-Falconeer-Revolution-Remaster-Ann_11-10-26.jpg"
+        },
+        {
+          "title": "GB『メダロット』8作がSteamに！合意とみてよろしいですね？『メダロット クラシックス プラス』PC版が12月発売決定―カブト/クワガタの2バージョンちゃんとある",
+          "link": "https://www.inside-games.jp/article/2026/11/10/190689.html",
+          "source": "INSIDE",
+          "sourceId": "inside",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-10T10:30:03.000Z",
+          "image": ""
+        },
+        {
+          "title": "「Ashes of the Singularity II」リリース。数千ものユニットが激突する大規模RTSの続編が10年の歳月を経て登場",
+          "link": "https://www.4gamer.net/games/935/G093520/20261111005/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-11T01:53:36.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.4gamer.net/games/056/G105699/20261110020/SS/001.jpg"
+    },
+    {
+      "key": "anime",
+      "label": "动画",
+      "en": "ANIME",
+      "items": [
+        {
+          "title": "TVアニメ『涙雨とセレナーデ』2027年4月放送決定！キービジュアル・ティザーPV・メインキャスト＆スタッフ一挙解禁！",
+          "link": "https://www.lisani.jp/0000321928/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-10T23:00:25.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611101800-yh-009.jpg"
+        },
+        {
+          "title": "TVアニメ『俺の死亡フラグが留まるところを知らない』が2027年に放送決定。第3回「なろうコン大賞」グランプリ受賞、シリーズ累計175万部突破の人気作",
+          "link": "https://news.denfaminicogamer.jp/news/261110s",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-10T03:50:34.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/main-15-1024x559.jpg"
+        },
+        {
+          "title": "WEBTOON Reports US$9.23 Million in 3rd Quarter of 2026",
+          "link": "https://www.animenewsnetwork.com/news/2026-11-10/webtoon-reports-usd9.23-million-in-3rd-quarter-of-2026/.243674",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-10T21:00:00.000Z",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJC/cms/news.8/224522/thumb_basic.png.jpg"
+        },
+        {
+          "title": "「桜蘭高校ホスト部」アニメ化20周年イベント開催、坂本真綾＆宮野真守が登壇",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Wam5BNDRwSFBFZEtsWm5jUzBtb0dBYkV4UDFyOThlMDl2VEI4aXU0OUVaT3pZT2dwY1ZyckRoNVFBd1FwdHM1MVB5R2Q?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-10T03:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "セブン-イレブン限定「たまごっち」カスタムキーリングが11月23日発売！歴代シリーズデザインをミニチュア化した全8種",
+          "link": "https://animeanime.jp/article/2026/11/10/104676.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-10T10:15:03.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611101800-yh-009.jpg"
+    },
+    {
+      "key": "manga",
+      "label": "漫画",
+      "en": "MANGA",
+      "items": [
+        {
+          "title": "Kodansha Announces Winners of Mangaka Discovery Global Manga Award",
+          "link": "https://www.animenewsnetwork.com/news/2026-11-09/kodansha-announces-winners-of-mangaka-discovery-global-manga-award/.243616",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-09T21:30:00.000Z",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF0/cms/news.10/243616/unnamed.png.jpg"
+        },
+        {
+          "title": "コミカライズ版「魔法使いの夜」，本日発行の「週刊少年マガジン」50号で連載開始。漫画は真木蛍五氏が担当",
+          "link": "https://www.4gamer.net/games/115/G011514/20261110047/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-10T15:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "国際音楽賞「MUSIC AWARDS JAPAN 2027」開催決定、会場は（コメントあり / 動画あり）",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6SVNTUUVObVNsaHgzNjJjZVBBYVpxN3pXTS0yRV9FMjUxbG9MX0h4dDh1NVJzeW9fN053bmJPTVcwR24wSHVORDRPSEs?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-10T04:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "剣幸出演の朗読劇「メタモルフォーゼの縁側」、劇中のBLマンガに登場する2役は日替わりキャスト",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wcHBMRE9PaFZnem42WU5fTWNuZ0MtZk8wTEhKWlJuNnNHbzdkY1lyOUVzR1d1QzVDTG81ZlpzdWRscFpxVk5zZU9wcU8?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-10T03:35:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "画像368 / 462＞【漫画】新たな問題児の派遣さん登場！4歳児の母が来る『天然非常識、無垢さん』／著：ゆき蔵",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53S0FDRUEwLXU0ZmktMmVDdTMzSG92RG1YYnp3b0NhUkI1TkY1aWNpdGZGX1huSVYwa0VvQXFIUDRSeWkxLUNuUWJoUmhTeFpWNWQ1cnRzOFNGOENFd3Vkckk4LXhsYXNPRkx0NU5B?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-10T16:48:26.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF0/cms/news.10/243616/unnamed.png.jpg"
+    },
+    {
+      "key": "movie",
+      "label": "电影",
+      "en": "MOVIES",
+      "items": [
+        {
+          "title": "韓国で大人気の痛快捜査アクション、待望の続編！韓国ドラマ『クラッシュ2：怒りのロード』を11月16日（月）よりU-NEXTオリジナルとして日本初‧本国同時で独占見放題配信決定！",
+          "link": "https://www.cinemacafe.net/article/2026/11/10/113999.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-10T09:13:17.000Z",
+          "image": "https://www.cinemacafe.net/imgs/ogp_f/845878.png"
+        },
+        {
+          "title": "Stacy Keach, Star of ‘Mike Hammer,’ ‘Fat City,’ Dies at 85",
+          "link": "https://variety.com/2026/film/news/stacy-keach-dead-mike-hammer-fat-city-1236944687/",
+          "source": "Variety",
+          "sourceId": "variety",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-11T01:08:15.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-107897122_602eef.jpg"
+        },
+        {
+          "title": "『再婚承認を要求します』初週から話題性1位を独走！主要キャスト4人全員がトップ10入りの無双状態に！",
+          "link": "https://www.cinemacafe.net/article/2026/11/10/113997.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-10T08:43:15.000Z",
+          "image": ""
+        },
+        {
+          "title": "「微笑ましいふたり」芳根京子＆本田響矢“社交ダンスシーンの裏側”公開「波うららかに、めおと日和」（続編）",
+          "link": "https://www.cinemacafe.net/article/2026/11/10/113990.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-10T07:00:03.000Z",
+          "image": ""
+        },
+        {
+          "title": "映画「国宝」豪華版パッケージの全貌が明らかに、ポストカード6種の絵柄も解禁",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PZkNYRmI5NWx1SXpiUUZHNGxWUVZqT09XSUNkWDVVQXRZZEgtb0lZWHNKRlZTTm8ycEhJUDN0LXBQZHVsb1ZZRG9tZw?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-10T04:00:00.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.cinemacafe.net/imgs/ogp_f/845878.png"
+    },
+    {
+      "key": "music",
+      "label": "音乐",
+      "en": "MUSIC",
+      "items": [
+        {
+          "title": "THE MODSのギタリスト・苣木寛之が66歳で死去、45周年ツアーは全公演中止",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xM29OMlRXYi11SkJBbzQ4dGdwQW9pakJpb0NWT1lSNERyYUVfVlFXc1AzQTM1ZHQ4X09jMk9tblRlaXZhLXktaml0RFQ?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-10T07:08:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "sumika「チー付与」OPテーマMVを今夜公開、新たなアー写も解禁",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1WFRNWDdueDZvUlhSQjJGMHdqWWEzV3FTWlg0VW9PeFFQVUdYN2UyWEpGTUZJamlGY0FGcnc1VWNjMzF0emJkSHhELVQ?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-10T03:22:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "満足度No.1の動画配信サービスは「DMM TV」！ 2026年オリコン顧客満足度®調査『定額制動画配信サービス』で国内勢初の首位に",
+          "link": "https://animeanime.jp/article/2026/11/09/104632.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-09T09:00:04.000Z",
+          "image": ""
+        },
+        {
+          "title": "亀梨和也×赤西仁、謎のカウントダウンの正体が明らかに！Kアリーナ横浜で18年ぶりのライブ共演",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyYko5RXhZdkFNYU40TEkyRjgtTFNhaXVJSDVSeUhzMkdhZ1c3NS1uckFvSzZ2ZGc0bVE1cndWXzZZMHRTRUd4UkhROTQ?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-10T21:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "パフォーマンスガールズユニット・9nineが7年ぶりに再集結！『沖縄アニメーションフェスティバル2027』にてライブステージ出演決定！",
+          "link": "https://www.lisani.jp/0000321922/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-10T12:00:12.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611101800-yh-008.jpg"
+        }
+      ],
+      "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611101800-yh-008.jpg"
+    }
+  ],
+  "birthdays": [
+    {
+      "name": "ロロノア・ゾロ",
+      "work": "ONE PIECE",
+      "favourites": 28831
+    },
+    {
+      "name": "衛宮切嗣",
+      "work": "Fate/Zero",
+      "favourites": 6865
+    },
+    {
+      "name": "自来也",
+      "work": "NARUTO -ナルト-",
+      "favourites": 6514
+    }
+  ],
+  "stats": {
+    "sources": 37,
+    "sourcesOk": 31,
+    "fetched": 1594,
+    "accepted": 933,
+    "filtered": 661,
+    "heroImages": 5
+  }
+}
