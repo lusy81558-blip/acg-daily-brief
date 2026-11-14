@@ -1,0 +1,322 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T02:52:20.760Z",
+  "timezone": "Asia/Shanghai",
+  "sections": [
+    {
+      "key": "game",
+      "label": "游戏",
+      "en": "GAMES",
+      "items": [
+        {
+          "title": "Lucky Luke: The Lonesome Cowboy Collection announced for PS5, Xbox Series, Switch 2, PS4, Xbox One, Switch, and PC",
+          "link": "https://www.gematsu.com/2026/11/lucky-luke-the-lonesome-cowboy-collection-announced-for-ps5-xbox-series-switch-2-ps4-xbox-one-switch-and-pc",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-13T14:15:02.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Lucky-Luke-Collection-Ann_11-13-26.jpg"
+        },
+        {
+          "title": "Girls und Panzer Hakunetsu! Mahjong Tag Battle Desu! announced for PS5, Switch 2",
+          "link": "https://www.gematsu.com/2026/11/girls-und-panzer-hakunetsu-mahjong-tag-battle-desu-announced-for-ps5-switch-2",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-14T01:57:41.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Girls-und-Panzer-Mahjong-Ann_11-13-26.jpg"
+        },
+        {
+          "title": "好評武装少女ローグライクACT 『Million Depth』Nintendo Switch向け体験版配信開始。Switchでも「1ルート」お試しできる、セーブデータも引き継ぎ可",
+          "link": "https://automaton-media.com/articles/newsjp/20261112-478866/",
+          "source": "AUTOMATON",
+          "sourceId": "automaton",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-12T06:17:31.000Z",
+          "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478866-header.jpg"
+        },
+        {
+          "title": "Steamで「まったく同じ名前＆ほぼ同時発売」だった2本のゲーム、今度はSwitch版を“同じ日”に発売へ。仲良しすぎて任天堂もちょっと困惑",
+          "link": "https://automaton-media.com/articles/newsjp/20261113-479045/",
+          "source": "AUTOMATON",
+          "sourceId": "automaton",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-13T02:19:25.000Z",
+          "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261113-479045-header.jpg"
+        },
+        {
+          "title": "「BOMBANANA!」の家庭用ゲーム機版がPS5，XBOX Series X|S，XBOX Oneで本日発売。Steam版の販売本数は200万本を突破",
+          "link": "https://www.4gamer.net/games/058/G105820/20261113024/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-13T09:38:27.000Z",
+          "image": "https://www.4gamer.net/games/058/G105820/20261113024/SS/002.jpg"
+        }
+      ],
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Lucky-Luke-Collection-Ann_11-13-26.jpg"
+    },
+    {
+      "key": "anime",
+      "label": "动画",
+      "en": "ANIME",
+      "items": [
+        {
+          "title": "2026年秋アニメ、“いま”一番推せる作品は？ 3位「生徒会にも穴はある！」、2位「薬屋のひとりごと」、1位は…「10年ぶりの続編がこんなに面白いなんて感動」",
+          "link": "https://animeanime.jp/article/2026/11/13/104753.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-13T08:15:03.000Z",
+          "image": "https://animeanime.jp/imgs/ogp_f/955567.jpg"
+        },
+        {
+          "title": "TVアニメ『七つ屋 志のぶの宝石匣』2027年放送決定！ティザービジュアル＆PV＆スタッフ情報が公開！",
+          "link": "https://www.lisani.jp/0000322143/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-13T09:00:40.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611131800-yh-002.jpg"
+        },
+        {
+          "title": "ABEMA「日本アニメトレンド大賞2026」12月26日開催＆無料生放送！メインMCは岩井勇気、新MCに上坂すみれ、徳井青空が就任",
+          "link": "https://animeanime.jp/article/2026/11/12/104724.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-12T08:45:03.000Z",
+          "image": ""
+        },
+        {
+          "title": "TVアニメ『死して生きるSSS級ハンター』THE SPELLBOUND × BOOM BOOM SATELLITESのEDテーマ「Fading」を使用した最新PV解禁！コメントも到着！",
+          "link": "https://www.lisani.jp/0000322164/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-13T12:00:15.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611131800-yh-008.jpg"
+        },
+        {
+          "title": "Giant Ojosama TV Anime Reveals More Cast",
+          "link": "https://www.animenewsnetwork.com/news/2026-11-13/giant-ojosama-tv-anime-reveals-more-cast/.243804",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-13T20:00:05.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://animeanime.jp/imgs/ogp_f/955567.jpg"
+    },
+    {
+      "key": "manga",
+      "label": "漫画",
+      "en": "MANGA",
+      "items": [
+        {
+          "title": "ドラマ「アンメット」続編に若葉竜也、岡山天音ら10人のレギュラーキャストが続投（コメントあり）",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NdFdHWFFrd2JGenVLMUlIWmc4X0tCNGpqVWE1QXoxNTNsc25RR0xYWjZtMW1CR1NHdUxQMEJIeUI1YnkwWl9OZG5PMXg?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-13T22:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "粗品＆池上彰の冠ニュース番組「池上・粗品のヤブから真相ニュース」第2弾が放送決定",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fcGlLalc4SHVYU2ZJYlB1MGk5M1piMHFNMnV3VENjcVhiRkVfQ2N0U2pBUGZjbnNIUmZ0WW9XQW94eXdyM1Y5bzFBUjFkZw?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-13T21:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "文藝春秋のマンガサイトSeasonsが2周年 連載作を全話無料公開、新連載5作品も発表",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWQTMwdXRvTzc0WWd5UHJwbkVKaGxMX0VHbmIzNUdCTVhCQmFFbE5WV255RUJ4aThONUxnUTRXUUdaSF81clVRT3VjOHk?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-13T04:45:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "粗品MC「ツッコミスター」第64回ギャラクシー賞の上期テレビ部門奨励賞受賞",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYNXFfdnE1V3dUYXcxdGM4LV9RR2wxRGluT1NTV0EyMkZYLWZzTUZJQTNGXzFETk1LN3J0YWVROGRHSGp4amVmdnc4b0QwUQ?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-13T03:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "憧れの先輩は神出鬼没、“ぞわキュンラブ”新連載「精神安定剤男子」がベツコミで",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yLXRXOFpOV2ZKZW9Lb19BTGJ0bDJiSXB5TTl3X3dzTnkyRE4tT0dOTXIwbzFhclY1SHBiZXZmX09OZ0ViQXJKRml0X2U?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-13T12:22:00.000Z",
+          "image": ""
+        }
+      ],
+      "image": ""
+    },
+    {
+      "key": "movie",
+      "label": "电影",
+      "en": "MOVIES",
+      "items": [
+        {
+          "title": "チャン・ナラ＆キム・ヘユン主演のヒューマン法廷ドラマ！韓国ドラマ『グッド・パートナー2』を11月20日（金）よりU-NEXTオリジナルとして日本初・本国同時で独占見放題配信決定！",
+          "link": "https://www.cinemacafe.net/article/2026/11/13/114105.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-13T09:13:13.000Z",
+          "image": "https://www.cinemacafe.net/imgs/ogp_f/846820.png"
+        },
+        {
+          "title": "少年院の少年たちがラップに込めた思いとは？『コール＆レスポンス』塀の内と外をつなぐ予告編解禁",
+          "link": "https://www.moviecollection.jp/movie/312818/",
+          "source": "MOVIE Collection",
+          "sourceId": "moviecollection",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-14T02:48:48.000Z",
+          "image": "https://www.moviecollection.jp/wp/wp-content/uploads/2026/12/CR_B2_72dpi_web.jpg"
+        },
+        {
+          "title": "“父”ニコラス・ケイジと“息子”ビル・スカルスガルドが対立…『ロード・オブ・ウォー』続編、新ティザー予告編公開",
+          "link": "https://www.cinemacafe.net/article/2026/11/13/114094.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-13T05:30:04.000Z",
+          "image": ""
+        },
+        {
+          "title": "『2026 ソン・ガン FANMEETING ＜PLAY, SONG KANG＞ IN JAPAN』来年1月にフジテレビTWO ドラマ・アニメで放送決定！",
+          "link": "https://www.cinemacafe.net/article/2026/11/13/114091.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-13T04:13:13.000Z",
+          "image": ""
+        },
+        {
+          "title": "‘VisionQuest’ Finale Hits 3.7 Million Views in One Day",
+          "link": "https://variety.com/2026/tv/news/visionquest-finale-ratings-views-1236947348/",
+          "source": "Variety",
+          "sourceId": "variety",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-13T22:34:23.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/VisionQuest_TF_1.jpg"
+        }
+      ],
+      "image": "https://www.cinemacafe.net/imgs/ogp_f/846820.png"
+    },
+    {
+      "key": "music",
+      "label": "音乐",
+      "en": "MUSIC",
+      "items": [
+        {
+          "title": "悠木 碧、水樹奈々、高垣彩陽らメインキャスト7名が歌唱！『戦姫絶唱シンフォギア』ニューシングル「VICTORY STRIKE」が2027年1月20日に発売決定！",
+          "link": "https://www.lisani.jp/0000322170/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-13T23:00:15.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611131800-yh-010.jpg"
+        },
+        {
+          "title": "「Stellar Blade」の楽曲を収録した4枚組LPボックスセット「Director’s Edition」が発売決定。限定カラー盤を含む2種類をラインナップ",
+          "link": "https://www.4gamer.net/games/035/G103535/20261113003/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-13T02:14:51.000Z",
+          "image": "https://www.4gamer.net/games/035/G103535/20261113003/SS/001.jpg"
+        },
+        {
+          "title": "CLAN QUEEN、TVアニメ『PSYREN -サイレン-』OPテーマ「WARNING!!」パフォーマンスビデオ公開！",
+          "link": "https://www.lisani.jp/0000322156/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-13T10:00:43.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611131800-yh-007.jpg"
+        },
+        {
+          "title": "In Canada: Canada Music Fund to Receive $67M Boost; Women in Music Executive Award Winners Share Their Wisdom",
+          "link": "https://www.billboard.com/pro/canada-music-fund-67m-boost-canada-news/",
+          "source": "Billboard",
+          "sourceId": "billboard-us",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-14T00:10:09.000Z",
+          "image": "https://www.billboard.com/wp-content/uploads/2026/11/canada-parliament-building-billboard-1800.jpg?w=237&h=147&crop=1"
+        },
+        {
+          "title": "ホロライブ「いろはにほへっと あやふぶみ」の初単独ライブ「百花繚乱あやふぶみ」が2027年2月13〜14日に有明アリーナで開催決定",
+          "link": "https://www.4gamer.net/games/760/G076029/20261113056/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-13T12:44:14.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611131800-yh-010.jpg"
+    }
+  ],
+  "birthdays": [
+    {
+      "name": "柊うてな",
+      "work": "魔法少女にあこがれて",
+      "favourites": 1495
+    },
+    {
+      "name": "トツキ・シーナ",
+      "work": "きみが死ぬまで恋をしたい",
+      "favourites": 301
+    },
+    {
+      "name": "妹尾あいこ",
+      "work": "おジャ魔女どれみ",
+      "favourites": 229
+    }
+  ],
+  "stats": {
+    "sources": 37,
+    "sourcesOk": 31,
+    "fetched": 1653,
+    "accepted": 945,
+    "filtered": 708,
+    "heroImages": 4
+  }
+}
