@@ -1,0 +1,322 @@
+{
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T06:41:42.882Z",
+  "timezone": "Asia/Shanghai",
+  "sections": [
+    {
+      "key": "game",
+      "label": "游戏",
+      "en": "GAMES",
+      "items": [
+        {
+          "title": "Kendo Rage 1&2 announced for PS5, Switch, and PC",
+          "link": "https://www.gematsu.com/2026/11/kendo-rage-1-2-announced-for-ps5-switch-and-pc",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-24T01:59:18.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Kendo-Rage-Ann_11-23-26.jpg"
+        },
+        {
+          "title": "『仁王3』DLC第2弾「天草大乱」が12月17日に配信開始へ。シリーズ初のXbox展開となる「Complete Edition」も発売決定",
+          "link": "https://news.denfaminicogamer.jp/news/2611242f",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-24T04:05:39.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/58b0762c4b1039e7d267db45e61d4e51-1024x576.jpg"
+        },
+        {
+          "title": "『魔法使いの夜』アニメ映画公開に合わせて原作人気が再燃、Steamプレイヤーがリリース直後の1.5倍になりSwitchはランキング1位に",
+          "link": "https://gigazine.net/news/20261123-witch-on-the-holy-night-steam-players/",
+          "source": "GIGAZINE",
+          "sourceId": "gigazine",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-23T09:50:00.000Z",
+          "image": "https://i.gzn.jp/img/2026/11/23/witch-on-the-holy-night-steam-players/00_m.jpg"
+        },
+        {
+          "title": "2026年版「Steamアワード」候補作のノミネートが受付開始。過去のGOTY賞から1位を決める「殿堂入り賞」や、ついつい遊んでしまう「あと5分だけのつもりだったで賞」など14部門が登場",
+          "link": "https://news.denfaminicogamer.jp/news/261124y",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-24T03:03:39.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/SteamAwards2026-1024x576.jpg"
+        },
+        {
+          "title": "VTuber visual novels Rabbitfoot Gakuen: Tokimeki no Oto and Rabbitfoot Gakuen: Yasuragi no Koe announced for PS4, Switch, PC, iOS, and Android",
+          "link": "https://www.gematsu.com/2026/11/vtuber-visual-novels-rabbitfoot-gakuen-tokimeki-no-oto-and-rabbitfoot-gakuen-yasuragi-no-koe-announced-for-ps4-switch-pc-ios-and-android",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-24T03:15:40.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Rabbitfoot-Gakuen-Ann_11-23-26.jpg"
+        }
+      ],
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Kendo-Rage-Ann_11-23-26.jpg"
+    },
+    {
+      "key": "anime",
+      "label": "动画",
+      "en": "ANIME",
+      "items": [
+        {
+          "title": "TVアニメ『ようこそ実力至上主義の教室へ5th Season 2年生編2学期＜前半＞』2027年放送決定！ティザービジュアル＆ティザービジュアルムービーが公開！",
+          "link": "https://www.lisani.jp/0000322785/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-23T11:00:19.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611231800-yh-011.jpg"
+        },
+        {
+          "title": "TVアニメ「地元のいじめっ子達に仕返ししようとしたら、別の戦いが始まった。」告知解禁PV [画像・動画ギャラリー 9/9]",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhelhPQ3VvRWpDRnZ5LTRqTW5FWTZOWUpxNGJ4VlpvalVzMlU2UTQzaVFHMzZnbDczVld1LWtxeUlNQ3JwR3JmVGlrQWRRYkFJRmtzYnRLSHFRMFI0OUl0MXZTVlE3bVBf?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-24T03:03:05.000Z",
+          "image": ""
+        },
+        {
+          "title": "「荒野行動」×テレビアニメ「コードギアス 反逆のルルーシュ」，コラボ開催中。SP衣装「ルルーシュ＆C.C.：契約で結ばれた絆」が登場",
+          "link": "https://www.4gamer.net/games/413/G041360/20261124013/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-24T04:59:58.000Z",
+          "image": "https://www.4gamer.net/games/413/G041360/20261124013/SS/001.jpg"
+        },
+        {
+          "title": "伊東健人、2027年放送TVアニメ『その者。のちに…』で主人公・ワズ役＆オープニング主題歌を担当することが決定！",
+          "link": "https://www.lisani.jp/0000322790/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-23T12:00:54.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611231800-yh-012.jpg"
+        },
+        {
+          "title": "アニメ「いじはじ」主人公・小太郎役は安田陸矢、告知用に特別制作されたPVも公開（コメントあり / 動画あり）",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rc1hfYzJZNnJYVkdraVhsS0JCR0E3cUl6dVhmZm9VZkNJVzVxWTVwbGd2eHBwU2ZPLTNmNVpkd0xfREllazZfM1ZsbUs?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-24T03:00:00.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611231800-yh-011.jpg"
+    },
+    {
+      "key": "manga",
+      "label": "漫画",
+      "en": "MANGA",
+      "items": [
+        {
+          "title": "小芝風花主演、NHK時代劇「あきない世傳 金と銀」完結編のビジュアル解禁 特番もオンエア",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQLVJuQXV6VUVsak1Kd2V0VkRhaDJxT3EydGlYdEhIaHV4a2psQzJkWmk2akJqQlpRTTRsMnNFNmtnS09BSkJwNWJYYw?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-24T03:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Manga Creator Tsukasa Sei Dies",
+          "link": "https://www.animenewsnetwork.com/news/2026-11-23/manga-creator-tsukasa-sei-dies/.244102",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-24T01:34:14.000Z",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/cms/news.10/244102/mukashiwayokatta.jpg"
+        },
+        {
+          "title": "BASIは5年前に亡くなっていた レーベルが正式発表",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yMTZBbE4xa0RjcGJoY3FUNmR6V3llRktyLVNsbHJ1dm9uV0h1RDZZU0ZGWFRfU3VGemdLcHpuUGl1RWVqRWFJRzVCSzk?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-23T13:54:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "「ちいかわベーカリー」期間限定ショップが名古屋に初登場、店舗限定のちいかわ食パンも",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05RnRVVlh2Qlp1dkRUaFJubXM4S0pEZ2dCRHlBMjBEUS1oQTJMbW1ad0VlTFh1SWR3SnVzTFNScktDYmlSSjVUcVVmLVE?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-24T05:33:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "「薬屋のひとりごと」×USJ 謎解きと食を楽しむレストラン＆ストーリーライドが初登場",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhRHJqa043R0VIemNtVlROS3F2ZzNPclk4SnNBRi1NUUpXYzRKOFpKRnZJYkVnQTBEbUlibnpEVjVBUE9Zd0lJdDdEZWU?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-24T06:08:00.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/cms/news.10/244102/mukashiwayokatta.jpg"
+    },
+    {
+      "key": "movie",
+      "label": "电影",
+      "en": "MOVIES",
+      "items": [
+        {
+          "title": "スジ×キム・ソンホ『スタートアップ：夢の扉』以来の豪華共演！壮大なミステリアス・ロマンス『幻惑の恋』ディズニープラス スターにて1月6日（水）より独占配信決定！",
+          "link": "https://www.cinemacafe.net/article/2026/11/24/114350.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-24T00:13:14.000Z",
+          "image": "https://www.cinemacafe.net/imgs/ogp_f/848811.png"
+        },
+        {
+          "title": "Rain Tree鈴野みお初主演映画で始球式のアイドル演じる、単独公開目指しクラファン始動",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tVG5MRHhYVzRWNmlrMnRvRDBLdjJzUTBkRkl0b1NZY1R6YnVsdFFUSzdzOUpVWkk4WEtMTnRPeGVWQzlreGRTeDJUZDQ?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-24T03:29:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "関連写真 | 漫画『SAKAMOTO DAYS』完結、連載6年に幕 目黒蓮主演で実写映画化された人気作",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBINGFuczVtTWpKQ3JRTWlMTkViRVVrV2RlS19mcUsyMWxCazhGSEozS0Z4czg4Qk95bm1sT3dwRHN6M0hQWl9EOEZ2UU9lenktQ1MwWU9GcG01UEhBaURMTFV5bXBjNmZvb0E?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-23T15:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "アントニオ・バンデラスが“人生の師”に A24の青春映画『TONY トニー』2027年2月11日公開",
+          "link": "https://realsound.jp/movie/2026/11/post-2592722.html",
+          "source": "Real Sound 映画部",
+          "sourceId": "realsound-movie",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-24T06:00:08.000Z",
+          "image": ""
+        },
+        {
+          "title": "タリバン制圧下のカブールの実話を描く 『13 DAYS／脱出への最終便』2027年2月5日公開",
+          "link": "https://realsound.jp/movie/2026/11/post-2592394.html",
+          "source": "Real Sound 映画部",
+          "sourceId": "realsound-movie",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-24T02:00:42.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.cinemacafe.net/imgs/ogp_f/848811.png"
+    },
+    {
+      "key": "music",
+      "label": "音乐",
+      "en": "MUSIC",
+      "items": [
+        {
+          "title": "夢限大みゅーたいぷ、デビュー3周年！「バンドリ！ ゆめ∞みた」新作アニメーション制作決定＆ライブツアーKV公開！新規Live2Dや歌ってみた動画の制作も決定！",
+          "link": "https://www.lisani.jp/0000322737/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-22T12:00:03.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611211800-yh-009.jpg"
+        },
+        {
+          "title": "土岐麻子「PINK」10周年ライブ追加公演決定、「PINK」「Rain Dancer」ライブ映像も公開",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBOOTNhMllfS2NwVnZhaTBtUl93MFZ5MGxiclBmRG1VNk1yaC11LXdJTkFMcEtCTFY1ZXV5N3cyaTFnanFlWXk1VFhrZDc?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-24T03:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "柏木由紀、主演ドラマ『元カレの猫を、預かりまして。2』主題歌「ミラー」配信 橋口洋平が楽曲提供",
+          "link": "https://realsound.jp/2026/11/post-2592112.html",
+          "source": "Real Sound 音楽",
+          "sourceId": "realsound-music",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-24T03:22:16.000Z",
+          "image": "https://realsound.jp/wp-content/uploads/2026/11/20261123-kashiwagiyuki-99.jpg"
+        },
+        {
+          "title": "超ときめき♡宣伝部、全17公演の過去最大規模ツアーが完結！充実感と宣伝部員の愛に包まれた大分追加公演",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ETVlDbjFuamxKNjdUTVlrVjFhNy0tRlJyQzhwMkxheUY1dEhyb3djOG9QbC1yS0JaRnk2THV3aS1kblNWaEdwcm5TX0k?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-23T14:07:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "‘Do You Have What It Takes?’: KATSEYE Appears in Trailer for K-Pop Film Inspired by Their Experience",
+          "link": "https://www.billboard.com/music/music-news/katseye-makes-fitting-cameo-k-pop-the-debut-trailer-watch-1236388290/",
+          "source": "Billboard",
+          "sourceId": "billboard-us",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-23T23:24:12.000Z",
+          "image": "https://www.billboard.com/wp-content/uploads/2026/11/charlie-damelio-november-2026-billboard-1800.jpg?w=237&h=147&crop=1"
+        }
+      ],
+      "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611211800-yh-009.jpg"
+    }
+  ],
+  "birthdays": [
+    {
+      "name": "一ノ瀬はじめ",
+      "work": "ガッチャマン クラウズ",
+      "favourites": 469
+    },
+    {
+      "name": "下呂ヒカル",
+      "work": "マリッジトキシン",
+      "favourites": 384
+    },
+    {
+      "name": "姫坂乃愛",
+      "work": "私に天使が舞い降りた！",
+      "favourites": 315
+    }
+  ],
+  "stats": {
+    "sources": 37,
+    "sourcesOk": 30,
+    "fetched": 1634,
+    "accepted": 773,
+    "filtered": 861,
+    "heroImages": 5
+  }
+}
