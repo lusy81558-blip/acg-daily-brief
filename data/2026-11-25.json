@@ -1,0 +1,322 @@
+{
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T05:12:00.382Z",
+  "timezone": "Asia/Shanghai",
+  "sections": [
+    {
+      "key": "game",
+      "label": "游戏",
+      "en": "GAMES",
+      "items": [
+        {
+          "title": "『ポケモンチャンピオンズ』ヒードラン、シャリタツ、そしてヘイラッシャが参戦へ。伝説のポケモンが参戦するのは初、さらに『Z-A』で初登場したメガシンカも解禁",
+          "link": "https://news.denfaminicogamer.jp/news/261125m",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-25T02:44:08.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HX74WS5WAAAAosh-1024x576.jpg"
+        },
+        {
+          "title": "日本でも人気なSRPG続編『Symphony of War II: Dominion』正式発表。海戦追加にクラスは100種以上に倍増、より奥深くなった壮大戦記",
+          "link": "https://automaton-media.com/articles/newsjp/20261125-480769/",
+          "source": "AUTOMATON",
+          "sourceId": "automaton",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-25T00:42:54.000Z",
+          "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261125-480769-header.png"
+        },
+        {
+          "title": "映画『カイジ 人生リベンジゲーム』のポスター&予告映像&追加キャストが解禁！キャッチコピーは「ただいまクズの皆様、おかえり悪魔的エンターテイメント」",
+          "link": "https://news.denfaminicogamer.jp/news/261125h",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-24T23:20:23.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HX5yh8_bsAAbh7t-724x1024.jpg"
+        },
+        {
+          "title": "Kendo Rage 1&2 announced for PS5, Switch, and PC",
+          "link": "https://www.gematsu.com/2026/11/kendo-rage-1-2-announced-for-ps5-switch-and-pc",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-24T01:59:18.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Kendo-Rage-Ann_11-23-26.jpg"
+        },
+        {
+          "title": "The Wolf Among Us Remastered for Switch launches November 29",
+          "link": "https://www.gematsu.com/2026/11/the-wolf-among-us-remastered-for-switch-launches-november-29",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-24T18:01:53.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/TWAUR-Switch_11-24-26.jpg"
+        }
+      ],
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HX74WS5WAAAAosh-1024x576.jpg"
+    },
+    {
+      "key": "anime",
+      "label": "动画",
+      "en": "ANIME",
+      "items": [
+        {
+          "title": "『欠けた月のメルセデス』2027年1月10日(日)TBS系にて放送開始！メインビジュアル第２弾、放送・配信情報解禁！",
+          "link": "https://www.lisani.jp/0000322853/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-25T04:00:31.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611241800-yh-015.jpg"
+        },
+        {
+          "title": "“中二病・厨二病”キャラといえば？ 3位「銀魂」高杉晋助 、2位「中二病でも恋がしたい！」小鳥遊六花 、1位は… ＜26年版＞",
+          "link": "https://animeanime.jp/article/2026/11/25/105062.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-25T03:05:02.000Z",
+          "image": "https://animeanime.jp/imgs/ogp_f/959388.jpg"
+        },
+        {
+          "title": "Live-Action 2027 Kaiji Film Unveils Full Trailer, Poster, More Cast",
+          "link": "https://www.animenewsnetwork.com/news/2026-11-24/live-action-2027-kaiji-film-unveils-full-trailer-poster-more-cast/.244168",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-25T01:25:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "「ドブカス」やキュアアルカナ・シャドウ、2026年の「ネット流行語100」ノミネート！ アニメ関連も多くある100単語が公開",
+          "link": "https://animeanime.jp/article/2026/11/25/105061.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-25T03:00:08.000Z",
+          "image": ""
+        },
+        {
+          "title": "'Haru to Gen ~70-sai, Hajimete Kosodate~' Anime's Teaser Reveals More Cast, Ending Song",
+          "link": "https://www.animenewsnetwork.com/news/2026-11-24/haru-to-gen-~70-sai-hajimete-kosodate~-anime-teaser-reveals-more-cast-ending-song/.244149",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-25T03:12:53.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611241800-yh-015.jpg"
+    },
+    {
+      "key": "manga",
+      "label": "漫画",
+      "en": "MANGA",
+      "items": [
+        {
+          "title": "＜結果発表＞comicスピラ主催 第２回「NEXT漫画賞」受賞作品決定！",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05dUNxWWNHcTd4aUFYN1UyRm4yUkNaMWlyc19yQWV3SExoZDhNOUpFS2taSlpsZk5tV2hvaHJmNWJVMVJFU0pfVDdja3o0N2l1N3JrZXdxcGVoVTVBNF9ORjZ0LWNtU0tRcFlv?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-25T02:16:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Manga Creator Tsukasa Sei Dies",
+          "link": "https://www.animenewsnetwork.com/news/2026-11-23/manga-creator-tsukasa-sei-dies/.244102",
+          "source": "Anime News Network",
+          "sourceId": "ann",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-24T01:34:14.000Z",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/cms/news.10/244102/mukashiwayokatta.jpg"
+        },
+        {
+          "title": "「第4回マンガノ大賞」11月24日より募集開始 11編集部が合同審査する国内最大級のマンガ賞",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5eGc5bHdYcTFDTXhMb1A2S3dzNkk2Sm1aZ01QcTJrMDRRZGN0SVVHV2tyUDlPZXRIZnVFYk10WTJwU1BQWkdiZXdqUHFwWmFxanViSlhfNFZ4Wkg5VmJ1VNIBZkFVX3lxTFB6LWF4LUpTUG1kc1ljSUNIT2xEazdtSzhodS14T0QwOEZpQkxQbnlrZ0pNdmFGeFVnZWxCRmJZU19YMkYtdE1FWFBpQ3dUekVNb0gwV2FNSEpCQUFHZ2VWYUYyclROdw?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-25T03:53:49.000Z",
+          "image": ""
+        },
+        {
+          "title": "「亡くなったら…」奈良の集落を取材→村人総出の〈土葬の風習〉が衝撃だった【マンガ】",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xN183SXdqd1g5ckpRU3V5SXYxSkdHd1p5blR1akMtTDQ1Z0dsYlRzWW1fbTNQYkVjQ3E0aTBIM1Q5enFjRmpZWWZzZ1c?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-24T11:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "「ちいかわベーカリー」期間限定ショップが名古屋に初登場、店舗限定のちいかわ食パンも",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05RnRVVlh2Qlp1dkRUaFJubXM4S0pEZ2dCRHlBMjBEUS1oQTJMbW1ad0VlTFh1SWR3SnVzTFNScktDYmlSSjVUcVVmLVE?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-24T05:33:00.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/cms/news.10/244102/mukashiwayokatta.jpg"
+    },
+    {
+      "key": "movie",
+      "label": "电影",
+      "en": "MOVIES",
+      "items": [
+        {
+          "title": "アン・ボヒョン＆イ・ソンミン＆スヒョンら豪華キャストが共演！Prime Originalドラマ『神の宝珠』 2026年12月6日（日）より Prime Video にて独占配信決定！",
+          "link": "https://www.cinemacafe.net/article/2026/11/24/114376.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-24T09:43:12.000Z",
+          "image": "https://www.cinemacafe.net/imgs/ogp_f/849171.png"
+        },
+        {
+          "title": "『シグナル』続編がついに始動！初ティーザー＆ポスター解禁するも主要キャスト陣の登場はなし…",
+          "link": "https://www.cinemacafe.net/article/2026/11/24/114379.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-24T10:13:11.000Z",
+          "image": ""
+        },
+        {
+          "title": "Indonesia-France Film Lab Unveils Six Projects as Paris Readies First Southeast Asia Co-Production Forum (EXCLUSIVE)",
+          "link": "https://variety.com/2026/film/markets-festivals/indonesia-france-film-lab-projects-paris-forum-1236957588/",
+          "source": "Variety",
+          "sourceId": "variety",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-25T03:00:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/My-Tears-JAFF-project.jpg"
+        },
+        {
+          "title": "Philip Rosenberg, Oscar-Winning Production Designer for ‘All That Jazz,’ Dies at 91",
+          "link": "https://variety.com/2026/film/news/philip-rosenberg-dead-all-that-jazz-1236957540/",
+          "source": "Variety",
+          "sourceId": "variety",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-25T00:50:47.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-106662355-e1795564014741.jpg"
+        },
+        {
+          "title": "「ALPHA DRIVE ONE」日本初冠番組、12月7日よりABEMAで独占無料配信",
+          "link": "https://www.cinemacafe.net/article/2026/11/25/114393.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-25T04:00:03.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://www.cinemacafe.net/imgs/ogp_f/849171.png"
+    },
+    {
+      "key": "music",
+      "label": "音乐",
+      "en": "MUSIC",
+      "items": [
+        {
+          "title": "劇場アニメーション最新作『魔法使いの夜』第3弾キービジュアル解禁！サウンドトラックのジャケット・発売告知CMも到着！",
+          "link": "https://www.lisani.jp/0000322806/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-24T04:00:38.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611231800-yh-020.jpg"
+        },
+        {
+          "title": "桑田佳祐、『2026FNS歌謡祭』5年ぶり出演 最新曲「神々の襷(たすき)」はオリコン歴代最年長1位獲得",
+          "link": "https://realsound.jp/2026/11/post-2593771.html",
+          "source": "Real Sound 音楽",
+          "sourceId": "realsound-music",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-25T02:15:36.000Z",
+          "image": ""
+        },
+        {
+          "title": "ののちゃん、新曲「貯金箱みたいな♡ソング」配信リリース TVアニメ『ハルとゲン』ED主題歌に",
+          "link": "https://realsound.jp/2026/11/post-2594115.html",
+          "source": "Real Sound 音楽",
+          "sourceId": "realsound-music",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-25T05:06:50.000Z",
+          "image": "https://realsound.jp/wp-content/uploads/2026/11/20261125-nonochan-99.jpg"
+        },
+        {
+          "title": "Matthew Capper, Late Music Publishing Exec, Honored With New Award",
+          "link": "https://www.billboard.com/pro/matthew-capper-honored-annual-award/",
+          "source": "Billboard",
+          "sourceId": "billboard-us",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-25T03:42:50.000Z",
+          "image": ""
+        },
+        {
+          "title": "Dolly Parton Estate Reveals Creative Team That Will ‘Preserve and Carry Forward’ Her Legacy",
+          "link": "https://www.billboard.com/pro/dolly-parton-estate-creative-team-star-legacy/",
+          "source": "Billboard",
+          "sourceId": "billboard-us",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-25T00:30:06.000Z",
+          "image": "https://www.billboard.com/wp-content/uploads/2026/10/Dolly-Parton-Glastonbury-Getty-Images.jpg?w=237&h=147&crop=1"
+        }
+      ],
+      "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611231800-yh-020.jpg"
+    }
+  ],
+  "birthdays": [
+    {
+      "name": "シャーロット・カタクリ",
+      "work": "ONE PIECE",
+      "favourites": 2589
+    },
+    {
+      "name": "サイ",
+      "work": "NARUTO -ナルト- 疾風伝",
+      "favourites": 1064
+    },
+    {
+      "name": "桐生紫乃",
+      "work": "カノジョも彼女",
+      "favourites": 1055
+    }
+  ],
+  "stats": {
+    "sources": 37,
+    "sourcesOk": 31,
+    "fetched": 1644,
+    "accepted": 944,
+    "filtered": 700,
+    "heroImages": 5
+  }
+}
