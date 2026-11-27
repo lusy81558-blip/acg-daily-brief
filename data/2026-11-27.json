@@ -1,0 +1,322 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T04:43:21.533Z",
+  "timezone": "Asia/Shanghai",
+  "sections": [
+    {
+      "key": "game",
+      "label": "游戏",
+      "en": "GAMES",
+      "items": [
+        {
+          "title": "星々を結ぶ空港を舞台にした放置ゲーム「Baggage Belt」，12月3日にSteamで発売決定。動物のスタッフたちを雇って，空港を大きくしていこう",
+          "link": "https://www.4gamer.net/games/062/G106200/20261127008/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-27T04:24:34.000Z",
+          "image": "https://www.4gamer.net/games/062/G106200/20261127008/SS/002.jpg"
+        },
+        {
+          "title": "インディーゲーム開発者が直面する「デバンキング問題」。IGDA日本が実態調査を開始，情報提供を呼びかける。12月21日にはオンラインセッションも開催",
+          "link": "https://www.4gamer.net/games/991/G999101/20261127016/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-27T04:36:11.000Z",
+          "image": ""
+        },
+        {
+          "title": "ドラマ『孤独のグルメ』大晦日スペシャルが12月31日22時より放送決定。10年連続となる今年は、初登場「佐賀」＆グルメ天国「タイ」が舞台に",
+          "link": "https://news.denfaminicogamer.jp/news/2611263l",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-26T14:52:48.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/a44e72ac6fab726d19bdd0324d0927043a48bfd4_xlarge-1024x682.jpg"
+        },
+        {
+          "title": "「ゼノブレイド3 Nintendo Switch 2 Edition」，新要素の紹介映像が公開に。新モード「ヒーローズ・レコード」と新ヒーロー「カグヤ」が登場",
+          "link": "https://www.4gamer.net/games/015/G101581/20261126012/",
+          "source": "4Gamer.net",
+          "sourceId": "4gamer",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-26T03:22:02.000Z",
+          "image": ""
+        },
+        {
+          "title": "Fate/EXTRA Record characters trailer – Gatou Faction",
+          "link": "https://www.gematsu.com/2026/11/fate-extra-record-characters-trailer-gatou-faction",
+          "source": "Gematsu",
+          "sourceId": "gematsu",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-26T11:05:53.000Z",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Fate-Extra-Record-PV_11-26-26.jpg"
+        }
+      ],
+      "image": "https://www.4gamer.net/games/062/G106200/20261127008/SS/002.jpg"
+    },
+    {
+      "key": "anime",
+      "label": "动画",
+      "en": "ANIME",
+      "items": [
+        {
+          "title": "TVアニメ『尚善』、最新PVおよびキービジュアルを解禁！川口莉奈、神谷浩史、佐久間大介、悠木碧が参加する先行上映イベント開催決定！",
+          "link": "https://www.lisani.jp/0000323020/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-27T04:00:43.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611261800-yh-016.png"
+        },
+        {
+          "title": "2026年秋アニメED主題歌、どの曲が好き？ 3位「生徒会にも穴はある！」ナナヲアカリ、2位「魔法少女育成計画restart」Daisy×Daisy、1位は…",
+          "link": "https://animeanime.jp/article/2026/11/27/105114.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-27T03:05:02.000Z",
+          "image": "https://animeanime.jp/imgs/ogp_f/959184.jpg"
+        },
+        {
+          "title": "BLマンガ「25時、赤坂で」2027年にTVアニメ化！ メインキャストはドラマCDに引き続き斉藤壮馬＆佐藤拓也に決定",
+          "link": "https://animeanime.jp/article/2026/11/26/105099.html",
+          "source": "アニメ！アニメ！",
+          "sourceId": "animeanime",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-26T06:00:04.000Z",
+          "image": ""
+        },
+        {
+          "title": "吉本ばなな×奈良美智の原作小説、湯浅政明がアニメ化『ひな菊の人生』主人公・ひな菊たちの姿が明らかに 2027年公開",
+          "link": "https://www.cinemacafe.net/article/2026/11/27/114462.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-27T03:00:03.000Z",
+          "image": ""
+        },
+        {
+          "title": "『異世界喰滅のサメ』TVアニメ化決定！特報映像や新ビジュアルが公開。異世界ファンタジー×サメ映画を掛け合わせた作品",
+          "link": "https://news.denfaminicogamer.jp/news/2611273f",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-26T15:00:57.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/814TTHWmzUS._SL1500_-720x1024.png"
+        }
+      ],
+      "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611261800-yh-016.png"
+    },
+    {
+      "key": "manga",
+      "label": "漫画",
+      "en": "MANGA",
+      "items": [
+        {
+          "title": "「1年A組のモンスター」新クラス描く短期連載がREXで、自見を再び問題が襲う",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Oc1dIak5fXzl2NGJvQ0p1R1l4SmY2S3hDY0JydXkxcms4MWp0cXZVWThqNTVWZndsOWp2V2ZCenR3Rk1LcVk5MHFlbDE?oc=5",
+          "source": "Google News コミックナタリー",
+          "sourceId": "gnews-natalie-comic",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-27T03:26:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "【漫画】まじかよ… 女子トイレの個室から「謎のおっさん」登場 あまりの”態度”に「怖っ」「嫌すぎる」",
+          "link": "https://magmix.jp/post/387323",
+          "source": "マグミクス",
+          "sourceId": "magmix",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-27T02:50:00.000Z",
+          "image": "https://magmix.jp/wp-content/uploads/2027/11/260901_mystery_00.jpg"
+        },
+        {
+          "title": "『漫画版 都会のトム＆ソーヤ』が「ビブリオシリウス」で連載開始！",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2WTNTbWpPU3dERE5VQWdxUzA1dVVJZTdUTHlQeFN3MUxJQzBKbllfa0VfSWktWWpXUVF6OUlpekctTFZTVHZ5NHBoWkxWVVNDdHk5TzJmNjhMcHB6T0VjV002LUVfN3p4Z1p6b1ZzZk1ZQQ?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-27T03:30:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "画像1 / 462＞【漫画】新たな問題児の派遣さん登場！4歳児の母が来る『天然非常識、無垢さん』／著：ゆき蔵",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14LWExQ19OYkVkNkxxeUYwcmxRdlBCbDRLNnpKNU9vSFVUWS1OeEFDM3c0U2VUR3piTEdXNS1ySUdValFPcWNUNF80NnV3aG16SGJSTFpUa0U4QUd1dVZjVGhOZ0NRSlZyT1N5bEln?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-26T18:01:34.000Z",
+          "image": ""
+        },
+        {
+          "title": "「ニコニコ動画」全面協力！？ 『ハイスコアガール』押切蓮介も熱援の漫画『ニコ動見てただけなのに』連載開始",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHM2N0MDVQRHBXT21YRjljVWk1SEtCeUw3Mjh6SnpKajl2MmFfbkRLdkMyYTR1Z2FrSng4Z3J2YVpUV1l4MFBQVWxUcUk2eE54OEFRdTFES2s2QU1nQ1dtTdIBZkFVX3lxTE9NTVRLOTYwQ1QzaDJNZTRJRXo5VFotY0t0Szktd0FtZnR6TE9zRnljbnIwNGYzWms3VkJfTm0tZkdBQXpxY3dQUTEyeTlwbG1nZm1RLWNramkxSnRFdjJ2OGEyaDVjQQ?oc=5",
+          "source": "Google News 漫画",
+          "sourceId": "gnews-manga",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-27T02:00:20.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://magmix.jp/wp-content/uploads/2027/11/260901_mystery_00.jpg"
+    },
+    {
+      "key": "movie",
+      "label": "电影",
+      "en": "MOVIES",
+      "items": [
+        {
+          "title": "ウォルター・サレス監督『セントラル・ステーション』4Kリマスター版、2027年2月12日公開",
+          "link": "https://realsound.jp/movie/2026/11/post-2596276.html",
+          "source": "Real Sound 映画部",
+          "sourceId": "realsound-movie",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-27T01:00:16.000Z",
+          "image": "https://realsound.jp/wp-content/uploads/2026/11/20261126-central-01.jpg"
+        },
+        {
+          "title": "Gerald R. Molen, Oscar-Winning ‘Schindler’s List’ Producer, Dies at 91",
+          "link": "https://variety.com/2026/film/news/gerald-r-molen-dead-schindlers-list-producer-1236959200/",
+          "source": "Variety",
+          "sourceId": "variety",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-26T23:33:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/MixCollage-26-Nov-2026-03-17-PM-5253.jpg"
+        },
+        {
+          "title": "沢村玲＆鬼倉龍大W主演で「そんなに言うなら抱いてやる」ドラマ化！“バックハグ”ビジュアル解禁",
+          "link": "https://www.cinemacafe.net/article/2026/11/27/114451.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-26T22:00:03.000Z",
+          "image": ""
+        },
+        {
+          "title": "全米No.1ヒット『ハンガー・ゲーム：サンライズ・オブ・リーピング』2027年初夏日本公開",
+          "link": "https://realsound.jp/movie/2026/11/post-2596681.html",
+          "source": "Real Sound 映画部",
+          "sourceId": "realsound-movie",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-27T03:00:45.000Z",
+          "image": ""
+        },
+        {
+          "title": "ソ・イェジ、デビュー初の日本単独ファンミーティング開催決定！純白スーツ＆花束の清楚なビジュアル公開",
+          "link": "https://www.cinemacafe.net/article/2026/11/26/114446.html",
+          "source": "シネマカフェ",
+          "sourceId": "cinemacafe",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-26T09:43:14.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://realsound.jp/wp-content/uploads/2026/11/20261126-central-01.jpg"
+    },
+    {
+      "key": "music",
+      "label": "音乐",
+      "en": "MUSIC",
+      "items": [
+        {
+          "title": "『センチメンタルグラフティリメイク』2027年3月25日に発売決定！主題歌「Melty Love」（SHAZNA）が流れるOPムービーも公開",
+          "link": "https://news.denfaminicogamer.jp/news/2611262i",
+          "source": "電ファミニコゲーマー",
+          "sourceId": "denfami",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-26T09:00:57.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HLeZ4bkaAAEg63P-1024x579.jpg"
+        },
+        {
+          "title": "Michael Giles, King Crimson Co-Founder and Original Drummer, Dies at 84",
+          "link": "https://www.billboard.com/music/music-news/king-crimson-michael-giles-death-obituary-1236390176/",
+          "source": "Billboard",
+          "sourceId": "billboard-us",
+          "lang": "en",
+          "kind": "news",
+          "date": "2026-11-26T18:52:35.000Z",
+          "image": "https://www.billboard.com/wp-content/uploads/2026/08/dolly-parton-1974-billboard-1800.jpg?w=237&h=147&crop=1"
+        },
+        {
+          "title": "一青窈、日本クラウンへ移籍を発表 デビュー25周年イヤーに新曲「こちらこそ」リリース",
+          "link": "https://realsound.jp/2026/11/post-2596843.html",
+          "source": "Real Sound 音楽",
+          "sourceId": "realsound-music",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-27T03:10:33.000Z",
+          "image": "https://realsound.jp/wp-content/uploads/2026/11/20261127-hitotoyou-99.jpg"
+        },
+        {
+          "title": "Official髭男dism、12月1日リリースの新曲「エバーグリーン」が、ポケモン30周年「ポケモンとつづく」Pokémon Special Music Video楽曲に決定！",
+          "link": "https://www.lisani.jp/0000323013/",
+          "source": "リスアニ！",
+          "sourceId": "lisani",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-26T23:00:49.000Z",
+          "image": "https://www.lisani.jp/admin/wp-content/uploads/2026/11/2611261800-yh-014.jpg"
+        },
+        {
+          "title": "ホロライブ「博衣こより」主演・監修ADV『コヨリニウム』2027年3月25日発売決定！限定版にはドラマCDやタペストリーなど収録",
+          "link": "https://www.inside-games.jp/article/2026/11/26/191600.html",
+          "source": "INSIDE",
+          "sourceId": "inside",
+          "lang": "ja",
+          "kind": "news",
+          "date": "2026-11-26T09:00:03.000Z",
+          "image": ""
+        }
+      ],
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HLeZ4bkaAAEg63P-1024x579.jpg"
+    }
+  ],
+  "birthdays": [
+    {
+      "name": "平沢唯",
+      "work": "けいおん!",
+      "favourites": 6259
+    },
+    {
+      "name": "ロック・リー",
+      "work": "NARUTO -ナルト-",
+      "favourites": 5192
+    },
+    {
+      "name": "須和弘人",
+      "work": "orange",
+      "favourites": 1692
+    }
+  ],
+  "stats": {
+    "sources": 37,
+    "sourcesOk": 29,
+    "fetched": 1422,
+    "accepted": 873,
+    "filtered": 549,
+    "heroImages": 5
+  }
+}
